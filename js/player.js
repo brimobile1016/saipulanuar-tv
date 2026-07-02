@@ -10,7 +10,7 @@ export class IptvPlayer {
       controls: true,
       crossOrigin: 'anonymous',
       html5: {
-        vhs: { overrideNative: false },
+        vhs: { overrideNative: true },
         nativeAudioTracks: false,
         nativeVideoTracks: false
       }
@@ -102,3 +102,12 @@ export class IptvPlayer {
     }
   }
 }
+
+IptvPlayer.prototype.detectEngine=function(url){
+ const u=(url||'').toLowerCase();
+ if(u.includes('.m3u8')) return 'hls';
+ if(u.includes('.mpd')) return 'dash';
+ if(u.includes('.flv')) return 'flv';
+ if(u.includes('.mp3')||u.includes('.aac')) return 'audio';
+ return 'html5';
+};

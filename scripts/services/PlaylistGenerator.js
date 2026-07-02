@@ -11,7 +11,7 @@ export class PlaylistGenerator {
              (s.httpStatusCode||200)>=200 &&
              (s.httpStatusCode||200)<300 &&
              !String(s.contentType||'').toLowerCase().includes('dead') &&
-             !String(s.contentType||'').toLowerCase().includes('html');
+             !(String(s.reason||s.contentType||'').toLowerCase().includes('html error'));
     });
     this._buildPlaylistOutputs(`${this.publicDir}/live`, liveChannels);
     
