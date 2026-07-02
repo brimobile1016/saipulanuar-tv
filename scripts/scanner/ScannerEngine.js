@@ -66,7 +66,7 @@ export class ScannerEngine {
 
     try {
       const response = await fetch(url, {
-        method: 'HEAD',
+        method: 'GET',
         signal: controller.signal,
         redirect: 'follow',
         headers: { 
@@ -96,14 +96,25 @@ export class ScannerEngine {
         return this._buildScanObject('DEAD', response.status, latency, 'DEAD: Empty Content-Length', url);
       }
 
-      if (contentType.includes('text/html') || contentType.includes('application/xhtml+xml')) {
-        const html= await response.text().catch(()=>"");
-        if(/bad request|forbidden|access denied|not found|cloudflare|varnish|akamai|expired|login/i.test(html)){ clearTimeout(timeoutId); return this._buildScanObject('DEAD', response.status, latency,'HTML Error Page', finalUrl);} 
-        clearTimeout(timeoutId);
-        return this._buildScanObject('DEAD', response.status, latency, 'DEAD: Konten Berupa HTML Web Page', url);
+      if (contentType.includes('text/html') || contentType.includes('text/plain') || contentType.includes('application/xhtml+xml') || contentType.includes('application/json') || contentType.includes('application/xml')) {
+        const body = await response.text().catch(()=> "");
+        if(/bad request|forbidden|access denied|not found|cloudflare|varnish|akamai|expired|login/i.test(body)){
+          clearTimeout(timeoutId);
+          return this._buildScanObject('DEAD', response.status, latency,'HTML Error Page', finalUrl);
+        }
+        const m = body.match(/https?:\/\/[^\s"'<>]+/i);
+        if(m){
+          clearTimeout(timeoutId);
+          return await this._scanChannelWithRetry(m[0]);
+        }
+        if(body.includes('#EXTM3U')){
+          clearTimeout(timeoutId);
+          return this._buildScanObject('LIVE', response.status, latency,'Playlist', finalUrl);
+        }
       }
 
-      const reader = response.body.getReader();
+      const reader = response.body?.getReader();
+      if(!reader){ return this._buildScanObject('DEAD', response.status, latency, 'No Response Body', finalUrl);} 
       const { value: chunk } = await reader.read();
       reader.cancel();
       clearTimeout(timeoutId);
