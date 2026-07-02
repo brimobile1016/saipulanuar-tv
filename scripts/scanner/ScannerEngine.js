@@ -66,9 +66,9 @@ export class ScannerEngine {
 
     try {
       const response = await fetch(url, {
-        method: 'GET',
+        method: 'HEAD',
         signal: controller.signal,
-        redirect: 'manual',
+        redirect: 'follow',
         headers: { 
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
           'Accept': '*/*'
@@ -82,7 +82,8 @@ export class ScannerEngine {
         return this._buildScanObject('DEAD', response.status, latency, `HTTP ${response.status} Error`, url);
       }
 
-      const finalUrl = response.url.toLowerCase();
+      const finalUrl = (response.url || url).toLowerCase();
+      if([400,401,403,404,405,408,410,429,451,500,501,502,503,504,520,521,522,523,524].includes(response.status)){ clearTimeout(timeoutId); return this._buildScanObject('DEAD', response.status, latency, `HTTP ${response.status}`, finalUrl);} 
       if (finalUrl.includes('/login') || finalUrl.includes('/expired') || finalUrl.includes('/block') || finalUrl.includes('/portal')) {
         clearTimeout(timeoutId);
         return this._buildScanObject('DEAD', response.status, latency, 'DEAD: Terdeteksi Pengalihan Login/Portal', url);
@@ -96,6 +97,8 @@ export class ScannerEngine {
       }
 
       if (contentType.includes('text/html') || contentType.includes('application/xhtml+xml')) {
+        const html= await response.text().catch(()=>"");
+        if(/bad request|forbidden|access denied|not found|cloudflare|varnish|akamai|expired|login/i.test(html)){ clearTimeout(timeoutId); return this._buildScanObject('DEAD', response.status, latency,'HTML Error Page', finalUrl);} 
         clearTimeout(timeoutId);
         return this._buildScanObject('DEAD', response.status, latency, 'DEAD: Konten Berupa HTML Web Page', url);
       }

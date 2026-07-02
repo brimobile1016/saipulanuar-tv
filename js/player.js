@@ -10,7 +10,7 @@ export class IptvPlayer {
       controls: true,
       crossOrigin: 'anonymous',
       html5: {
-        vhs: { overrideNative: true },
+        vhs: { overrideNative: false },
         nativeAudioTracks: false,
         nativeVideoTracks: false
       }
@@ -35,7 +35,7 @@ export class IptvPlayer {
     document.getElementById('currentPlayerTitle').textContent = name;
     document.getElementById('currentPlayerUrl').textContent = url;
     const status = document.getElementById('playerChannelStatus');
-    status.textContent = "ROUTING ENGINE..."; status.className = "badge";
+    status.textContent = "DETECTING STREAM..."; status.className = "badge";
 
     this.cleanUpActiveEngines();
     const srcLower = url.toLowerCase();

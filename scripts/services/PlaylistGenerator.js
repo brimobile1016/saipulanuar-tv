@@ -5,7 +5,14 @@ export class PlaylistGenerator {
     this.publicDir = publicDir;
   }
   flushRealtimePlaylists(currentResults) {
-    const liveChannels = currentResults.filter(r => r.scan.status === 'LIVE');
+    const liveChannels = currentResults.filter(r => {
+      const s=r.scan||{};
+      return s.status==='LIVE' &&
+             (s.httpStatusCode||200)>=200 &&
+             (s.httpStatusCode||200)<300 &&
+             !String(s.contentType||'').toLowerCase().includes('dead') &&
+             !String(s.contentType||'').toLowerCase().includes('html');
+    });
     this._buildPlaylistOutputs(`${this.publicDir}/live`, liveChannels);
     
     const playlistGroups = this._groupBy(liveChannels, 'sourcePlaylist');

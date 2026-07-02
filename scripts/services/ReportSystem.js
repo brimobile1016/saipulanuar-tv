@@ -27,7 +27,7 @@ export class ReportSystem {
     FileHandler.writeJson(`${this.reportsDir}/last-check.json`, { lastScan: reportData.lastScan, uptime: reportData.uptime });
     
     FileHandler.writeText(`${this.reportsDir}/live.txt`, liveChannels.map(c => c.url).join('\n'));
-    FileHandler.writeText(`${this.reportsDir}/dead.txt`, deadChannels.map(c => `[${c.scan.contentType}] ${c.url}`).join('\n'));
+    FileHandler.writeText(`${this.reportsDir}/dead.txt`, deadChannels.map(c => `[${c.scan.httpStatusCode}] ${c.scan.contentType} => ${c.url}`).join('\n'));
     return reportData;
   }
   appendFinalHistory(finalReport) {
