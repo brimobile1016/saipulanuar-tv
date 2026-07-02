@@ -1,0 +1,39 @@
+name: IPTV Stream Scanner Automation
+
+on:
+  schedule:
+    - cron: '30 8 * * *'
+    - cron: '30 14 * * *'
+    - cron: '30 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan-and-update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+    - name: Setup Node.js Environment
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    - name: Install Dependencies
+      run: npm install
+    - name: Run IPTV Scanner Engine
+      run: npm start
+    - name: Check and Deploy Artifacts (Auto Commit & Push)
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add public/ reports/
+        if git diff --cached --quiet; then
+          echo "No modifications detected. Skipping deployment."
+        else
+          git commit -m "chore(automation): dynamic iptv channels update [skip ci]"
+          git push origin main
+        fi

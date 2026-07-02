@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="" tvg-logo="https://i.ibb.co.com/HTSBssKm/GIF-Image1766432269442.gif" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN Sports ID 3
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="" tvg-logo="https://i.ibb.co.com/r2nzntmy/GIF-Image1766431721168.gif" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN Sports ID 2
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-id="beINSports1" tvg-name="" tvg-logo="https://i.ibb.co.com/xcByYPT/GIF-Image1766430955196.gif" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN Sports ID 1
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd

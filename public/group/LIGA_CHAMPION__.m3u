@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beinSports1indonesia.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004" tvg-country="" tvg-language="" group-title="LIGA CHAMPION🏆",beIN Sports Indonesia 1
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-id="beinSports3indonesia.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004" tvg-country="" tvg-language="" group-title="LIGA CHAMPION🏆",beIN Sports Indonesia 3
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-id="beinSports3indonesia.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004" tvg-country="" tvg-language="" group-title="LIGA CHAMPION🏆",beIN Sports Indonesia 2
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd

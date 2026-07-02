@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",beIN SPORTS
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",beIN SPORTS 2
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-l.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Sportstars 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",DIGI SPORT 1 Alt
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2523/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-l.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",beIN SPORTS 5
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",beIN SPORTS 4
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",beIN SPORTS 3
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1-620x396.jpg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",HBO Boxing
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+#EXTINF:-1 tvg-id="tnt5uk50" tvg-name="TNT" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2250/887144-854918/a4df4ef049b119253c9833bea8ed6515.jpg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",CBS Sports
+https://a151aivottlinear-a.akamaihd.net/OTTB/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy tv" tvg-logo="" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Cowboy tv
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2 HD.sk" tvg-name="" tvg-logo="https://i.ibb.co.com/v4pkr0Z/arenasp2sk.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Arena Sport 2 SK
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-name="" tvg-logo="https://i.ibb.co.com/h2bcqhS/arenasp1sk.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Arena Sport 1 SK
+https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",SportDigital
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/411539.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Sport Digital Fussball
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd

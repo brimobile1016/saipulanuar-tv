@@ -1,0 +1,15 @@
+{
+  "name": "iptv-player-automation",
+  "version": "1.2.0",
+  "description": "Enterprise Multi-Engine IPTV Control Center - DASH Fixed",
+  "type": "module",
+  "main": "scripts/index.js",
+  "scripts": {
+    "start": "node scripts/index.js",
+    "scan": "node scripts/index.js",
+    "serve": "sirv . --port 3000 --cors --dev"
+  },
+  "dependencies": {
+    "sirv-cli": "^3.0.0"
+  }
+}

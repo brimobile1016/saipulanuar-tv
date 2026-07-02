@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/FtSr5Mb.jpg" tvg-country="" tvg-language="" group-title="EVENT 014/MARET/2026",22:00 WIB Sunderland vs Brighton & Hove Albion
+https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" tvg-country="" tvg-language="" group-title="EVENT 014/MARET/2026",21:30 WIB Eintracht Frankfurt vs Heidenheim
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" tvg-country="" tvg-language="" group-title="EVENT 014/MARET/2026",21:30 WIB Bayer Leverkusen vs Bayern München
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/FDOiPI4.jpg" tvg-country="" tvg-language="" group-title="EVENT 014/MARET/2026",23:00 WIB Lorient vs Lens
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd

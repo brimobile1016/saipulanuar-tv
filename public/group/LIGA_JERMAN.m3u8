@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sportstars4" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/LSct2v4.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="LIGA JERMAN",Sportstars 4 HD
+http://cdn.nng.cloudns.us/live/m3u8/sprt/3b5901d4c8158d3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3YgKhAMGlkn_9DFUR74KdIPl4oi-qpXTaiLrOa_630grs2jqRjkRd9BI&s=10" tvg-country="" tvg-language="" group-title="LIGA JERMAN",BUNDESLIGA 2
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd

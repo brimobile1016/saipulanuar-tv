@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-07-02T14:30:12.950Z",
+    "totalChannel": 1021,
+    "totalLive": 330,
+    "totalDead": 691,
+    "uptime": "32.32%"
+  },
+  {
+    "timestamp": "2026-07-02T14:53:33.574Z",
+    "totalChannel": 1021,
+    "totalLive": 339,
+    "totalDead": 682,
+    "uptime": "33.20%"
+  },
+  {
+    "timestamp": "2026-07-02T14:59:03.508Z",
+    "totalChannel": 1021,
+    "totalLive": 409,
+    "totalDead": 612,
+    "uptime": "40.06%"
+  },
+  {
+    "timestamp": "2026-07-02T15:04:36.387Z",
+    "totalChannel": 1021,
+    "totalLive": 413,
+    "totalDead": 608,
+    "uptime": "40.45%"
+  },
+  {
+    "timestamp": "2026-07-02T15:13:12.369Z",
+    "totalChannel": 1021,
+    "totalLive": 414,
+    "totalDead": 607,
+    "uptime": "40.55%"
+  },
+  {
+    "timestamp": "2026-07-02T15:33:18.020Z",
+    "totalChannel": 1021,
+    "totalLive": 358,
+    "totalDead": 663,
+    "uptime": "35.06%"
+  }
+]

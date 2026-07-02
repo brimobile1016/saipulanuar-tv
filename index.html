@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enterprise Multi-Engine IPTV Control Center</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dashjs/4.7.4/dash.all.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/videojs-contrib-dash@5.1.1/dist/videojs-contrib-dash.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mpegts.js@1.7.3/dist/mpegts.min.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-container">
+      <h1>IPTV <span>Control Center Realtime</span></h1>
+      <div class="theme-toggle">
+        <label class="switch"><input type="checkbox" id="darkModeCheckbox" checked><span class="slider round"></span></label>
+        <span class="theme-label">Dark Mode</span>
+      </div>
+    </div>
+  </header>
+  <main class="app-container">
+    <section class="metrics-grid">
+      <div class="card metric-card"><h3>Total Playlists</h3><p id="txtTotalPlaylist">-</p></div>
+      <div class="card metric-card"><h3>Processed Channels</h3><p id="txtTotalChannel">-</p></div>
+      <div class="card metric-card live"><h3>Live Channels</h3><p id="txtTotalLive">-</p></div>
+      <div class="card metric-card dead"><h3>Dead Channels</h3><p id="txtTotalDead">-</p></div>
+      <div class="card metric-card highlight"><h3>Uptime Rate</h3><p id="txtUptime">-</p></div>
+    </section>
+    <section class="workspace-grid">
+      <div class="card player-wrapper">
+        <div class="card-header"><h2>Multi-Engine Engine Router</h2><span class="badge" id="playerChannelStatus">No Feed</span></div>
+        <div class="video-container">
+          <video id="universalIptvVideo" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="640" height="360"></video>
+        </div>
+        <div class="player-meta"><h4 id="currentPlayerTitle">Select a channel</h4><p id="currentPlayerUrl">-</p></div>
+      </div>
+      <div class="card controls-wrapper">
+        <div class="card-header"><h2>Channel Navigation <button id="btnRefresh" style="float:right; padding:2px 8px; cursor:pointer; font-size:11px;">🔄 Refresh Stream Data</button></h2></div>
+        <div class="filter-group">
+          <input type="text" id="inputSearch" placeholder="Search...">
+          <select id="selectPlaylist"><option value="">All Playlists</option></select>
+          <select id="selectGroup"><option value="">All Groups</option></select>
+        </div>
+        <div class="channel-list-container">
+          <div id="loadingState" class="loading-state">Loading data...</div>
+          <ul id="channelListRender" class="channel-list"></ul>
+        </div>
+      </div>
+    </section>
+    <section class="card history-wrapper">
+      <div class="card-header"><h2>Scanner Integrity History</h2><span id="txtLastScan">Last Scan: -</span></div>
+      <div class="table-responsive">
+        <table class="data-table">
+          <thead><tr><th>Timestamp</th><th>Monitored</th><th>Live</th><th>Dead</th><th>Uptime</th></tr></thead>
+          <tbody id="historyTableBody"><tr><td colspan="5" style="text-align:center;">No records</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
