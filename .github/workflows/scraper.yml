@@ -1,6 +1,10 @@
 name: IPTV Stream Scanner Automation
 
 on:
+push:
+    branches:
+      - main
+
   schedule:
     - cron: '30 8 * * *'
     - cron: '30 14 * * *'
