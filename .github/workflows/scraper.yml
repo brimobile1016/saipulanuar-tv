@@ -22,7 +22,7 @@ permissions:
 
 concurrency:
   group: iptv-scanner
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   scan-and-build:
@@ -36,6 +36,12 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: true
+
+      - name: Sync Latest Repository
+        run: |
+          git fetch origin
+          git reset --hard origin/main
+          git clean -fd
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -54,7 +60,7 @@ jobs:
       - name: Run IPTV Scanner
         run: npm start
 
-      - name: Commit Reports
+      - name: Commit Generated Files
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -73,22 +79,30 @@ jobs:
           do
             echo "Push attempt $i"
 
+            if git push origin HEAD:main; then
+              echo "Push successful."
+              exit 0
+            fi
+
+            echo "Remote changed. Refreshing..."
+
             git fetch origin
+            git reset --hard origin/main
 
-            if git pull --rebase origin main; then
-              if git push origin HEAD:main; then
-                echo "Push successful."
-                break
-              fi
+            npm start
+
+            git add reports public
+
+            if git diff --cached --quiet; then
+              echo "Nothing changed after refresh."
+              exit 0
             fi
 
-            if [ "$i" -eq 3 ]; then
-              echo "Push failed after 3 attempts."
-              exit 1
-            fi
-
-            sleep 5
+            git commit --amend --no-edit
           done
+
+          echo "Push failed after 3 attempts."
+          exit 1
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
