@@ -1,0 +1,273 @@
+{
+  "totalPlaylist": 1,
+  "totalChannel": 1021,
+  "totalLive": 364,
+  "totalDead": 657,
+  "uptime": "35.65%",
+  "scanDuration": "59.8s",
+  "lastScan": "2026-07-02T18:05:02.441Z",
+  "playlistStatistics": {
+    "full": {
+      "total": 1021,
+      "live": 364,
+      "dead": 657
+    }
+  },
+  "channelStatistics": {
+    "EVENT 015/MARET/2026": {
+      "total": 11,
+      "live": 7,
+      "dead": 4
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
+    },
+    "BRI SUPER LEAGUE": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
+    },
+    "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
+      "total": 1,
+      "live": 1,
+      "dead": 0
+    },
+    "LIGA INGGRIS": {
+      "total": 25,
+      "live": 3,
+      "dead": 22
+    },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
+    },
+    "LIGA SPANYOL": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
+    },
+    "LIGA JERMAN": {
+      "total": 7,
+      "live": 2,
+      "dead": 5
+    },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
+    },
+    "INDONESIA TV": {
+      "total": 65,
+      "live": 28,
+      "dead": 37
+    },
+    "ARENA SPORT": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
+    "SKY SPORTS": {
+      "total": 11,
+      "live": 0,
+      "dead": 11
+    },
+    "ASTRO": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
+    },
+    "SPORTS": {
+      "total": 59,
+      "live": 36,
+      "dead": 23
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
+    "📺TV nya KLUB BOLA": {
+      "total": 7,
+      "live": 3,
+      "dead": 4
+    },
+    "Sports Visionplus": {
+      "total": 12,
+      "live": 2,
+      "dead": 10
+    },
+    "HIBURAN": {
+      "total": 51,
+      "live": 9,
+      "dead": 42
+    },
+    "KNOWLEDGE & DOCUMENTARY": {
+      "total": 42,
+      "live": 15,
+      "dead": 27
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
+    },
+    "TV SONY": {
+      "total": 7,
+      "live": 2,
+      "dead": 5
+    },
+    "🇮🇳 SPORTS | INDIA": {
+      "total": 43,
+      "live": 13,
+      "dead": 30
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 6,
+      "dead": 19
+    },
+    "SPORTS | DSTV SUPER": {
+      "total": 35,
+      "live": 0,
+      "dead": 35
+    },
+    "CHANNEL |  MOTOGP & F1": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
+    },
+    "SPORTS PREMIUM": {
+      "total": 78,
+      "live": 28,
+      "dead": 50
+    },
+    "MMA/UFC": {
+      "total": 15,
+      "live": 8,
+      "dead": 7
+    },
+    "Movies": {
+      "total": 34,
+      "live": 7,
+      "dead": 27
+    },
+    "HBO GO": {
+      "total": 10,
+      "live": 4,
+      "dead": 6
+    },
+    "Lifestyle": {
+      "total": 8,
+      "live": 3,
+      "dead": 5
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 6,
+      "dead": 2
+    },
+    "News": {
+      "total": 20,
+      "live": 13,
+      "dead": 7
+    },
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
+    },
+    "🇯🇵 TV JEPANG": {
+      "total": 16,
+      "live": 16,
+      "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 10,
+      "dead": 22
+    },
+    "🇸🇬 Singapore": {
+      "total": 24,
+      "live": 6,
+      "dead": 18
+    },
+    "🇵🇭 Philippines": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
+    },
+    "Ukhuwah Islamiyah": {
+      "total": 15,
+      "live": 12,
+      "dead": 3
+    },
+    "KIDS": {
+      "total": 35,
+      "live": 22,
+      "dead": 13
+    },
+    "MUSIC": {
+      "total": 67,
+      "live": 38,
+      "dead": 29
+    },
+    "TVRI DAERAH": {
+      "total": 30,
+      "live": 30,
+      "dead": 0
+    },
+    "LIVE FOOTBALL | XOILACZ AI": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
+    },
+    "🐓ADU AYAM | SABUNG AYAM": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
+    },
+    "UPCOMING": {
+      "total": 59,
+      "live": 0,
+      "dead": 59
+    },
+    "LIVE EVENT | AFC Women’s Asian Cup": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
+    }
+  }
+}
