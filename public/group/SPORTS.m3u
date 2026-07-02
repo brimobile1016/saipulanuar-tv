@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg" tvg-country="" tvg-language="" group-title="SPORTS",EUROSPORT 1 🇸🇰
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/ctsport.jpg" tvg-country="" tvg-language="" group-title="SPORTS",CT SPORT 🇸🇰
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg" tvg-country="" tvg-language="" group-title="SPORTS",EUROSPORT 2 🇸🇰
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg" tvg-country="" tvg-language="" group-title="SPORTS",EUROSPORT 1 🇸🇰
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/novasport1.jpg" tvg-country="" tvg-language="" group-title="SPORTS",NOVA SPORT 1 🇸🇰
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/novasport2.jpg" tvg-country="" tvg-language="" group-title="SPORTS",NOVA SPORT 2 🇸🇰
@@ -13,61 +13,61 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/sport2.jpg" tvg-country="" tvg-language="" group-title="SPORTS",SPORT 2 🇸🇰
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/rtvssport.jpg" tvg-country="" tvg-language="" group-title="SPORTS",RTVS SPORT 🇸🇰
-https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/fightbox.jpg" tvg-country="" tvg-language="" group-title="SPORTS",FIGHT BOX 🇸🇰
 https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg" tvg-country="" tvg-language="" group-title="SPORTS",JOJ SPORT 2 🇸🇰
-https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" tvg-country="" tvg-language="" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
-https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg" tvg-country="" tvg-language="" group-title="SPORTS",GOLF CHANNEL 🇸🇰
-https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/rtvssport.jpg" tvg-country="" tvg-language="" group-title="SPORTS",RTVS SPORT 🇸🇰
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport.jpg" tvg-country="" tvg-language="" group-title="SPORTS",JOJ SPORT 🇸🇰
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg" tvg-country="" tvg-language="" group-title="SPORTS",JOJ SPORT 2 🇸🇰
+https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg" tvg-country="" tvg-language="" group-title="SPORTS",GOLF CHANNEL 🇸🇰
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" tvg-country="" tvg-language="" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
+https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" tvg-country="" tvg-language="" group-title="SPORTS",FAST AND FUNBOX 🇸🇰
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" tvg-country="" tvg-language="" group-title="SPORTS",FOX SPORTS 🇲🇽
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 tvg-id="FOX SPORTS 2.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" tvg-country="" tvg-language="" group-title="SPORTS",FOX SPORTS 2 🇲🇽
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" tvg-country="" tvg-language="" group-title="SPORTS",FOX SPORTS 🇲🇽
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" tvg-country="" tvg-language="" group-title="SPORTS",FOX SPORTS 3 🇲🇽
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" tvg-country="" tvg-language="" group-title="SPORTS",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" tvg-country="" tvg-language="" group-title="SPORTS",FOX SPORTS PREMIUM 🇲🇽
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3YgKhAMGlkn_9DFUR74KdIPl4oi-qpXTaiLrOa_630grs2jqRjkRd9BI&s=10" tvg-country="" tvg-language="" group-title="SPORTS",BUNDESLIGA 2
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" tvg-country="" tvg-language="" group-title="SPORTS",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" tvg-country="" tvg-language="" group-title="SPORTS",ARENA1 SK
 https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" tvg-country="" tvg-language="" group-title="SPORTS",ARENA2 SK
-https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" tvg-country="" tvg-language="" group-title="SPORTS",DZ TW1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" tvg-country="" tvg-language="" group-title="SPORTS",DZ TW2
 rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" tvg-country="" tvg-language="" group-title="SPORTS",DZ TW3
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" tvg-country="" tvg-language="" group-title="SPORTS",CBS Champions Sports
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-id="GBBD2300003IK" tvg-name="Red Bull TV" tvg-logo="https://warningfm.github.io/v3/img/4YIBApo.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="SPORTS",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" tvg-country="" tvg-language="" group-title="SPORTS",ARENA2 SK
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="Onesports.ph" tvg-name="Onesports" tvg-logo="https://warningfm.github.io/v3/img/Duajhzv.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="SPORTS",Onesports
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" tvg-country="" tvg-language="" group-title="SPORTS",DZ COMBAT
-https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" tvg-country="" tvg-language="" group-title="SPORTS",CBS Champions Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" tvg-country="" tvg-language="" group-title="SPORTS",JOJ SPORT
 https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="GBBD2300003IK" tvg-name="Red Bull TV" tvg-logo="https://warningfm.github.io/v3/img/4YIBApo.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="SPORTS",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" tvg-country="" tvg-language="" group-title="SPORTS",DZ COMBAT
+https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" tvg-country="" tvg-language="" group-title="SPORTS",La liga Inside
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 #EXTINF:-1 tvg-id="CAAJ2700030ON" tvg-name="Outside" tvg-logo="https://warningfm.github.io/v3/img/v5wKtPf.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="SPORTS",Outside
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/c04d61b0a6119b0f2efcc31b3308c8cc82d2025a/Outside.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/b8/ec/c1/b8ecc1497d5a6a0f7ee2d8b25d6f53eb.jpg" tvg-country="" tvg-language="" group-title="SPORTS",TAP Sports
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="truesports1.th" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" tvg-country="" tvg-language="" group-title="SPORTS",True Sports 1
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
 #EXTINF:-1 tvg-id="truesports3.th" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" tvg-country="" tvg-language="" group-title="SPORTS",True Sports 3
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" tvg-country="" tvg-language="" group-title="SPORTS",True Sports 7
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" tvg-country="" tvg-language="" group-title="SPORTS",La liga Inside
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/b8/ec/c1/b8ecc1497d5a6a0f7ee2d8b25d6f53eb.jpg" tvg-country="" tvg-language="" group-title="SPORTS",TAP Sports
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
