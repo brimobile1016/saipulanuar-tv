@@ -4,8 +4,8 @@
   "totalLive": 3,
   "totalDead": 1018,
   "uptime": "0.29%",
-  "scanDuration": "56.0s",
-  "lastScan": "2026-07-02T18:25:07.594Z",
+  "scanDuration": "53.2s",
+  "lastScan": "2026-07-02T18:37:26.718Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -19,15 +19,15 @@
       "live": 0,
       "dead": 11
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 0,
-      "dead": 11
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 0,
+      "dead": 11
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -189,15 +189,15 @@
       "live": 0,
       "dead": 20
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 0,
       "dead": 5
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇨🇳 China": {
       "total": 19,
@@ -249,15 +249,15 @@
       "live": 0,
       "dead": 30
     },
-    "🐓ADU AYAM | SABUNG AYAM": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
-    },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
       "live": 0,
       "dead": 5
+    },
+    "🐓ADU AYAM | SABUNG AYAM": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
     },
     "UPCOMING": {
       "total": 59,

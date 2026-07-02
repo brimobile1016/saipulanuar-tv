@@ -17,7 +17,7 @@
       "redirectCount": 0,
       "finalUrl": "rtmp://f13h.mine.nu/sat/tv731",
       "contentType": "Protokol Khusus Stream (RTMP/RTSP)",
-      "scanTimestamp": "2026-07-02T18:24:21.973Z"
+      "scanTimestamp": "2026-07-02T18:36:42.493Z"
     }
   },
   {
@@ -38,7 +38,7 @@
       "redirectCount": 0,
       "finalUrl": "rtmp://f13h.mine.nu/sat/tv741",
       "contentType": "Protokol Khusus Stream (RTMP/RTSP)",
-      "scanTimestamp": "2026-07-02T18:24:21.974Z"
+      "scanTimestamp": "2026-07-02T18:36:42.494Z"
     }
   },
   {
@@ -59,7 +59,7 @@
       "redirectCount": 0,
       "finalUrl": "rtmp://f13h.mine.nu/sat/tv721",
       "contentType": "Protokol Khusus Stream (RTMP/RTSP)",
-      "scanTimestamp": "2026-07-02T18:24:21.975Z"
+      "scanTimestamp": "2026-07-02T18:36:42.495Z"
     }
   }
 ]
