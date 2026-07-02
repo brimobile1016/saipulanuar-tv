@@ -1,43 +1,91 @@
 name: IPTV Stream Scanner Automation
 
 on:
-push:
+  push:
     branches:
       - main
 
   schedule:
-    - cron: '30 8 * * *'
-    - cron: '30 14 * * *'
-    - cron: '30 20 * * *'
+    - cron: "30 8 * * *"
+    - cron: "30 14 * * *"
+    - cron: "30 20 * * *"
+
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
 
 jobs:
-  scan-and-update:
+  scan-and-build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-      with:
-        persist-credentials: true
-    - name: Setup Node.js Environment
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-    - name: Install Dependencies
-      run: npm install
-    - name: Run IPTV Scanner Engine
-      run: npm start
-    - name: Check and Deploy Artifacts (Auto Commit & Push)
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add public/ reports/
-        if git diff --cached --quiet; then
-          echo "No modifications detected. Skipping deployment."
-        else
-          git commit -m "chore(automation): dynamic iptv channels update [skip ci]"
-          git push origin main
-        fi
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install Dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Run IPTV Scanner
+        run: npm start
+
+      - name: Commit Generated Files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add reports public
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore: update IPTV reports [skip ci]"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: scan-and-build
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
