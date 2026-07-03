@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 420,
-  "totalDead": 601,
-  "uptime": "41.14%",
-  "scanDuration": "63.4s",
-  "lastScan": "2026-07-03T16:06:52.296Z",
+  "totalLive": 418,
+  "totalDead": 603,
+  "uptime": "40.94%",
+  "scanDuration": "59.8s",
+  "lastScan": "2026-07-03T21:41:38.792Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 420,
-      "dead": 601
+      "live": 418,
+      "dead": 603
     }
   },
   "channelStatistics": {
@@ -71,13 +71,13 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 26,
-      "dead": 39
+      "live": 25,
+      "dead": 40
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 10,
-      "dead": 3
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
@@ -96,13 +96,13 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 36,
-      "dead": 23
+      "live": 35,
+      "dead": 24
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
-      "live": 4,
-      "dead": 3
+      "live": 5,
+      "dead": 2
     },
     "Sports Visionplus": {
       "total": 12,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 13,
-      "dead": 30
+      "live": 14,
+      "dead": 29
     },
     "FIFA+": {
       "total": 9,
@@ -171,18 +171,13 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 5,
-      "dead": 5
+      "live": 4,
+      "dead": 6
     },
     "Lifestyle": {
       "total": 8,
       "live": 3,
       "dead": 5
-    },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "News": {
       "total": 20,
@@ -199,10 +194,20 @@
       "live": 0,
       "dead": 19
     },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -213,11 +218,6 @@
       "total": 32,
       "live": 8,
       "dead": 24
-    },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
     },
     "🇸🇬 Singapore": {
       "total": 24,
@@ -236,8 +236,8 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 23,
-      "dead": 12
+      "live": 22,
+      "dead": 13
     },
     "MUSIC": {
       "total": 67,
