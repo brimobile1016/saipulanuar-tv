@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 391,
-  "totalDead": 630,
-  "uptime": "38.30%",
-  "scanDuration": "87.9s",
-  "lastScan": "2026-07-03T11:07:45.940Z",
+  "totalLive": 420,
+  "totalDead": 601,
+  "uptime": "41.14%",
+  "scanDuration": "63.4s",
+  "lastScan": "2026-07-03T16:06:52.296Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 391,
-      "dead": 630
+      "live": 420,
+      "dead": 601
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 5,
-      "dead": 6
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
+      "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 5,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -59,25 +59,25 @@
       "live": 4,
       "dead": 4
     },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
-      "live": 3,
-      "dead": 17
-    },
     "LIGA JERMAN": {
       "total": 7,
       "live": 2,
       "dead": 5
     },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 3,
+      "dead": 17
+    },
     "INDONESIA TV": {
       "total": 65,
-      "live": 17,
-      "dead": 48
+      "live": 26,
+      "dead": 39
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 6,
-      "dead": 7
+      "live": 10,
+      "dead": 3
     },
     "SKY SPORTS": {
       "total": 11,
@@ -134,15 +134,15 @@
       "live": 13,
       "dead": 30
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -161,8 +161,8 @@
     },
     "MMA/UFC": {
       "total": 15,
-      "live": 6,
-      "dead": 9
+      "live": 7,
+      "dead": 8
     },
     "Movies": {
       "total": 34,
@@ -209,35 +209,35 @@
       "live": 16,
       "dead": 0
     },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 8,
+      "dead": 24
+    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
     },
-    "🇲🇾 Malaysia": {
-      "total": 32,
-      "live": 6,
-      "dead": 26
-    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 6,
-      "dead": 18
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
-      "live": 0,
-      "dead": 5
+      "live": 3,
+      "dead": 2
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 4,
-      "dead": 11
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
-      "live": 22,
-      "dead": 13
+      "live": 23,
+      "dead": 12
     },
     "MUSIC": {
       "total": 67,
