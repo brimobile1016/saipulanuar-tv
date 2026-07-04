@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 418,
-  "totalDead": 603,
-  "uptime": "40.94%",
-  "scanDuration": "59.8s",
-  "lastScan": "2026-07-03T21:41:38.792Z",
+  "totalLive": 415,
+  "totalDead": 606,
+  "uptime": "40.65%",
+  "scanDuration": "65.9s",
+  "lastScan": "2026-07-04T10:31:26.700Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 418,
-      "dead": 603
+      "live": 415,
+      "dead": 606
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 5,
+      "dead": 6
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -71,13 +71,13 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 25,
-      "dead": 40
+      "live": 26,
+      "dead": 39
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 10,
+      "dead": 3
     },
     "SKY SPORTS": {
       "total": 11,
@@ -96,13 +96,13 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 35,
-      "dead": 24
+      "live": 36,
+      "dead": 23
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
-      "live": 5,
-      "dead": 2
+      "live": 4,
+      "dead": 3
     },
     "Sports Visionplus": {
       "total": 12,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 8,
-      "dead": 43
+      "live": 9,
+      "dead": 42
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 18,
+      "dead": 7
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -171,8 +171,8 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 5,
+      "dead": 5
     },
     "Lifestyle": {
       "total": 8,
@@ -189,15 +189,15 @@
       "live": 1,
       "dead": 4
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇧🇳 Brunai": {
       "total": 2,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 9,
-      "dead": 15
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 8,
+      "dead": 7
     },
     "KIDS": {
       "total": 35,
