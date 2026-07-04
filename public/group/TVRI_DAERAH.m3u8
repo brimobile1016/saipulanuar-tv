@@ -5,57 +5,57 @@ https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1zgV.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Bangka Belitung
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Ae1.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1TdB.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Bengkulu
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF17zg.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d9HAivV.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Papua Barat
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Ae1.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Gorontalo
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF16hu.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Selatan
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1t2V.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Tengah
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1RmF.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jambi
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1357.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sumatera Barat
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Fe9.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Utara
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF12JS.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sumatera Selatan
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1YXa.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jawa Barat
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1GdN.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jawa Tengah
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1oqx.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sumatera Utara
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF101R.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jawa Timur
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Csj.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Yogyakarta
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1WmX.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Selatan
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1hIn.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Tengah
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1M7I.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Barat
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1jXs.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Timur
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1gp9.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI NTT
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1krl.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Lampung
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1e14.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI NTB
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Kbe.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Tenggara
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1wLG.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Maluku
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1S7S.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Riau
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1822.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Papua
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d9HAivV.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Papua Barat
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1S7S.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF16hu.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Kbe.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1YXa.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Fe9.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1357.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1oqx.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sumatera Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1Csj.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1GdN.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF101R.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1M7I.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1krl.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1jXs.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1hIn.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1WmX.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1wLG.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1gp9.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1t2V.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF12JS.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1e14.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmF1PLb.png" tvg-country="" tvg-language="" group-title="TVRI DAERAH",TVRI Sulawesi Barat
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
