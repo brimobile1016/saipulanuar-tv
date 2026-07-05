@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="145" tvg-name="Cinema One Global" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvxKt1QaTbPPm8UweyXVXLeWQc6pAv9enjmkIns1hcBWVd9A8glIKGtFptAzYSn1s3pxaftEZ1x-m0l-GjfhLHKyGx7NdLEjyVbOeeNyMe-i20Kz6graOwZxwZogVxOh7fSSl5o1TrUsQMIARSjC9bcQ389RuBwZzXiRkicKiaJwQV33zQKquNKdQl0BE/s1600/5VW2atu.png" tvg-country="" tvg-language="" group-title="Movies",Cinema One Global
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-name="Tapmovies Hd" tvg-logo="https://warningfm.github.io/v3/img/ArkjNd6.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",Tapmovies Hd
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
-#EXTINF:-1 tvg-id="Moviesphere by Lionsgate" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="Movies",Moviesphere by Lionsgate
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="My Cinema Europe HD.id" tvg-name="My Cinema Europe HD.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",My Cinema Europe
 http://cdn.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a1.m3u8
+#EXTINF:-1 tvg-id="Moviesphere by Lionsgate" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="Movies",Moviesphere by Lionsgate
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="My Cinema Asia.id" tvg-name="My Cinema Asia.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/P5ekSb0.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",My Cinema Asia
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 #EXTINF:-1 tvg-id="99991621" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/1c/24/1sI5FVn8_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",Universal Movies
