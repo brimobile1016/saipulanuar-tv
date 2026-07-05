@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 420,
-  "totalDead": 601,
-  "uptime": "41.14%",
-  "scanDuration": "63.9s",
-  "lastScan": "2026-07-05T15:45:56.991Z",
+  "totalLive": 419,
+  "totalDead": 602,
+  "uptime": "41.04%",
+  "scanDuration": "56.6s",
+  "lastScan": "2026-07-05T21:35:49.088Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 420,
-      "dead": 601
+      "live": 419,
+      "dead": 602
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 5,
+      "dead": 6
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -71,18 +71,18 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 26,
-      "dead": 39
+      "live": 27,
+      "dead": 38
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 12,
-      "dead": 1
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 9,
-      "dead": 2
+      "live": 7,
+      "dead": 4
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -166,13 +166,13 @@
     },
     "Movies": {
       "total": 34,
-      "live": 7,
-      "dead": 27
+      "live": 8,
+      "dead": 26
     },
     "HBO GO": {
       "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 5,
+      "dead": 5
     },
     "Lifestyle": {
       "total": 8,
