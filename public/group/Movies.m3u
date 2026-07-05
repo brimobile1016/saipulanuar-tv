@@ -3,12 +3,12 @@
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 #EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-name="Tapmovies Hd" tvg-logo="https://warningfm.github.io/v3/img/ArkjNd6.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",Tapmovies Hd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
-#EXTINF:-1 tvg-id="My Cinema Asia.id" tvg-name="My Cinema Asia.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/P5ekSb0.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",My Cinema Asia
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
-#EXTINF:-1 tvg-id="My Cinema Europe HD.id" tvg-name="My Cinema Europe HD.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",My Cinema Europe
-http://cdn.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a1.m3u8
 #EXTINF:-1 tvg-id="Moviesphere by Lionsgate" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="Movies",Moviesphere by Lionsgate
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="My Cinema Europe HD.id" tvg-name="My Cinema Europe HD.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",My Cinema Europe
+http://cdn.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a1.m3u8
+#EXTINF:-1 tvg-id="My Cinema Asia.id" tvg-name="My Cinema Asia.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/P5ekSb0.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",My Cinema Asia
+http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 #EXTINF:-1 tvg-id="99991621" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/1c/24/1sI5FVn8_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Movies",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=8212b958-3140-4a99-87a9-1eda1075c8b0&ads._fw_vcid2=512116:8212b958-3140-4a99-87a9-1eda1075c8b0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 #EXTINF:-1 tvg-id="Lotusmacau.Prd.id" tvg-name="Lotusmacau Prd" tvg-logo="https://i.imgur.com/5TlTvkF.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="Movies",Lotusmacau Prd

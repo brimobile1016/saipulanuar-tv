@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 414,
-  "totalDead": 607,
-  "uptime": "40.55%",
-  "scanDuration": "63.9s",
-  "lastScan": "2026-07-04T21:30:03.129Z",
+  "totalLive": 416,
+  "totalDead": 605,
+  "uptime": "40.74%",
+  "scanDuration": "70.2s",
+  "lastScan": "2026-07-05T10:35:13.279Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 414,
-      "dead": 607
+      "live": 416,
+      "dead": 605
     }
   },
   "channelStatistics": {
@@ -49,15 +49,15 @@
       "live": 2,
       "dead": 23
     },
-    "LIGA SPANYOL": {
-      "total": 8,
-      "live": 4,
-      "dead": 4
-    },
     "LIGA ITALIA": {
       "total": 9,
       "live": 1,
       "dead": 8
+    },
+    "LIGA SPANYOL": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
     },
     "LIGA JERMAN": {
       "total": 7,
@@ -76,18 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 12,
-      "dead": 1
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 7,
-      "dead": 4
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
+      "live": 9,
+      "dead": 2
     },
     "ASTRO": {
       "total": 1,
@@ -96,8 +91,13 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 36,
-      "dead": 23
+      "live": 37,
+      "dead": 22
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 18,
-      "dead": 24
+      "live": 17,
+      "dead": 25
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -126,8 +126,8 @@
     },
     "TV SONY": {
       "total": 7,
-      "live": 4,
-      "dead": 3
+      "live": 3,
+      "dead": 4
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -171,8 +171,13 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 5,
+      "dead": 5
+    },
+    "Lifestyle": {
+      "total": 8,
+      "live": 3,
+      "dead": 5
     },
     "Fashion": {
       "total": 8,
@@ -183,11 +188,6 @@
       "total": 20,
       "live": 14,
       "dead": 6
-    },
-    "Lifestyle": {
-      "total": 8,
-      "live": 3,
-      "dead": 5
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
