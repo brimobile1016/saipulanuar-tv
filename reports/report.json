@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 421,
-  "totalDead": 600,
-  "uptime": "41.23%",
-  "scanDuration": "60.6s",
-  "lastScan": "2026-07-06T12:19:26.071Z",
+  "totalLive": 414,
+  "totalDead": 607,
+  "uptime": "40.55%",
+  "scanDuration": "64.7s",
+  "lastScan": "2026-07-06T17:20:41.014Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 421,
-      "dead": 600
+      "live": 414,
+      "dead": 607
     }
   },
   "channelStatistics": {
@@ -71,13 +71,13 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 26,
-      "dead": 39
+      "live": 25,
+      "dead": 40
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 10,
+      "dead": 3
     },
     "SKY SPORTS": {
       "total": 11,
@@ -111,28 +111,28 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 17,
-      "dead": 25
-    },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
+      "live": 18,
+      "dead": 24
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
     },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
+    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 14,
-      "dead": 29
+      "live": 13,
+      "dead": 30
     },
     "FIFA+": {
       "total": 9,
@@ -151,8 +151,8 @@
     },
     "CHANNEL |  MOTOGP & F1": {
       "total": 8,
-      "live": 4,
-      "dead": 4
+      "live": 3,
+      "dead": 5
     },
     "SPORTS PREMIUM": {
       "total": 78,
@@ -171,18 +171,13 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 5,
-      "dead": 5
+      "live": 4,
+      "dead": 6
     },
     "Lifestyle": {
       "total": 8,
       "live": 3,
       "dead": 5
-    },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "News": {
       "total": 20,
@@ -194,6 +189,11 @@
       "live": 1,
       "dead": 4
     },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇯🇵 TV JEPANG": {
-      "total": 16,
-      "live": 16,
-      "dead": 0
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
+    },
+    "🇯🇵 TV JEPANG": {
+      "total": 16,
+      "live": 16,
+      "dead": 0
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 9,
-      "dead": 15
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
