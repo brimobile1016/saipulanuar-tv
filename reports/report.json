@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 410,
-  "totalDead": 611,
-  "uptime": "40.16%",
-  "scanDuration": "61.7s",
-  "lastScan": "2026-07-06T21:57:07.390Z",
+  "totalLive": 419,
+  "totalDead": 602,
+  "uptime": "41.04%",
+  "scanDuration": "55.0s",
+  "lastScan": "2026-07-07T11:22:32.324Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 410,
-      "dead": 611
+      "live": 419,
+      "dead": 602
     }
   },
   "channelStatistics": {
@@ -76,13 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 6,
-      "dead": 7
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 8,
-      "dead": 3
+      "live": 9,
+      "dead": 2
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -119,20 +119,20 @@
       "live": 18,
       "dead": 24
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
     },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
+    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 12,
-      "dead": 31
+      "live": 13,
+      "dead": 30
     },
     "FIFA+": {
       "total": 9,
@@ -171,8 +171,8 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 5,
-      "dead": 5
+      "live": 4,
+      "dead": 6
     },
     "Lifestyle": {
       "total": 8,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,18 +231,18 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
-      "live": 22,
-      "dead": 13
+      "live": 23,
+      "dead": 12
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
@@ -254,17 +254,17 @@
       "live": 1,
       "dead": 4
     },
+    "🐓ADU AYAM | SABUNG AYAM": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
+    },
     "UPCOMING": {
       "total": 59,
       "live": 0,
       "dead": 59
     },
     "LIVE EVENT | AFC Women’s Asian Cup": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
-    },
-    "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
