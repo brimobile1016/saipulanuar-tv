@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 419,
-  "totalDead": 602,
-  "uptime": "41.04%",
-  "scanDuration": "55.0s",
-  "lastScan": "2026-07-07T11:22:32.324Z",
+  "totalLive": 412,
+  "totalDead": 609,
+  "uptime": "40.35%",
+  "scanDuration": "53.2s",
+  "lastScan": "2026-07-07T16:45:05.288Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 419,
-      "dead": 602
+      "live": 412,
+      "dead": 609
     }
   },
   "channelStatistics": {
@@ -71,23 +71,18 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 25,
-      "dead": 40
+      "live": 26,
+      "dead": 39
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 10,
+      "dead": 3
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 9,
-      "dead": 2
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
+      "live": 7,
+      "dead": 4
     },
     "ASTRO": {
       "total": 1,
@@ -96,8 +91,13 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 36,
-      "dead": 23
+      "live": 33,
+      "dead": 26
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -119,15 +119,15 @@
       "live": 18,
       "dead": 24
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 19,
+      "dead": 6
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -171,8 +171,8 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 5,
+      "dead": 5
     },
     "Lifestyle": {
       "total": 8,
@@ -186,8 +186,8 @@
     },
     "News": {
       "total": 20,
-      "live": 14,
-      "dead": 6
+      "live": 13,
+      "dead": 7
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇯🇵 TV JEPANG": {
-      "total": 16,
-      "live": 16,
-      "dead": 0
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
+    },
+    "🇯🇵 TV JEPANG": {
+      "total": 16,
+      "live": 16,
+      "dead": 0
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 9,
-      "dead": 15
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
