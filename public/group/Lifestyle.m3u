@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DENSFoodChannel.id" tvg-name="DensFood Channel.id" tvg-logo="https://warningfm.github.io/v3/img/sE1nCEC.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Lifestyle",DENS Food Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
-#EXTINF:-1 tvg-id="INFAST" tvg-name="INFAST" tvg-logo="https://warningfm.github.io/v3/img/rnvVmz5.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Lifestyle",INFAST
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="717.astro" tvg-name="BBC Lifestyle" tvg-logo="https://warningfm.github.io/v3/img/WhjmYep.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Lifestyle",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia" tvg-logo="https://warningfm.github.io/v3/img/PYCg6E5.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Lifestyle",FashionTV Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)" tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Lifestyle",Food Network
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
+#EXTINF:-1 tvg-id="INFAST" tvg-name="INFAST" tvg-logo="https://warningfm.github.io/v3/img/rnvVmz5.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Lifestyle",INFAST
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia" tvg-logo="https://warningfm.github.io/v3/img/PYCg6E5.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Lifestyle",FashionTV Asia
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd

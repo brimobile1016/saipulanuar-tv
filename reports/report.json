@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 430,
-  "totalDead": 591,
-  "uptime": "42.12%",
-  "scanDuration": "71.4s",
-  "lastScan": "2026-07-08T10:34:10.054Z",
+  "totalLive": 432,
+  "totalDead": 589,
+  "uptime": "42.31%",
+  "scanDuration": "65.1s",
+  "lastScan": "2026-07-08T16:15:06.540Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 430,
-      "dead": 591
+      "live": 432,
+      "dead": 589
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 5,
-      "dead": 6
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
+      "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 5,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -76,13 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 9,
+      "dead": 4
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 6,
-      "dead": 5
+      "live": 9,
+      "dead": 2
     },
     "ASTRO": {
       "total": 1,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -226,8 +226,8 @@
     },
     "🇵🇭 Philippines": {
       "total": 5,
-      "live": 3,
-      "dead": 2
+      "live": 2,
+      "dead": 3
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
@@ -246,18 +246,18 @@
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 28,
-      "dead": 2
-    },
-    "🐓ADU AYAM | SABUNG AYAM": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
+      "live": 30,
+      "dead": 0
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "🐓ADU AYAM | SABUNG AYAM": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
     },
     "UPCOMING": {
       "total": 59,

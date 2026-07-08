@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="143" tvg-name="ANC" tvg-logo="https://warningfm.github.io/v3/img/wwL3U73.png" tvg-country="" tvg-language="" group-title="🇵🇭 Philippines",ANC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
-#EXTINF:-1 tvg-id="Oneph.ph" tvg-name="Oneph.ph" tvg-logo="https://warningfm.github.io/v3/img/cDRl5nO.png" tvg-country="" tvg-language="" group-title="🇵🇭 Philippines",ONE PH (CIG)
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 #EXTINF:-1 tvg-id="144" tvg-name="The Filipino Channel HD" tvg-logo="https://warningfm.github.io/v3/img/taKL7e6.png" tvg-country="" tvg-language="" group-title="🇵🇭 Philippines",The Filipino Channel HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
