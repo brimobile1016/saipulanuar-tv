@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 432,
-  "totalDead": 589,
-  "uptime": "42.31%",
-  "scanDuration": "65.1s",
-  "lastScan": "2026-07-08T16:15:06.540Z",
+  "totalLive": 426,
+  "totalDead": 595,
+  "uptime": "41.72%",
+  "scanDuration": "61.3s",
+  "lastScan": "2026-07-08T21:43:41.996Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 432,
-      "dead": 589
+      "live": 426,
+      "dead": 595
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 5,
+      "dead": 6
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -38,11 +38,6 @@
       "total": 10,
       "live": 5,
       "dead": 5
-    },
-    "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
-      "total": 1,
-      "live": 1,
-      "dead": 0
     },
     "LIGA INGGRIS": {
       "total": 25,
@@ -69,15 +64,20 @@
       "live": 3,
       "dead": 17
     },
+    "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
+      "total": 1,
+      "live": 1,
+      "dead": 0
+    },
     "INDONESIA TV": {
       "total": 65,
-      "live": 29,
-      "dead": 36
+      "live": 28,
+      "dead": 37
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 9,
-      "dead": 4
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 18,
-      "dead": 24
+      "live": 17,
+      "dead": 25
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -174,6 +174,11 @@
       "live": 5,
       "dead": 5
     },
+    "Lifestyle": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "Fashion": {
       "total": 8,
       "live": 6,
@@ -183,11 +188,6 @@
       "total": 20,
       "live": 14,
       "dead": 6
-    },
-    "Lifestyle": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -226,8 +226,8 @@
     },
     "🇵🇭 Philippines": {
       "total": 5,
-      "live": 2,
-      "dead": 3
+      "live": 3,
+      "dead": 2
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
@@ -246,8 +246,8 @@
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 30,
-      "dead": 0
+      "live": 23,
+      "dead": 7
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,

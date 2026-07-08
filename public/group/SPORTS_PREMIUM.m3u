@@ -1,57 +1,57 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-l.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Sportstars 2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",SportTV 2
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",SportTV 3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",SportTV 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",DIGI SPORT 1 Alt
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2523/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Bein Sports 1 AU
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Bein Sports 2 AU
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Bein Sports 3 AU
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 2
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 5
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2021/07/Premier-Sports-2.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 2 UK
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://technosports.co.in/wp-content/uploads/2024/02/23196-fancode-1024x614.webp" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",FanCode 1
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Bein Sports 2 AU
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-id="Fancode3" tvg-name="Fancode 3" tvg-logo="" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Fancode 3
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/nba-tv-usa.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",NBA TV
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://technosports.co.in/wp-content/uploads/2024/02/23196-fancode-1024x614.webp" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",FanCode 2
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/logo/tennis%20channel.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Tennis Channel 2
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1-620x396.jpg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",HBO Boxing
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://technosports.co.in/wp-content/uploads/2024/02/23196-fancode-1024x614.webp" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",FanCode 1
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-#EXTINF:-1 tvg-id="ap1sr" tvg-name="Premier Sports" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premier Sports 1
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/logo/tennis%20channel.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Tennis Channel 2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/nba-tv-usa.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",NBA TV
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
-#EXTINF:-1 tvg-id="tnt5uk50" tvg-name="TNT" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2250/887144-854918/a4df4ef049b119253c9833bea8ed6515.jpg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",CBS Sports
-https://a151aivottlinear-a.akamaihd.net/OTTB/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2021/07/Premier-Sports-2.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 2 UK
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 5
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagem.natelinha.uol.com.br/original/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/411539.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Sport Digital Fussball
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 tvg-id="ap2sr" tvg-name="Channel 2" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premier Sports 2
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://technosports.co.in/wp-content/uploads/2024/02/23196-fancode-1024x614.webp" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",FanCode 2
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1-620x396.jpg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",HBO Boxing
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2021/07/Premier-Sports-1.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premiere Sports 1 UK
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Cowboy tv" tvg-logo="" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena Sport 2 HD.sk" tvg-name="" tvg-logo="https://i.ibb.co.com/v4pkr0Z/arenasp2sk.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Arena Sport 2 SK
-https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="ap1sr" tvg-name="Premier Sports" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premier Sports 1
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+#EXTINF:-1 tvg-id="tnt5uk50" tvg-name="TNT" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2250/887144-854918/a4df4ef049b119253c9833bea8ed6515.jpg" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",CBS Sports
+https://a151aivottlinear-a.akamaihd.net/OTTB/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="ap2sr" tvg-name="Channel 2" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Premier Sports 2
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-name="" tvg-logo="https://i.ibb.co.com/h2bcqhS/arenasp1sk.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Arena Sport 1 SK
 https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="Arena Sport 2 HD.sk" tvg-name="" tvg-logo="https://i.ibb.co.com/v4pkr0Z/arenasp2sk.png" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",Arena Sport 2 SK
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10" tvg-country="" tvg-language="" group-title="SPORTS PREMIUM",SportDigital
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
