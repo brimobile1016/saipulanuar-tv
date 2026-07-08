@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="414.astro" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/22/31/n3hiX0ko_t.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="HBO GO",HBO Family
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 #EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://thumbs2.imgbox.com/ee/0e/EmDqTe1g_t.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="HBO GO",HBO
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
-#EXTINF:-1 tvg-id="412.astro" tvg-name="CINEMAX HD" tvg-logo="https://thumbs2.imgbox.com/72/1c/Y3hkwBeN_t.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="HBO GO",CINEMAX
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+#EXTINF:-1 tvg-id="414.astro" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/22/31/n3hiX0ko_t.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="HBO GO",HBO Family
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 #EXTINF:-1 tvg-id="Cg.Hbosign.ph" tvg-name="Cg Hbosign" tvg-logo="https://thumbs2.imgbox.com/4c/52/hz61w5Bd_t.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="HBO GO",HBO Signature HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+#EXTINF:-1 tvg-id="412.astro" tvg-name="CINEMAX HD" tvg-logo="https://thumbs2.imgbox.com/72/1c/Y3hkwBeN_t.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="HBO GO",CINEMAX
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 #EXTINF:-1 tvg-id="415.astro" tvg-name="HBO Hits" tvg-logo="https://thumbs2.imgbox.com/43/c0/WOv1aOxH_t.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="HBO GO",HBO Hits
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
