@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 437,
-  "totalDead": 584,
-  "uptime": "42.80%",
+  "totalLive": 426,
+  "totalDead": 595,
+  "uptime": "41.72%",
   "scanDuration": "54.8s",
-  "lastScan": "2026-07-09T11:23:58.328Z",
+  "lastScan": "2026-07-09T17:00:57.630Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 437,
-      "dead": 584
+      "live": 426,
+      "dead": 595
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 5,
+      "dead": 6
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -71,13 +71,13 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 29,
-      "dead": 36
+      "live": 28,
+      "dead": 37
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 12,
-      "dead": 1
+      "live": 7,
+      "dead": 6
     },
     "SKY SPORTS": {
       "total": 11,
@@ -119,15 +119,15 @@
       "live": 18,
       "dead": 24
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 19,
+      "dead": 6
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -166,13 +166,18 @@
     },
     "Movies": {
       "total": 34,
-      "live": 8,
-      "dead": 26
+      "live": 7,
+      "dead": 27
     },
     "HBO GO": {
       "total": 10,
+      "live": 4,
+      "dead": 6
+    },
+    "Lifestyle": {
+      "total": 8,
       "live": 5,
-      "dead": 5
+      "dead": 3
     },
     "Fashion": {
       "total": 8,
@@ -183,11 +188,6 @@
       "total": 20,
       "live": 14,
       "dead": 6
-    },
-    "Lifestyle": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -236,8 +236,8 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 24,
-      "dead": 11
+      "live": 23,
+      "dead": 12
     },
     "MUSIC": {
       "total": 67,
