@@ -3,25 +3,25 @@
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-name="" tvg-logo="https://i.imgur.com/ZkuZmIo.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/BZijfKh.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Billiard TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
 #EXTINF:-1 tvg-id="GloryKickboxing.us@US" tvg-name="" tvg-logo="https://i.imgur.com/tS7Ub7i.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Glory Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1 tvg-id="MLB.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/ym3su2J.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
-#EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/BZijfKh.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Billiard TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",NBC Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-name="" tvg-logo="https://i.imgur.com/2ByDyzL.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Nautical Channel (720p)
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",DD Sports (720p)
+https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-name="" tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@UK" tvg-name="" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Strongman (720p)
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-name="" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Strongman Champions League (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",DD Sports (720p)
-https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",MUTV (720p)
 https://get.perfecttv.net/mutv.mpd

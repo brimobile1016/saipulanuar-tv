@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 426,
-  "totalDead": 595,
-  "uptime": "41.72%",
-  "scanDuration": "61.3s",
-  "lastScan": "2026-07-08T21:43:41.996Z",
+  "totalLive": 437,
+  "totalDead": 584,
+  "uptime": "42.80%",
+  "scanDuration": "54.8s",
+  "lastScan": "2026-07-09T11:23:58.328Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 426,
-      "dead": 595
+      "live": 437,
+      "dead": 584
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 5,
-      "dead": 6
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
+      "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 5,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -38,6 +38,11 @@
       "total": 10,
       "live": 5,
       "dead": 5
+    },
+    "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
+      "total": 1,
+      "live": 1,
+      "dead": 0
     },
     "LIGA INGGRIS": {
       "total": 25,
@@ -64,20 +69,15 @@
       "live": 3,
       "dead": 17
     },
-    "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
-      "total": 1,
-      "live": 1,
-      "dead": 0
-    },
     "INDONESIA TV": {
       "total": 65,
-      "live": 28,
-      "dead": 37
+      "live": 29,
+      "dead": 36
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 12,
+      "dead": 1
     },
     "SKY SPORTS": {
       "total": 11,
@@ -91,8 +91,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 36,
-      "dead": 23
+      "live": 38,
+      "dead": 21
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 17,
-      "dead": 25
+      "live": 18,
+      "dead": 24
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -174,11 +174,6 @@
       "live": 5,
       "dead": 5
     },
-    "Lifestyle": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "Fashion": {
       "total": 8,
       "live": 6,
@@ -188,6 +183,11 @@
       "total": 20,
       "live": 14,
       "dead": 6
+    },
+    "Lifestyle": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 9,
-      "dead": 15
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -246,8 +246,8 @@
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 23,
-      "dead": 7
+      "live": 30,
+      "dead": 0
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
