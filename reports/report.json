@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 434,
-  "totalDead": 587,
-  "uptime": "42.51%",
-  "scanDuration": "65.3s",
-  "lastScan": "2026-07-09T22:00:38.355Z",
+  "totalLive": 429,
+  "totalDead": 592,
+  "uptime": "42.02%",
+  "scanDuration": "71.0s",
+  "lastScan": "2026-07-10T11:23:21.649Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 434,
-      "dead": 587
+      "live": 429,
+      "dead": 592
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 5,
+      "dead": 6
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
       "dead": 6
     },
     "BRI SUPER LEAGUE": {
@@ -76,13 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 9,
+      "dead": 4
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 9,
+      "dead": 2
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 10,
-      "dead": 41
+      "live": 9,
+      "dead": 42
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 14,
-      "dead": 29
+      "live": 12,
+      "dead": 31
     },
     "FIFA+": {
       "total": 9,
@@ -169,30 +169,30 @@
       "live": 8,
       "dead": 26
     },
+    "Lifestyle": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "HBO GO": {
       "total": 10,
       "live": 5,
       "dead": 5
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 6,
+      "dead": 2
     },
     "News": {
       "total": 20,
       "live": 14,
       "dead": 6
     },
-    "Lifestyle": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 2,
       "dead": 3
-    },
-    "Fashion": {
-      "total": 8,
-      "live": 6,
-      "dead": 2
     },
     "🇨🇳 China": {
       "total": 19,
@@ -204,25 +204,25 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
     },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
     "🇲🇾 Malaysia": {
       "total": 32,
-      "live": 8,
-      "dead": 24
+      "live": 6,
+      "dead": 26
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 9,
-      "dead": 15
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -246,8 +246,8 @@
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 29,
-      "dead": 1
+      "live": 30,
+      "dead": 0
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,

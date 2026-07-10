@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://thumbs2.imgbox.com/fa/8a/w5za9Ci0_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Al Jazeera English
 http://cdn.nng.cloudns.us/live/m3u8/ns/f5f5c18cf037919.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN" tvg-logo="https://thumbs2.imgbox.com/3d/55/acsUbCBq_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",CNN
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
 #EXTINF:-1 tvg-id="811" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/7c/41/Vn8TdKTG_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",NHK WORLD - JAPAN HD
 http://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa3.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr.id" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/50/df/ZnZnRrHO_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",TRT World
+http://khano.nng.cloudns.us/live/m3u8/ns/27491db6bea155a.m3u8
 #EXTINF:-1 tvg-id="Sindo.News.TV.id" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/78/6f/lOFBWVc0_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Sindo News TV
 http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b837.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="Al Jazeera Arabic" tvg-logo="https://thumbs2.imgbox.com/4d/9d/4DNDSG7x_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",AlJazeera Arabic
-http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya HD.sa" tvg-name="Al Arabiya HD.sa" tvg-logo="https://thumbs2.imgbox.com/8c/77/td4c5ak5_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Al Arabiya
-http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al-Manar TV" tvg-logo="https://thumbs2.imgbox.com/ff/18/YyHkaGm3_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Al-Manar TV
 http://cdn.nng.cloudns.us/live/m3u8/ns/almanar.m3u8
 #EXTINF:-1 tvg-id="WION.World.is.One.News.distro" tvg-name="WION World is One News" tvg-logo="https://warningfm.github.io/v3/img/Fq7axtv.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",WION
 http://khano.nng.cloudns.us/live/m3u8/ns/0a8c23a12b66e1b.m3u8
-#EXTINF:-1 tvg-id="ChannelNewsAsia.au" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/a7/95/YleXFiJZ_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN" tvg-logo="https://thumbs2.imgbox.com/3d/55/acsUbCBq_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",CNN
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW HD" tvg-logo="https://thumbs2.imgbox.com/15/9b/RsfN59lu_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",DW (English)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr.id" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/50/df/ZnZnRrHO_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",TRT World
-http://khano.nng.cloudns.us/live/m3u8/ns/27491db6bea155a.m3u8
-#EXTINF:-1 tvg-id="Sky News Arabia HD.ae" tvg-name="Sky News Arabia HD.ae" tvg-logo="https://thumbs2.imgbox.com/99/b4/AEYHaDzP_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Skynews Arabiya
-https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="ChannelNewsAsia.au" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/a7/95/YleXFiJZ_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya HD.sa" tvg-name="Al Arabiya HD.sa" tvg-logo="https://thumbs2.imgbox.com/8c/77/td4c5ak5_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Al Arabiya
+http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="Al Jazeera Arabic" tvg-logo="https://thumbs2.imgbox.com/4d/9d/4DNDSG7x_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",AlJazeera Arabic
+http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 #EXTINF:-1 tvg-id="IDX.id" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/15/e9/OlWrW70Y_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",IDX
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+#EXTINF:-1 tvg-id="Sky News Arabia HD.ae" tvg-name="Sky News Arabia HD.ae" tvg-logo="https://thumbs2.imgbox.com/99/b4/AEYHaDzP_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",Skynews Arabiya
+https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.id" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/9a/98/5HnKe9J4_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="News",BLOOMBERG  TV HD
 https://bloomberg.com/media-manifest/streams/asia.m3u8
