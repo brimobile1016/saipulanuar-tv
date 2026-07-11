@@ -1,73 +1,72 @@
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => <=================== EVENT 2 =============================>
-[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=18252&type=dash
-[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=18249&type=dash
-[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=18253&type=dash
-[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=6686&type=dash
 [404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=17938&type=dash
-[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=19404&type=dash
 [404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=18250&type=dash
-[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=dash
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
+[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=6686&type=dash
+[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=18249&type=dash
+[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=18252&type=dash
+[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=19404&type=dash
+[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=18253&type=dash
 [404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=dash
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
+[404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=dash
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
 [404] HTTP 404 Error => https://pipit.barjagaul.workers.dev/play.mpd?id=20216&type=dash
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
+[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
+[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
+[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
 [403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
-[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
-[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
-[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
-[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
 [400] HTTP 400 Error => https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/ku28jhwsg4jrbrokwy9sqsblf661ci9dhtt4/playlist.m3u8?hdnts=st=1773473532~exp=1773505942~acl=*/ku28jhwsg4jrbrokwy9sqsblf661ci9dhtt4/*~hmac=897d6bb6362e6548de9cf76c45a0221721d7c62a62ef4c2d26dc54230cf8699a
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => ======================================= LIGA ITALIA ===========================================
 [451] HTTP 451 Error => http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&extension=m3u8
 [451] HTTP 451 Error => http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=1776176&extension=m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 [451] HTTP 451 Error => http://ts1.supports.top/live/Flixprime1896/qxhnz0fxqn/276734.ts
-[451] HTTP 451 Error => http://ts1.supports.top/live/Flixprime1896/qxhnz0fxqn/276735.ts
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
 [403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 [404] HTTP 404 Error => http://lunar.pm:8080/Mrdon/4782314540/110288
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
 [403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 [404] HTTP 404 Error => http://lunar.pm:8080/Mrdon/4782314540/110289
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
+[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 [401] HTTP 401 Error => http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
-[401] HTTP 401 Error => https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
 [403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
 [404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|Referer=https://www.visionplus.id
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+[403] HTTP 403 Error => https://anywhere.pwisetthon.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=119.56.77.101
+[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
 [521] HTTP 521 Error => https://012v4.goiptv.us.ci/stream/starhub/beinsportshd/
 [403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
-[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
+[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+[403] HTTP 403 Error => https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+[404] HTTP 404 Error => http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts
+[401] HTTP 401 Error => https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague.m3u8
+[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+[403] HTTP 403 Error => https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
-[404] HTTP 404 Error => https://anywhere.pwisetthon.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=119.56.77.101
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-[403] HTTP 403 Error => https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
-[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
-[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
-[403] HTTP 403 Error => https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
-[404] HTTP 404 Error => http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 [403] HTTP 403 Error => https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 [403] HTTP 403 Error => https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://kuk1.modprimus.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://kuk1.modprimus.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
@@ -77,139 +76,142 @@
 [403] HTTP 403 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 [429] HTTP 429 Error => https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash|User-Agent=VidioPlayer/6.31.6
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=6-3278548290000000.mpd
-[200] HTML Error Page => https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 [404] HTTP 404 Error => https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+[200] HTML Error Page => https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 [200] HTML Error Page => https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 [200] HTML Error Page => https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-[200] HTML Error Page => https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/e05ed3e644643297af79565e3a12ff6e1cf946ad/575eeb9f08dc8db.m3u8
 [404] HTTP 404 Error => https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
+[503] HTTP 503 Error => http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22067
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
-[403] HTTP 403 Error => https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
+[200] HTML Error Page => https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 [404] HTTP 404 Error => https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w924011536_b744100_sleng.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625477.ts
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625476.ts
+[403] HTTP 403 Error => https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625475.ts
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625449.ts
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625523.ts
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625476.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625477.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625449.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625475.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://sky-glass.live/live/Samuel123/123Samuel/625523.ts
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 [512] HTTP 512 Error => http://myxpanel.pro/live/randy1/randy1/288374.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport3/index.m3u8
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
+[408] DEAD: OPERATION TIMEOUT => https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => EXTINF:-1 tvg-chno="" cuid="1664" tvg-name="ESPN" tvg-id="ESPN.co" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png" group-title="SPORTS",ESPN 🇨🇴⚽️
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport4/index.m3u8
+[408] DEAD: OPERATION TIMEOUT => http://ts1.supports.top/live/Flixprime1896/qxhnz0fxqn/276735.ts
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referrer=https://visionplus.id
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referrer=https://visionplus.id
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referrer=https://visionplus.id
-[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
-[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referrer=https://visionplus.id
 [403] HTTP 403 Error => https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 [403] HTTP 403 Error => https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+[403] HTTP 403 Error => https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 [404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd|referrer=https://visionplus.id
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
-[403] HTTP 403 Error => https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
-[403] HTTP 403 Error => https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://myxpanel.pro/faith/faith/276917
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127757
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://myxpanel.pro/faith/faith/276917
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=54897&extension=m3u8
-[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|Referer=https://www.visionplus.id
-[404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|Referer=https://www.visionplus.id
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => _____
+[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
-[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id
+[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/GAYA HIDUPGAYA HIDUP/sa_dash_vmx/GAYA HIDUPGAYA HIDUP.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|Referer=https://www.visionplus.id
+[404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|Referer=https://www.visionplus.id
+[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id
 [404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|Referer=https://www.visionplus.id
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/133/maxstream/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8
+[404] HTTP 404 Error => https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
+[404] HTTP 404 Error => https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
-[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 [400] HTTP 400 Error => https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
-[404] HTTP 404 Error => https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
 [400] HTTP 400 Error => https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
-[400] HTTP 400 Error => https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
 [400] HTTP 400 Error => https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://fl5.moveonjoy.com/TNT/index.m3u8
-[400] HTTP 400 Error => https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(TV AMERIKA-east)/master.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://fl1.moveonjoy.com/TBS/index.m3u8
+[400] HTTP 400 Error => https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 [404] HTTP 404 Error => https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/TV AUSTRALIAPlus/sa_dash_vmx/TV AUSTRALIAPlus.mpd
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
-[403] HTTP 403 Error => https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://fl1.moveonjoy.com/TBS/index.m3u8
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
-[404] HTTP 404 Error => https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd|Referer=https://www.visionplus.id
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=jjj&chname=My_Family_Channel
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport4/index.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport3/index.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
-[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+[400] HTTP 400 Error => https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(TV AMERIKA-east)/master.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/TV AUSTRALIAPlus/sa_dash_vmx/TV AUSTRALIAPlus.mpd
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+[403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 [404] HTTP 404 Error => https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+[403] HTTP 403 Error => https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 [404] HTTP 404 Error => https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-[408] DEAD: OPERATION TIMEOUT => https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
-[404] HTTP 404 Error => https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
 [404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/21895.ts
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
-[404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=jjj&chname=My_Family_Channel
+[404] HTTP 404 Error => https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
+[404] HTTP 404 Error => https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/21895.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
+[404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 [404] HTTP 404 Error => https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
-[404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
-[403] HTTP 403 Error => https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
-[403] HTTP 403 Error => https://zap-live1-ott.izzigo.tv/3/out/u/dash/SONY-HD/default.mpd
+[404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://103.229.254.25:7001/play/a0bz/index.m3u8
-[403] HTTP 403 Error => https://zap-live1-ott.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://103.229.254.25:7001/play/a0c1/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://103.229.254.25:7001/play/a0a0/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://103.229.254.25:7001/play/a0dd/index.m3u8
@@ -217,297 +219,293 @@
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://103.229.254.25:7001/play/a02v/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://103.229.254.25:7001/play/a09p/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://103.229.254.25:7001/play/a0c0/index.m3u8
+[403] HTTP 403 Error => https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
+[403] HTTP 403 Error => https://zap-live1-ott.izzigo.tv/3/out/u/dash/SONY-HD/default.mpd
+[403] HTTP 403 Error => https://zap-live1-ott.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
-[401] HTTP 401 Error => https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/smithsonian.m3u8
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98861
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98862
+[401] HTTP 401 Error => https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/smithsonian.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98863
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98864
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98865
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98866
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98866
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98870
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98864
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98863
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9402
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98862
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9404
-[403] HTTP 403 Error => http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9402
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9403
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/17565
-[403] HTTP 403 Error => http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-[403] HTTP 403 Error => http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pepsi.abntv.live/hls/4spstream.m3u8
-[403] HTTP 403 Error => https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pepsi3.abntv.live/hls/psp3.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pepsi4.abntv.live/hls/psp4.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/783
-[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124651&uid=15301&deviceMac=00:1A:79:1D:53:3F
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/44220
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137532
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/24115
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/271039
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/157945
-[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124652&uid=15301&deviceMac=00:1A:79:1D:53:3F
-[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124657&uid=15301&deviceMac=00:1A:79:1D:53:3F
-[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124654&uid=15301&deviceMac=00:1A:79:1D:53:3F
-[504] HTTP 504 Error => https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124658&uid=15301&deviceMac=00:1A:79:1D:53:3F
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/516
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/519
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/520
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/521
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/524
+[403] HTTP 403 Error => http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport4/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport3/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport2/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://87.246.54.249:8080/MaxSport1/index.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/560
-[404] HTTP 404 Error => https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+[403] HTTP 403 Error => https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+[404] HTTP 404 Error => http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+[404] HTTP 404 Error => http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
+[403] HTTP 403 Error => http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+[403] HTTP 403 Error => http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pepsi.abntv.live/hls/4spstream.m3u8
+[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+[403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+[404] HTTP 404 Error => https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pepsi4.abntv.live/hls/psp4.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pepsi3.abntv.live/hls/psp3.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/783
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/44220
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/271039
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/24115
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/157945
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/516
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137532
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/520
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/521
+[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124655&uid=15301&deviceMac=00:1A:79:1D:53:3F
+[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124652&uid=15301&deviceMac=00:1A:79:1D:53:3F
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/522
+[200] DEAD: Respon Kosong (No Payload) => http://tv.cloudcdn.me/live.ts?channelId=124659&uid=15301&deviceMac=00:1A:79:1D:53:3F
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/519
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/524
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/560
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/769
-[403] HTTP 403 Error => https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/772
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/773
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/774
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/775
+[403] HTTP 403 Error => https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/780
+[200] DEAD: Manifest DASH (.mpd) Rusak / Bukan XML MPD => https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/779
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => //========================================================================
 [403] HTTP 403 Error => https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/774
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/779
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/781
 [403] HTTP 403 Error => https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/784
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+[403] HTTP 403 Error => https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://canal-pro.xyz:8080/978280496tv3/951r8ui/27204
 [403] HTTP 403 Error => https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 [404] HTTP 404 Error => https://7pal.short.gy/ssportsf1
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://canal-pro.xyz:8080/978280496tv3/951r8ui/27204
-[403] HTTP 403 Error => https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/780
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4888
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://kuk1.modprimus.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://kuk1.modprimus.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
 [403] HTTP 403 Error => https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/781
-[200] HTML Error Page => https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4885
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4888
-[200] HTML Error Page => https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4945
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://kuk1.modprimus.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
+[403] HTTP 403 Error => https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137517
+[200] HTML Error Page => https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
-[200] HTML Error Page => https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4945
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://unifi.whacat.tech/unifi1
-[200] HTML Error Page => https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+[200] HTML Error Page => https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+[200] HTML Error Page => https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23369
 [403] HTTP 403 Error => https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 [403] HTTP 403 Error => https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/57292.ts
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/16129.ts
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/10389.ts
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/784
+[200] HTML Error Page => https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 [403] HTTP 403 Error => https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/16131.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/16129.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/57292.ts
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/10389.ts
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/16130.ts
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
-[403] HTTP 403 Error => https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23369
-[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/120871
-[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-[403] HTTP 403 Error => https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-[403] HTTP 403 Error => https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137517
-[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-[404] HTTP 404 Error => http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
-[404] HTTP 404 Error => http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137531
-[401] HTTP 401 Error => https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137518
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137520
+[403] HTTP 403 Error => https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137521
+[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137531
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://xxip9.top:8080/live/RKu2Hy/559290/16131.ts
+[403] HTTP 403 Error => https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137533
+[403] HTTP 403 Error => https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137519
+[401] HTTP 401 Error => https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 [403] HTTP 403 Error => https://a151aivottlinear-a.akamaihd.net/OTTB/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 [403] HTTP 403 Error => https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137519
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137518
+[408] DEAD: OPERATION TIMEOUT => https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+[408] DEAD: OPERATION TIMEOUT => https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
-[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137521
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fighting-spirit-tv/master.m3u8?
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137533
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://aspal3.masterteve.shop/Scvid/index.m3u8?id=onU5vYF9ato&type=hls
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/120871
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/315
 [401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/316
+[404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd|Referer=https://www.visionplus.id
 [404] HTTP 404 Error => https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1973
+[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1971
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://zozotv.xyz:8080/live/abemohdz8/zoz139/298.ts
+[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id
+[403] HTTP 403 Error => https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id
+[404] HTTP 404 Error => https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://aspal3.masterteve.shop/Scvid/index.m3u8?id=onU5vYF9ato&type=hls
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd|Referer=https://www.visionplus.id
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd|Referer=https://www.visionplus.id
-[404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd|Referer=https://www.visionplus.id
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1971
 [403] HTTP 403 Error => https://zap-live1-ott.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
-[403] HTTP 403 Error => https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id
-[400] HTTP 400 Error => https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-PFL-Mma.m3u8
-[401] HTTP 401 Error => http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1973
-[404] HTTP 404 Error => https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
-[403] HTTP 403 Error => https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id
-[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd|Referer=https://www.visionplus.id
-[404] HTTP 404 Error => https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
-[403] HTTP 403 Error => https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id
-[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd|Referer=https://www.visionplus.id
-[403] HTTP 403 Error => https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd|Referer=https://www.visionplus.id
-[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd|Referer=https://www.visionplus.id
+[403] HTTP 403 Error => https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-[404] HTTP 404 Error => https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
+[404] HTTP 404 Error => https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 [403] HTTP 403 Error => https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-[404] HTTP 404 Error => https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+[403] HTTP 403 Error => https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id
+[403] HTTP 403 Error => https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd|Referer=https://www.visionplus.id
+[404] HTTP 404 Error => https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-[408] DEAD: OPERATION TIMEOUT => https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+[400] HTTP 400 Error => https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-PFL-Mma.m3u8
+[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd|Referer=https://www.visionplus.id
+[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd|Referer=https://www.visionplus.id
 [404] HTTP 404 Error => https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
 [404] HTTP 404 Error => https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
-[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd|Referer=https://www.visionplus.id
 [404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id
-[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd|Referer=https://www.visionplus.id
 [403] HTTP 403 Error => https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd|Referer=https://www.visionplus.id
-[503] HTTP 503 Error => https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+[404] HTTP 404 Error => https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd|Referer=https://www.visionplus.id
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
+[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3284600346800000.mpd
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3284600346800000.mpd
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+[404] HTTP 404 Error => https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=denslife-style
-[404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd|Referer=https://www.visionplus.id
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
-[200] DEAD: Manifest DASH (.mpd) Rusak / Bukan XML MPD => https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://zozotv.xyz:8080/live/abemohdz8/zoz139/298.ts
-[408] DEAD: OPERATION TIMEOUT => https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+[404] HTTP 404 Error => https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd|Referer=https://www.visionplus.id
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
+[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
-[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://spstr.abntv.live/hls/psstream.m3u8
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 [403] HTTP 403 Error => https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-[403] HTTP 403 Error => https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-[403] HTTP 403 Error => https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 [404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mediampd/TVBSNews.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8
+[403] HTTP 403 Error => https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+[403] HTTP 403 Error => https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvcomprehensive/manifest.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvfinance/manifest.mpd
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://spstr.abntv.live/hls/psstream.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvvariety/manifest.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://6.cdn.loc.cc/163189.php?id=tvb1
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 [404] HTTP 404 Error => https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
-[200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/fct4k
-[200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/fhzw
 [404] HTTP 404 Error => https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
+[200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/fhhk
+[200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/fct4k
 [200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/amzy
 [200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/fhzx
-[200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/fhhk
-[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+[200] DEAD: Terdeteksi Pengalihan Login/Portal => http://cdn6.163189.xyz/163189/fhzw
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mediampd/TVBSNews.mpd
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 [401] HTTP 401 Error => https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 [403] HTTP 403 Error => https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 [404] HTTP 404 Error => https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 [404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
+[404] HTTP 404 Error => https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
+[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 [403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 [403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
-[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
-[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-[404] HTTP 404 Error => https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
-[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://slive.mana2.my/SpotvNow/index.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAiyN-O_xDpFlaxGznH--Jk/.m3u8
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://slive.mana2.my/SpotvNow/index.mpd
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 [404] HTTP 404 Error => http://stvlive.net:8080/tsports1/index.m3u8
+[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+[403] HTTP 403 Error => https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+[404] HTTP 404 Error => https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+[403] HTTP 403 Error => https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/0920340006a2598122d570acf0cc560019083286/tv3.m3u9
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/e48533d8067b13e18cdd23b076704a4ad7afd377/live27-720H.m3u8
 [404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-[404] HTTP 404 Error => https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-[403] HTTP 403 Error => https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/0920340006a2598122d570acf0cc560019083286/tv3.m3u9
-[200] DEAD: Manifest DASH (.mpd) Rusak / Bukan XML MPD => https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 [404] HTTP 404 Error => https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_taptv_sd/default/index.mpd
-[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
-[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
-[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 [504] HTTP 504 Error => https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
-[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
-[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
-[403] HTTP 403 Error => https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
-[403] HTTP 403 Error => https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 [403] HTTP 403 Error => https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 [403] HTTP 403 Error => https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+[403] HTTP 403 Error => https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+[403] HTTP 403 Error => https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+[403] HTTP 403 Error => https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 [404] HTTP 404 Error => https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/d5510190115ed7c5bd1a6fcbc1a5c7e8b533cdad/364bfe25097b975.m3u8
-[200] DEAD: Manifest DASH (.mpd) Rusak / Bukan XML MPD => https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-[200] DEAD: Manifest DASH (.mpd) Rusak / Bukan XML MPD => https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/74b838315a93dec6a53bb4092696f809145d134f/f74b5dff8b8e6c6.m3u8
-[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd|Referer=https://www.visionplus.id
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/4adc6c58578312b27c838a0659c15113219daf91/18d7c304801584a.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
-[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd|Referer=https://www.visionplus.id
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 [403] HTTP 403 Error => https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+[403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/74b838315a93dec6a53bb4092696f809145d134f/f74b5dff8b8e6c6.m3u8
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/4adc6c58578312b27c838a0659c15113219daf91/18d7c304801584a.m3u8
 [403] HTTP 403 Error => https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+[403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 [504] HTTP 504 Error => https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8
 [403] HTTP 403 Error => https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+[404] HTTP 404 Error => https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/091820896e8220e1fdd804f6789103d17fbed522/MQGHZhlYFicsYHQ.m3u8
 [404] HTTP 404 Error => https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+[404] HTTP 404 Error => https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 [404] HTTP 404 Error => https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
-[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://gooo.blog/opix/genx.m3u8?id=vchina&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://popmi.my.id/tes.m3u8?id=7619
@@ -518,77 +516,85 @@
 [404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 [404] HTTP 404 Error => https://dash4.antik.sk/live/mb_sexy/index.m3u8
 [404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
+[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 [404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
 [403] HTTP 403 Error => http://185.18.56.26:8888/magic/index.m3u8
-[404] HTTP 404 Error => https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 [403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=5b044e1fc353b94ef56eb7a098cfafcd&wsABSTime=1773524147
-[200] DEAD: Format Tidak Dikenali / Stream Tanpa Video => http://49.0.64.96:8007/HiSports
-[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=a2aa2cf100421c079db14365e35f5efd&wsABSTime=1773524151
-[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=d1dc4cd827fefb6d01dc565e31c4c191&wsABSTime=1773524153
 [403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=3bb1292f08032a8f1b46818be73d3b90&wsABSTime=1773524150
+[200] DEAD: Format Tidak Dikenali / Stream Tanpa Video => http://49.0.64.96:8007/HiSports
+[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=d1dc4cd827fefb6d01dc565e31c4c191&wsABSTime=1773524153
+[403] HTTP 403 Error => https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=a2aa2cf100421c079db14365e35f5efd&wsABSTime=1773524151
+[0] DEAD: DNS ERROR / CONNECTION REFUSED => https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
+[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://slive.mana2.my/AniPlus/index.mpd
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://slive.mana2.my/AniPlus/index.mpd
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
-[200] HTML Error Page => https://freeiptv2026.sepak7042.workers.dev/go
 [408] DEAD: OPERATION TIMEOUT => http://tv.casindo.org/hls/17/17.m3u8
 [408] DEAD: OPERATION TIMEOUT => http://tv.casindo.org/hls/18/18.m3u8
 [408] DEAD: OPERATION TIMEOUT => http://tv.casindo.org/hls/13/13.m3u8
 [0] DEAD: DNS ERROR / CONNECTION REFUSED => https://live.trendgallary.com/live/13684862_b5285f6d6854279cfb7d4c6434670612.m3u8
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+[408] DEAD: OPERATION TIMEOUT => https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
