@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS Premier League DE
-http://myxpanel.pro/faith/faith/276905
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/sky-sport-tennis-de.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS Tennis
 http://myxpanel.pro/faith/faith/318044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS Premier League DE
+http://myxpanel.pro/faith/faith/276905
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-name="" tvg-logo="https://iili.io/JpwYNG2.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS FOOTBALL
 http://myxpanel.pro/faith/faith/276923
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-name="" tvg-logo="https://iili.io/JpwYNG2.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS FOOTBALL
