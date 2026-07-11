@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 428,
-  "totalDead": 593,
-  "uptime": "41.92%",
-  "scanDuration": "60.0s",
-  "lastScan": "2026-07-11T09:55:22.772Z",
+  "totalLive": 427,
+  "totalDead": 594,
+  "uptime": "41.82%",
+  "scanDuration": "54.5s",
+  "lastScan": "2026-07-11T15:30:30.193Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 428,
-      "dead": 593
+      "live": 427,
+      "dead": 594
     }
   },
   "channelStatistics": {
@@ -76,8 +76,8 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 12,
+      "dead": 1
     },
     "SKY SPORTS": {
       "total": 11,
@@ -119,30 +119,30 @@
       "live": 18,
       "dead": 24
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
       "live": 13,
       "dead": 30
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 15,
-      "dead": 10
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 15,
+      "dead": 10
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -171,8 +171,8 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 5,
+      "dead": 5
     },
     "Fashion": {
       "total": 8,
@@ -181,8 +181,8 @@
     },
     "News": {
       "total": 20,
-      "live": 14,
-      "dead": 6
+      "live": 13,
+      "dead": 7
     },
     "Lifestyle": {
       "total": 8,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 6,
+      "dead": 18
     },
     "🇵🇭 Philippines": {
       "total": 5,

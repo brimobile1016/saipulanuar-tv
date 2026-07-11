@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="320.astro" tvg-name="" tvg-logo="https://iili.io/Jmo3XVt.png" tvg-country="" tvg-language="" group-title="HIBURAN",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="More4 HD.uk" tvg-name="" tvg-logo="https://iili.io/d9mgkpn.png" tvg-country="" tvg-language="" group-title="HIBURAN",More4
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
-#EXTINF:-1 tvg-id="E4 HD.uk" tvg-name="" tvg-logo="https://iili.io/d9mg8Is.png" tvg-country="" tvg-language="" group-title="HIBURAN",E4
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="" tvg-logo="https://iili.io/d9mgekX.png" tvg-country="" tvg-language="" group-title="HIBURAN",4seven
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
-#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" tvg-name="" tvg-logo="https://iili.io/Jmo2lu2.png" tvg-country="" tvg-language="" group-title="HIBURAN",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/doG0LSj.png" tvg-country="" tvg-language="" group-title="HIBURAN",TFC
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 #EXTINF:-1 tvg-id="GMA/Pinoy TV (3683).us" tvg-name="" tvg-logo="https://iili.io/2rSp1ZQ.png" tvg-country="" tvg-language="" group-title="HIBURAN",GMA Pinoy TV
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="" tvg-logo="https://iili.io/d9mgekX.png" tvg-country="" tvg-language="" group-title="HIBURAN",4seven
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+#EXTINF:-1 tvg-id="E4 HD.uk" tvg-name="" tvg-logo="https://iili.io/d9mg8Is.png" tvg-country="" tvg-language="" group-title="HIBURAN",E4
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+#EXTINF:-1 tvg-id="More4 HD.uk" tvg-name="" tvg-logo="https://iili.io/d9mgkpn.png" tvg-country="" tvg-language="" group-title="HIBURAN",More4
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" tvg-name="" tvg-logo="https://iili.io/Jmo2lu2.png" tvg-country="" tvg-language="" group-title="HIBURAN",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="52191" tvg-name="" tvg-logo="https://iili.io/Jmo3pWP.png" tvg-country="" tvg-language="" group-title="HIBURAN",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JmoKN9f.png" tvg-country="" tvg-language="" group-title="HIBURAN",Das Erste International
