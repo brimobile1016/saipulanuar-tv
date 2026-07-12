@@ -5,6 +5,8 @@ http://myxpanel.pro/faith/faith/276905
 http://myxpanel.pro/faith/faith/318044
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-name="" tvg-logo="https://iili.io/JpwYNG2.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS FOOTBALL
 http://myxpanel.pro/faith/faith/276923
+#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-name="" tvg-logo="https://iili.io/Jpwc5fp.jpg" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS MAIN EVENT
+http://myxpanel.pro/faith/faith/276917
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-name="" tvg-logo="https://iili.io/JpwYNG2.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS FOOTBALL
 http://myxpanel.pro/faith/faith/276923
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/82plpt1601128493.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORT ARENA
@@ -13,7 +15,5 @@ http://myxpanel.pro/faith/faith/709400
 http://myxpanel.pro/faith/faith/276917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/skysport.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORT RACING
 http://myxpanel.pro/faith/faith/276902
-#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-name="" tvg-logo="https://iili.io/Jpwc5fp.jpg" tvg-country="" tvg-language="" group-title="SKY SPORTS",SKY SPORTS MAIN EVENT
-http://myxpanel.pro/faith/faith/276917
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/mssdWvm.png" tvg-country="" tvg-language="" group-title="SKY SPORTS",Sky Sports F1 HD UK
 http://myxpanel.pro/faith/faith/709395
