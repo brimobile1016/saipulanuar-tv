@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 421,
-  "totalDead": 600,
-  "uptime": "41.23%",
-  "scanDuration": "59.2s",
-  "lastScan": "2026-07-11T21:24:29.075Z",
+  "totalLive": 432,
+  "totalDead": 589,
+  "uptime": "42.31%",
+  "scanDuration": "64.5s",
+  "lastScan": "2026-07-12T10:05:43.826Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 421,
-      "dead": 600
+      "live": 432,
+      "dead": 589
     }
   },
   "channelStatistics": {
@@ -81,8 +81,13 @@
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 9,
+      "dead": 2
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "ASTRO": {
       "total": 1,
@@ -91,18 +96,13 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 37,
-      "dead": 22
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
+      "live": 36,
+      "dead": 23
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
-      "live": 5,
-      "dead": 2
+      "live": 4,
+      "dead": 3
     },
     "Sports Visionplus": {
       "total": 12,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 10,
+      "dead": 41
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 13,
-      "dead": 30
+      "live": 12,
+      "dead": 31
     },
     "FIFA+": {
       "total": 9,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 17,
-      "dead": 8
+      "live": 18,
+      "dead": 7
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -151,8 +151,8 @@
     },
     "CHANNEL |  MOTOGP & F1": {
       "total": 8,
-      "live": 3,
-      "dead": 5
+      "live": 4,
+      "dead": 4
     },
     "SPORTS PREMIUM": {
       "total": 78,
@@ -169,6 +169,11 @@
       "live": 8,
       "dead": 26
     },
+    "Lifestyle": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "HBO GO": {
       "total": 10,
       "live": 5,
@@ -183,11 +188,6 @@
       "total": 20,
       "live": 14,
       "dead": 6
-    },
-    "Lifestyle": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
@@ -241,13 +241,13 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 48,
-      "dead": 19
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 23,
-      "dead": 7
+      "live": 29,
+      "dead": 1
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
