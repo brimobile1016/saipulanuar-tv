@@ -11,25 +11,27 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/defaul
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="ITBA3300046KE" tvg-name="WildEarth" tvg-logo="https://warningfm.github.io/v3/img/Mu3QRrg.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",WildEarth
 https://wildearth-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.earthtouchnews.com/media/1954995/logo-big.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Earth Touch tv
-https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",AWE Encore
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",National Geographic Wild
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Global Trekker
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.earthtouchnews.com/media/1954995/logo-big.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Earth Touch tv
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",History HD
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://warningfm.github.io/v3/img/xR2QgyB.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Smithsonian Channel
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 tvg-id="NatureTime" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/1M72vsb.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",National Geographic Wild
-https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpifIjMWpn3PXEAt0QdU0eu6lWiEUCW4CFUg&s" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",FOX WEATHER
-https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",AWE Encore
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
 #EXTINF:-1 tvg-id="biznet adventure" tvg-name="" tvg-logo="https://iili.io/JmoCN07.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",History HD
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpifIjMWpn3PXEAt0QdU0eu6lWiEUCW4CFUg&s" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic Channel HD" tvg-name="" tvg-logo="https://iili.io/JmoCZ5g.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDoc.ru" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCyw-KzJ9ZlXfik4e2z5h6rSfIMahcCiWg9Q&s" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",RT DOCUMENTARY
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://warningfm.github.io/v3/img/p7w8wS3.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
