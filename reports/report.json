@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 430,
-  "totalDead": 591,
-  "uptime": "42.12%",
-  "scanDuration": "57.7s",
-  "lastScan": "2026-07-12T21:24:44.951Z",
+  "totalLive": 434,
+  "totalDead": 587,
+  "uptime": "42.51%",
+  "scanDuration": "56.0s",
+  "lastScan": "2026-07-13T11:35:32.766Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 430,
-      "dead": 591
+      "live": 434,
+      "dead": 587
     }
   },
   "channelStatistics": {
@@ -19,25 +19,25 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 5,
       "dead": 6
     },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
+    },
     "BRI SUPER LEAGUE": {
       "total": 2,
       "live": 1,
       "dead": 1
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -71,13 +71,13 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 28,
-      "dead": 37
+      "live": 29,
+      "dead": 36
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 10,
-      "dead": 3
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
@@ -101,8 +101,8 @@
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
-      "live": 5,
-      "dead": 2
+      "live": 4,
+      "dead": 3
     },
     "Sports Visionplus": {
       "total": 12,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 8,
-      "dead": 43
+      "live": 10,
+      "dead": 41
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 12,
-      "dead": 31
+      "live": 13,
+      "dead": 30
     },
     "FIFA+": {
       "total": 9,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 19,
-      "dead": 6
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -151,8 +151,8 @@
     },
     "CHANNEL |  MOTOGP & F1": {
       "total": 8,
-      "live": 4,
-      "dead": 4
+      "live": 3,
+      "dead": 5
     },
     "SPORTS PREMIUM": {
       "total": 78,
@@ -171,8 +171,8 @@
     },
     "HBO GO": {
       "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 5,
+      "dead": 5
     },
     "Lifestyle": {
       "total": 8,
@@ -226,8 +226,8 @@
     },
     "🇵🇭 Philippines": {
       "total": 5,
-      "live": 3,
-      "dead": 2
+      "live": 2,
+      "dead": 3
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
