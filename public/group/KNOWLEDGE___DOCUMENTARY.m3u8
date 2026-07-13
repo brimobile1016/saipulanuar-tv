@@ -19,10 +19,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 #EXTINF:-1 tvg-id="NatureTime" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/1M72vsb.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",National Geographic Wild
-https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpifIjMWpn3PXEAt0QdU0eu6lWiEUCW4CFUg&s" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",FOX WEATHER
 https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",National Geographic Wild
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="biznet adventure" tvg-name="" tvg-logo="https://iili.io/JmoCN07.png" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://warningfm.github.io/v3/img/xR2QgyB.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="KNOWLEDGE & DOCUMENTARY",Smithsonian Channel
