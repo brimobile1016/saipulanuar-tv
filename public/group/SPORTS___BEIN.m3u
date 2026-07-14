@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BEIN SPORTS 1 ENG
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sports AU 1
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BEIN SPORTS 2 ENG
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZKf6dHUatsDKFvbHPGqhiuOxgt-GxONHA7A6ZZ5aEQ&s=10" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sports AU 2
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BEIN SPORTS 3 ENG
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-c2KIPwa3gYG3oZ3twS4y8KTyxmLu-RhrVfVJlFZ6dg&s=10" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sports AU 3
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS AR 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=124651&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 3 HD
+http://tv.cloudcdn.me/live.ts?channelId=124653&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-c2KIPwa3gYG3oZ3twS4y8KTyxmLu-RhrVfVJlFZ6dg&s=10" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sports AU 3
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BEIN SPORTS 3 ENG
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BEIN SPORTS 1 ENG
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZKf6dHUatsDKFvbHPGqhiuOxgt-GxONHA7A6ZZ5aEQ&s=10" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sports AU 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BEIN SPORTS 2 ENG
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sports AU 1
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 2 HD
 http://tv.cloudcdn.me/live.ts?channelId=124652&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 4 HD
-http://tv.cloudcdn.me/live.ts?channelId=124654&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 5 HD
-http://tv.cloudcdn.me/live.ts?channelId=124655&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 9 HD
-http://tv.cloudcdn.me/live.ts?channelId=124659&uid=15301&deviceMac=00:1A:79:1D:53:3F
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 6 HD
 http://tv.cloudcdn.me/live.ts?channelId=124656&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 5 HD
+http://tv.cloudcdn.me/live.ts?channelId=124655&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 4 HD
+http://tv.cloudcdn.me/live.ts?channelId=124654&uid=15301&deviceMac=00:1A:79:1D:53:3F
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 8 HD
 http://tv.cloudcdn.me/live.ts?channelId=124658&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 7 HD
-http://tv.cloudcdn.me/live.ts?channelId=124657&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",beIN SPORTS  AR 9 HD
+http://tv.cloudcdn.me/live.ts?channelId=124659&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sport 3 HD Serbia
+http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sport 1 HD Serbia
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sport 2 HD Serbia
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sport 4 HD Serbia
 http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN Sport 3 HD Serbia
-http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="" tvg-logo="https://ip-tv.dev/images/epg/1686.png?v1743766086" tvg-country="" tvg-language="" group-title="SPORTS | BEIN",BeIN EXTRAS Serbia
 http://ua.online24.pm/play/1686/350B326FB34F4B8/video.m3u8
