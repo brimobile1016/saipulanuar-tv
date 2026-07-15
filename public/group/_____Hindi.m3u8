@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in" tvg-logo="https://warningfm.github.io/v3/img/lfJZsIq.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇮🇳 Hindi",Z Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-#EXTINF:-1 tvg-id="Zee Bollywood.in" tvg-name="Zee Bollywood.in" tvg-logo="https://warningfm.github.io/v3/img/8RckLVA.png?v=8.8.4.4" tvg-country="" tvg-language="" group-title="🇮🇳 Hindi",Z Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-#EXTINF:-1 tvg-id="Zee TV.in" tvg-name="Zee TV.in" tvg-logo="https://warningfm.github.io/v3/img/hLTssci.png?v=1.0.0.1" tvg-country="" tvg-language="Hindi" group-title="🇮🇳 Hindi",Z TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #EXTINF:-1 tvg-id="andpictures.in" tvg-name="andpictures.in" tvg-logo="https://warningfm.github.io/v3/img/OYN1cD3.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇮🇳 Hindi",&pictures
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+#EXTINF:-1 tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in" tvg-logo="https://warningfm.github.io/v3/img/lfJZsIq.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇮🇳 Hindi",Z Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#EXTINF:-1 tvg-id="Zee TV.in" tvg-name="Zee TV.in" tvg-logo="https://warningfm.github.io/v3/img/hLTssci.png?v=1.0.0.1" tvg-country="" tvg-language="Hindi" group-title="🇮🇳 Hindi",Z TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:-1 tvg-id="Zee Bollywood.in" tvg-name="Zee Bollywood.in" tvg-logo="https://warningfm.github.io/v3/img/8RckLVA.png?v=8.8.4.4" tvg-country="" tvg-language="" group-title="🇮🇳 Hindi",Z Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd

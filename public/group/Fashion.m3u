@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-name="Fashion TV" tvg-logo="https://thumbs2.imgbox.com/27/c1/eIEHfm5A_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",Fashion TV Midnight Secrets
-https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="World Fashion Channel En.ru" tvg-name="World Fashion Channel En.ru" tvg-logo="https://thumbs2.imgbox.com/6b/28/C2bE3Msb_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",Global Fashion Channel
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru" tvg-logo="https://thumbs2.imgbox.com/89/68/0mWfTAI9_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",Fashion One
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="FashionTV HD" tvg-logo="https://thumbs2.imgbox.com/2c/27/CbJWOpL7_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",FashionTV HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
+#EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-name="Fashion TV" tvg-logo="https://thumbs2.imgbox.com/27/c1/eIEHfm5A_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",Fashion TV Midnight Secrets
+https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="World Fashion Channel En.ru" tvg-name="World Fashion Channel En.ru" tvg-logo="https://thumbs2.imgbox.com/6e/a1/oVGKQbaC_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",World Fashion Channel
 https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/fs/stream-eng.m3u8
+#EXTINF:-1 tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru" tvg-logo="https://thumbs2.imgbox.com/89/68/0mWfTAI9_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",Fashion One
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="World Fashion Channel En.ru" tvg-name="World Fashion Channel En.ru" tvg-logo="https://thumbs2.imgbox.com/6b/28/C2bE3Msb_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs2.imgbox.com/c1/80/kTOs22US_t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="Fashion",MiamiTV Fashion
 https://gist.githubusercontent.com/warningfm/59db6482e1faef80b94ef7c31e8ebb5f/raw/1190e0b8e1e8f98497e77cfced87494c93d6a8b5/801a98b42276bae.m3u8
