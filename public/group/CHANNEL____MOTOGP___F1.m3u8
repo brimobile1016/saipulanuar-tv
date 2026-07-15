@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" tvg-country="" tvg-language="" group-title="CHANNEL |  MOTOGP & F1",SpoTV 2 PH
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" tvg-country="" tvg-language="" group-title="CHANNEL |  MOTOGP & F1",SpoTV 1 PH
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" tvg-country="" tvg-language="" group-title="CHANNEL |  MOTOGP & F1",SkySportMotoGP
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" tvg-country="" tvg-language="" group-title="CHANNEL |  MOTOGP & F1",SpoTV 2 PH
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" tvg-country="" tvg-language="" group-title="CHANNEL |  MOTOGP & F1",SPOTV 2 (VS+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
