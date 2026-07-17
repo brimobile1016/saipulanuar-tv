@@ -11,91 +11,91 @@ https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/premium.jpg" tvg-country="" tvg-language="" group-title="MUSIC",PREMIUM
 https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/mb-classic.jpg" tvg-country="" tvg-language="" group-title="MUSIC",MUSIX BOX CLASSIC
-https://dash3.antik.sk/live/mb_classic/index.m3u8
-#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="MUSIC",MIC
-https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/ocko.jpg" tvg-country="" tvg-language="" group-title="MUSIC",OCKO
 https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/mb-classic.jpg" tvg-country="" tvg-language="" group-title="MUSIC",MUSIX BOX CLASSIC
+https://dash3.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/ockoblack.jpg" tvg-country="" tvg-language="" group-title="MUSIC",OCKO BLACK
 https://dash3.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="MUSIC",MIC
+https://mic.siar.us/mic/live/mic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/retromusic.jpg" tvg-country="" tvg-language="" group-title="MUSIC",RETRO MUSIC
+https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/ockoexpress.jpg" tvg-country="" tvg-language="" group-title="MUSIC",OCKO EXPRES
 https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/ockostar.jpg" tvg-country="" tvg-language="" group-title="MUSIC",OCKO STAR
 https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/rebel.jpg" tvg-country="" tvg-language="" group-title="MUSIC",REBEL
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/ockostar.jpg" tvg-country="" tvg-language="" group-title="MUSIC",OCKO STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="" tvg-logo="https://i.imgur.com/nh1k5RC.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="" tvg-logo="https://i.imgur.com/FBgu8yB.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-name="" tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" tvg-country="" tvg-language="" group-title="MUSIC",Movie Music By Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Easy Listening
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/retromusic.jpg" tvg-country="" tvg-language="" group-title="MUSIC",RETRO MUSIC
-https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/stingrayinconcerts.jpg" tvg-country="" tvg-language="" group-title="MUSIC",STINGRAY ICONCERTS
-https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/rebel.jpg" tvg-country="" tvg-language="" group-title="MUSIC",REBEL
-https://dash3.antik.sk/live/test_rebel/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="" tvg-logo="https://i.imgur.com/PZhxyIT.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Hot Country
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-name="" tvg-logo="https://i.imgur.com/9TLTLS3.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Karaoke
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="" tvg-logo="https://i.imgur.com/jf5C9QF.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Flashback 70s
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="" tvg-logo="https://i.imgur.com/nh1k5RC.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
-#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-name="" tvg-logo="https://i.imgur.com/Tq3I0po.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Nothin' But 90s
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="" tvg-logo="https://i.imgur.com/882kd90.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Naturescape
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="" tvg-logo="https://i.imgur.com/lgpIwId.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Hit List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="" tvg-logo="https://i.imgur.com/jf5C9QF.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-name="" tvg-logo="https://i.imgur.com/4xVVKH8.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-name="" tvg-logo="https://i.imgur.com/ywAN923.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray The Spa
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="" tvg-logo="https://i.imgur.com/H2ugC9L.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Pop Adult
-https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-name="" tvg-logo="https://i.imgur.com/dU1KC3f.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Soul Storm
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo '90s & '00s
-https://jmp2.uk/stvp-GBBC2100002HP
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-name="" tvg-logo="https://i.imgur.com/Os3kRRP.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Today's Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-name="" tvg-logo="https://i.imgur.com/Os3kRRP.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Urban Beat
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-name="" tvg-logo="https://i.imgur.com/mt8ulVX.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Rock Alternative
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="" tvg-logo="https://i.imgur.com/h1DsOzH.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-name="" tvg-logo="https://i.imgur.com/9TLTLS3.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/stingrayinconcerts.jpg" tvg-country="" tvg-language="" group-title="MUSIC",STINGRAY ICONCERTS
+https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="" tvg-logo="https://i.imgur.com/lgpIwId.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="" tvg-logo="https://i.imgur.com/882kd90.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-name="" tvg-logo="https://i.imgur.com/Tq3I0po.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-name="" tvg-logo="https://i.imgur.com/6E3wYrb.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Remember the 80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-name="" tvg-logo="https://i.imgur.com/mMbntB5.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Today's KPOP
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo Pop
-https://jmp2.uk/stvp-GBBC19000017V
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",XITE Celebrates
-https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-name="" tvg-logo="https://i.imgur.com/mt8ulVX.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="" tvg-logo="https://i.imgur.com/PZhxyIT.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="" tvg-logo="https://i.imgur.com/h1DsOzH.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",XITE 90s Throwback
 https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-name="" tvg-logo="https://i.imgur.com/dU1KC3f.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-name="" tvg-logo="https://i.imgur.com/ywAN923.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-name="" tvg-logo="https://i.imgur.com/Os3kRRP.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="" tvg-logo="https://i.imgur.com/H2ugC9L.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-name="" tvg-logo="https://i.imgur.com/Os3kRRP.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-name="" tvg-logo="https://i.imgur.com/mMbntB5.png" tvg-country="" tvg-language="" group-title="MUSIC",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",XITE Rock x Metal
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",XITE 80s Flashback
 https://jmp2.uk/stvp-USBB320000647
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",XITE Hits
-https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo 2K
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo '70s & '80s
 https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo Hip Hop & R&B
 https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" tvg-country="" tvg-language="" group-title="MUSIC",Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
