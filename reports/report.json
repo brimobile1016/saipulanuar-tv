@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 408,
-  "totalDead": 613,
-  "uptime": "39.96%",
-  "scanDuration": "65.5s",
-  "lastScan": "2026-07-18T15:29:52.942Z",
+  "totalLive": 413,
+  "totalDead": 608,
+  "uptime": "40.45%",
+  "scanDuration": "51.0s",
+  "lastScan": "2026-07-18T21:26:07.304Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 408,
-      "dead": 613
+      "live": 413,
+      "dead": 608
     }
   },
   "channelStatistics": {
@@ -26,8 +26,8 @@
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
-      "live": 4,
-      "dead": 7
+      "live": 3,
+      "dead": 8
     },
     "CHAMPIONS TV": {
       "total": 6,
@@ -71,18 +71,23 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 28,
-      "dead": 37
+      "live": 29,
+      "dead": 36
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 9,
-      "dead": 4
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
       "live": 9,
       "dead": 2
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "ASTRO": {
       "total": 1,
@@ -91,13 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 34,
-      "dead": 25
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
+      "live": 32,
+      "dead": 27
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 16,
-      "dead": 26
+      "live": 17,
+      "dead": 25
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 14,
-      "dead": 29
+      "live": 13,
+      "dead": 30
     },
     "FIFA+": {
       "total": 9,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 16,
-      "dead": 9
+      "live": 19,
+      "dead": 6
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -156,13 +156,13 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 28,
-      "dead": 50
+      "live": 27,
+      "dead": 51
     },
     "MMA/UFC": {
       "total": 15,
-      "live": 6,
-      "dead": 9
+      "live": 5,
+      "dead": 10
     },
     "Movies": {
       "total": 34,
@@ -186,23 +186,23 @@
     },
     "News": {
       "total": 20,
-      "live": 12,
-      "dead": 8
+      "live": 13,
+      "dead": 7
     },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 2,
       "dead": 3
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
-    },
     "🇨🇳 China": {
       "total": 19,
       "live": 6,
       "dead": 13
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 7,
-      "dead": 8
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
