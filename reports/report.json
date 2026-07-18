@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 413,
-  "totalDead": 608,
-  "uptime": "40.45%",
-  "scanDuration": "55.1s",
-  "lastScan": "2026-07-17T21:22:49.343Z",
+  "totalLive": 415,
+  "totalDead": 606,
+  "uptime": "40.65%",
+  "scanDuration": "61.0s",
+  "lastScan": "2026-07-18T09:52:44.291Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 413,
-      "dead": 608
+      "live": 415,
+      "dead": 606
     }
   },
   "channelStatistics": {
@@ -19,25 +19,25 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 5,
-      "dead": 6
-    },
     "EVENT 014/MARET/2026": {
       "total": 10,
       "live": 5,
       "dead": 5
     },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
+    },
     "BRI SUPER LEAGUE": {
       "total": 2,
-      "live": 1,
-      "dead": 1
+      "live": 0,
+      "dead": 2
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 10,
+      "dead": 41
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -126,8 +126,8 @@
     },
     "TV SONY": {
       "total": 7,
-      "live": 3,
-      "dead": 4
+      "live": 4,
+      "dead": 3
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 18,
-      "dead": 7
+      "live": 17,
+      "dead": 8
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -161,8 +161,8 @@
     },
     "MMA/UFC": {
       "total": 15,
-      "live": 5,
-      "dead": 10
+      "live": 6,
+      "dead": 9
     },
     "Movies": {
       "total": 34,
@@ -174,6 +174,11 @@
       "live": 0,
       "dead": 10
     },
+    "Lifestyle": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "Fashion": {
       "total": 8,
       "live": 6,
@@ -184,25 +189,20 @@
       "live": 13,
       "dead": 7
     },
-    "Lifestyle": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 2,
       "dead": 3
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
-    },
     "🇨🇳 China": {
       "total": 19,
       "live": 6,
       "dead": 13
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
