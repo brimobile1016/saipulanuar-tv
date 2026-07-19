@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 411,
-  "totalDead": 610,
-  "uptime": "40.25%",
-  "scanDuration": "62.8s",
-  "lastScan": "2026-07-19T15:30:41.413Z",
+  "totalLive": 412,
+  "totalDead": 609,
+  "uptime": "40.35%",
+  "scanDuration": "71.1s",
+  "lastScan": "2026-07-19T21:27:15.201Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 411,
-      "dead": 610
+      "live": 412,
+      "dead": 609
     }
   },
   "channelStatistics": {
@@ -81,8 +81,8 @@
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 9,
-      "dead": 2
+      "live": 7,
+      "dead": 4
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -111,28 +111,28 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 10,
-      "dead": 41
+      "live": 11,
+      "dead": 40
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
       "live": 17,
       "dead": 25
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
     },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
+    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 13,
-      "dead": 30
+      "live": 14,
+      "dead": 29
     },
     "FIFA+": {
       "total": 9,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 19,
-      "dead": 6
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
