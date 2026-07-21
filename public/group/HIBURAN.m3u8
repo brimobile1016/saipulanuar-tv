@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JZIn27R.png" tvg-country="" tvg-language="" group-title="HIBURAN",El John TV
-https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
-#EXTINF:-1 tvg-id="320.astro" tvg-name="" tvg-logo="https://iili.io/Jmo3XVt.png" tvg-country="" tvg-language="" group-title="HIBURAN",TVBS Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="Arirang - [Channel 351].id" tvg-name="" tvg-logo="https://iili.io/Jmo2lu2.png" tvg-country="" tvg-language="" group-title="HIBURAN",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="320.astro" tvg-name="" tvg-logo="https://iili.io/Jmo3XVt.png" tvg-country="" tvg-language="" group-title="HIBURAN",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="" tvg-logo="https://iili.io/d9mgekX.png" tvg-country="" tvg-language="" group-title="HIBURAN",4seven
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-id="More4 HD.uk" tvg-name="" tvg-logo="https://iili.io/d9mgkpn.png" tvg-country="" tvg-language="" group-title="HIBURAN",More4
