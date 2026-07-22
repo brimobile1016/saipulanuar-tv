@@ -3,14 +3,10 @@
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 #EXTINF:-1 tvg-id="97104" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/6KZAQ9Z.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Channel 8
 https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
-#EXTINF:-1 tvg-id="97096" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/wFp4cXP.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Vasantham
-https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
-#EXTINF:-1 tvg-id="97084" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/tcr1Eef.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Suria
-https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 #EXTINF:-1 tvg-id="97129" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/1YC0WmK.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Channel U
 https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dt0kA7e.png" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Oktolidays
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+#EXTINF:-1 tvg-id="97096" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/wFp4cXP.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Vasantham
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dt0kA7e.png" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png" tvg-country="" tvg-language="" group-title="🇸🇬 Singapore",Vasantham
