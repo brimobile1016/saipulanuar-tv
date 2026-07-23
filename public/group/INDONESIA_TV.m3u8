@@ -9,22 +9,22 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",TRANS 7 Acak
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnnid.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",CNN Indonesia
-http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnbcid.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",CNBC Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnnid.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",CNN Indonesia
+http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",RTV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/balitv.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",BALI TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-#EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/bandungtv.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",BANDUNG TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",TRANS 7
 https://cdnjkt913.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/bandungtv.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",BANDUNG TV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",MAGNA
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/garudatv.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",GARUDA TV
@@ -35,17 +35,21 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/oxygentv.jpg" tvg-country="" tvg-language="" group-title="INDONESIA TV",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-#EXTINF:-1 tvg-id="MOJI.id" tvg-name="MOJI" tvg-logo="https://warningfm.github.io/v3/img/sSAf4Kz.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",MOJI
-http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://warningfm.github.io/v3/img/borDppE.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",BTV
 http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://warningfm.github.io/v3/img/CiYAcVe.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",Indosiar
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://warningfm.github.io/v3/img/TYpz6Yv.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",SCTV
+http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-id="tvOne" tvg-name="tvOne" tvg-logo="https://warningfm.github.io/v3/img/UqGSTVT.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",TVONE
 http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-id="MetroTV.my.id" tvg-name="METRO TV HD" tvg-logo="https://warningfm.github.io/v3/img/cjgZtZy.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",METRO TV HD
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="MOJI" tvg-logo="https://warningfm.github.io/v3/img/sSAf4Kz.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",MOJI
+http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://i.imgur.com/3HN0wFp.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",MDTV
 http://cdn.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://warningfm.github.io/v3/img/TYpz6Yv.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="INDONESIA TV",SCTV
-http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" tvg-country="" tvg-language="" group-title="INDONESIA TV",Trans TV DT
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" tvg-country="" tvg-language="" group-title="INDONESIA TV",Trans 7 DT
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
