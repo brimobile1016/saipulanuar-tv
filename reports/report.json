@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 384,
-  "totalDead": 637,
-  "uptime": "37.61%",
-  "scanDuration": "71.3s",
-  "lastScan": "2026-07-23T21:37:02.302Z",
+  "totalLive": 388,
+  "totalDead": 633,
+  "uptime": "38.00%",
+  "scanDuration": "60.3s",
+  "lastScan": "2026-07-24T10:32:15.917Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 384,
-      "dead": 637
+      "live": 388,
+      "dead": 633
     }
   },
   "channelStatistics": {
@@ -71,13 +71,13 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 27,
-      "dead": 38
+      "live": 26,
+      "dead": 39
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 12,
+      "dead": 1
     },
     "SKY SPORTS": {
       "total": 11,
@@ -111,23 +111,23 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 10,
+      "dead": 41
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
       "live": 17,
       "dead": 25
     },
+    "TV SONY": {
+      "total": 7,
+      "live": 1,
+      "dead": 6
+    },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
-    },
-    "TV SONY": {
-      "total": 7,
-      "live": 0,
-      "dead": 7
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 27,
-      "dead": 51
+      "live": 28,
+      "dead": 50
     },
     "MMA/UFC": {
       "total": 15,
@@ -194,15 +194,15 @@
       "live": 1,
       "dead": 4
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
-    },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇮🇳 Hindi": {
       "total": 11,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 6,
+      "dead": 18
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,13 +231,13 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
-      "live": 22,
-      "dead": 13
+      "live": 23,
+      "dead": 12
     },
     "MUSIC": {
       "total": 67,
@@ -248,11 +248,6 @@
       "total": 30,
       "live": 30,
       "dead": 0
-    },
-    "🐓ADU AYAM | SABUNG AYAM": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
@@ -265,6 +260,11 @@
       "dead": 59
     },
     "LIVE EVENT | AFC Women’s Asian Cup": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
+    },
+    "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
