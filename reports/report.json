@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 385,
-  "totalDead": 636,
-  "uptime": "37.71%",
-  "scanDuration": "67.8s",
-  "lastScan": "2026-07-27T16:38:45.535Z",
+  "totalLive": 383,
+  "totalDead": 638,
+  "uptime": "37.51%",
+  "scanDuration": "59.8s",
+  "lastScan": "2026-07-27T21:41:46.934Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 385,
-      "dead": 636
+      "live": 383,
+      "dead": 638
     }
   },
   "channelStatistics": {
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
+    "EVENT 014/MARET/2026": {
+      "total": 10,
       "live": 5,
-      "dead": 6
+      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
       "live": 5,
-      "dead": 5
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -76,13 +76,18 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 5,
+      "dead": 8
     },
     "SKY SPORTS": {
       "total": 11,
       "live": 9,
       "dead": 2
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "ASTRO": {
       "total": 1,
@@ -93,11 +98,6 @@
       "total": 59,
       "live": 33,
       "dead": 26
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -119,20 +119,20 @@
       "live": 17,
       "dead": 25
     },
+    "TV SONY": {
+      "total": 7,
+      "live": 3,
+      "dead": 4
+    },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 12,
-      "dead": 31
+      "live": 14,
+      "dead": 29
     },
     "FIFA+": {
       "total": 9,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
