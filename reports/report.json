@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 388,
-  "totalDead": 633,
-  "uptime": "38.00%",
-  "scanDuration": "73.1s",
-  "lastScan": "2026-07-28T16:18:54.396Z",
+  "totalLive": 380,
+  "totalDead": 641,
+  "uptime": "37.22%",
+  "scanDuration": "71.2s",
+  "lastScan": "2026-07-28T21:40:55.509Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 388,
-      "dead": 633
+      "live": 380,
+      "dead": 641
     }
   },
   "channelStatistics": {
@@ -76,18 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 10,
-      "dead": 3
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
       "live": 9,
       "dead": 2
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "ASTRO": {
       "total": 1,
@@ -96,8 +91,13 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 33,
-      "dead": 26
+      "live": 26,
+      "dead": 33
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -134,15 +134,15 @@
       "live": 13,
       "dead": 30
     },
-    "FIFA+": {
-      "total": 9,
-      "live": 9,
-      "dead": 0
-    },
     "SPORTS | BEIN": {
       "total": 25,
       "live": 12,
       "dead": 13
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -194,15 +194,15 @@
       "live": 1,
       "dead": 4
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
-    },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -231,18 +231,18 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
-      "live": 23,
-      "dead": 12
+      "live": 22,
+      "dead": 13
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
