@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ArirangTV.id" tvg-name="Arirang TV" tvg-logo="https://warningfm.github.io/v3/img/IhPBfcH.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇰🇷 Korengan",Arirang TV
 http://khano.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBSW HD" tvg-logo="https://warningfm.github.io/v3/img/wyJL52q.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇰🇷 Korengan",KBS World
+https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
