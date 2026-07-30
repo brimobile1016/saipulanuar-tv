@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-name="" tvg-logo="https://i.imgur.com/OkQzNhc.png" tvg-country="" tvg-language="" group-title="BWF BADMINTON & VOLLEYBALL",SPORTSTARS Voli Korea
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" tvg-country="" tvg-language="" group-title="BWF BADMINTON & VOLLEYBALL",True Sports 7
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" tvg-country="" tvg-language="" group-title="BWF BADMINTON & VOLLEYBALL",VOLI BRAZIL
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-name="" tvg-logo="https://i.imgur.com/fBpLsbC.png" tvg-country="" tvg-language="" group-title="BWF BADMINTON & VOLLEYBALL",Voli Bahrain Sports 1
