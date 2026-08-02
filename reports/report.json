@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 380,
-  "totalDead": 641,
-  "uptime": "37.22%",
-  "scanDuration": "67.3s",
-  "lastScan": "2026-08-02T10:13:25.011Z",
+  "totalLive": 374,
+  "totalDead": 647,
+  "uptime": "36.63%",
+  "scanDuration": "66.2s",
+  "lastScan": "2026-08-02T15:37:34.389Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 380,
-      "dead": 641
+      "live": 374,
+      "dead": 647
     }
   },
   "channelStatistics": {
@@ -19,15 +19,15 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -76,8 +76,8 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 12,
+      "dead": 1
     },
     "SKY SPORTS": {
       "total": 11,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 13,
-      "dead": 30
+      "live": 14,
+      "dead": 29
     },
     "FIFA+": {
       "total": 9,
@@ -156,13 +156,13 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 23,
+      "dead": 55
     },
     "MMA/UFC": {
       "total": 15,
-      "live": 4,
-      "dead": 11
+      "live": 5,
+      "dead": 10
     },
     "Movies": {
       "total": 34,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 4,
-      "dead": 4
-    },
     "News": {
       "total": 20,
-      "live": 13,
-      "dead": 7
+      "live": 11,
+      "dead": 9
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -221,23 +221,23 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 5,
+      "dead": 19
     },
     "🇵🇭 Philippines": {
       "total": 5,
-      "live": 1,
-      "dead": 4
+      "live": 2,
+      "dead": 3
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
-      "live": 23,
-      "dead": 12
+      "live": 22,
+      "dead": 13
     },
     "MUSIC": {
       "total": 67,
