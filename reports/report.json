@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 390,
-  "totalDead": 631,
-  "uptime": "38.20%",
-  "scanDuration": "73.7s",
-  "lastScan": "2026-08-03T11:53:15.563Z",
+  "totalLive": 386,
+  "totalDead": 635,
+  "uptime": "37.81%",
+  "scanDuration": "73.9s",
+  "lastScan": "2026-08-03T16:56:49.844Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 390,
-      "dead": 631
+      "live": 386,
+      "dead": 635
     }
   },
   "channelStatistics": {
@@ -18,11 +18,6 @@
       "total": 11,
       "live": 7,
       "dead": 4
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
@@ -38,6 +33,11 @@
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 26,
-      "dead": 39
+      "live": 25,
+      "dead": 40
     },
     "ARENA SPORT": {
       "total": 13,
@@ -126,8 +126,8 @@
     },
     "TV SONY": {
       "total": 7,
-      "live": 4,
-      "dead": 3
+      "live": 3,
+      "dead": 4
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -191,8 +191,8 @@
     },
     "Fashion": {
       "total": 8,
-      "live": 5,
-      "dead": 3
+      "live": 4,
+      "dead": 4
     },
     "🇨🇳 China": {
       "total": 19,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
