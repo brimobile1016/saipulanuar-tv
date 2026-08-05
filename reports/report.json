@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 387,
-  "totalDead": 634,
-  "uptime": "37.90%",
-  "scanDuration": "76.9s",
-  "lastScan": "2026-08-05T16:15:19.919Z",
+  "totalLive": 383,
+  "totalDead": 638,
+  "uptime": "37.51%",
+  "scanDuration": "67.5s",
+  "lastScan": "2026-08-05T21:48:46.796Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 387,
-      "dead": 634
+      "live": 383,
+      "dead": 638
     }
   },
   "channelStatistics": {
@@ -66,13 +66,13 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 1,
-      "dead": 19
+      "live": 2,
+      "dead": 18
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 26,
-      "dead": 39
+      "live": 25,
+      "dead": 40
     },
     "ARENA SPORT": {
       "total": 13,
@@ -84,6 +84,11 @@
       "live": 9,
       "dead": 2
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -91,13 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 33,
-      "dead": 26
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
+      "live": 32,
+      "dead": 27
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -119,15 +119,15 @@
       "live": 16,
       "dead": 26
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -174,24 +174,24 @@
       "live": 0,
       "dead": 10
     },
-    "Lifestyle": {
-      "total": 8,
-      "live": 3,
-      "dead": 5
-    },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
     },
+    "Lifestyle": {
+      "total": 8,
+      "live": 3,
+      "dead": 5
+    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
+      "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 4,
       "dead": 4
     },
     "🇨🇳 China": {
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -231,13 +231,13 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
-      "live": 23,
-      "dead": 12
+      "live": 21,
+      "dead": 14
     },
     "MUSIC": {
       "total": 67,
