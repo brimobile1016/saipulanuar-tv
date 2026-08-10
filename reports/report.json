@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 388,
-  "totalDead": 633,
-  "uptime": "38.00%",
-  "scanDuration": "70.6s",
-  "lastScan": "2026-08-09T21:04:03.125Z",
+  "totalLive": 379,
+  "totalDead": 642,
+  "uptime": "37.12%",
+  "scanDuration": "68.5s",
+  "lastScan": "2026-08-10T09:55:00.423Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 388,
-      "dead": 633
+      "live": 379,
+      "dead": 642
     }
   },
   "channelStatistics": {
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 1,
-      "dead": 19
+      "live": 3,
+      "dead": 17
     },
     "INDONESIA TV": {
       "total": 65,
@@ -76,8 +76,8 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 12,
-      "dead": 1
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
@@ -111,23 +111,23 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 8,
-      "dead": 43
+      "live": 9,
+      "dead": 42
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
       "live": 16,
       "dead": 26
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 13,
-      "dead": 12
+      "live": 11,
+      "dead": 14
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 0,
+      "dead": 24
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
