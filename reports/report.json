@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 376,
-  "totalDead": 645,
-  "uptime": "36.83%",
-  "scanDuration": "67.4s",
-  "lastScan": "2026-08-11T15:28:46.932Z",
+  "totalLive": 379,
+  "totalDead": 642,
+  "uptime": "37.12%",
+  "scanDuration": "69.7s",
+  "lastScan": "2026-08-11T21:24:01.331Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 376,
-      "dead": 645
+      "live": 379,
+      "dead": 642
     }
   },
   "channelStatistics": {
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 1,
-      "dead": 19
+      "live": 2,
+      "dead": 18
     },
     "INDONESIA TV": {
       "total": 65,
@@ -76,13 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 12,
+      "dead": 1
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 9,
-      "dead": 2
+      "live": 7,
+      "dead": 4
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -126,23 +126,23 @@
     },
     "TV SONY": {
       "total": 7,
-      "live": 0,
-      "dead": 7
+      "live": 4,
+      "dead": 3
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
       "live": 13,
       "dead": 30
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 11,
-      "dead": 14
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 11,
+      "dead": 14
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -216,13 +216,13 @@
     },
     "🇲🇾 Malaysia": {
       "total": 32,
-      "live": 4,
-      "dead": 28
+      "live": 6,
+      "dead": 26
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 5,
-      "dead": 19
+      "live": 2,
+      "dead": 22
     },
     "🇵🇭 Philippines": {
       "total": 5,
