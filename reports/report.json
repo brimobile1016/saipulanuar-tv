@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 382,
-  "totalDead": 639,
-  "uptime": "37.41%",
-  "scanDuration": "67.5s",
-  "lastScan": "2026-08-15T20:50:07.706Z",
+  "totalLive": 373,
+  "totalDead": 648,
+  "uptime": "36.53%",
+  "scanDuration": "80.2s",
+  "lastScan": "2026-08-16T08:54:31.071Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 382,
-      "dead": 639
+      "live": 373,
+      "dead": 648
     }
   },
   "channelStatistics": {
@@ -46,8 +46,8 @@
     },
     "LIGA INGGRIS": {
       "total": 25,
-      "live": 2,
-      "dead": 23
+      "live": 0,
+      "dead": 25
     },
     "LIGA ITALIA": {
       "total": 9,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 14,
-      "dead": 29
+      "live": 13,
+      "dead": 30
     },
     "FIFA+": {
       "total": 9,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 10,
-      "dead": 15
+      "live": 12,
+      "dead": 13
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,11 +179,6 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
@@ -194,15 +189,20 @@
       "live": 1,
       "dead": 4
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 2,
+      "dead": 22
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,13 +231,13 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
-      "live": 22,
-      "dead": 13
+      "live": 21,
+      "dead": 14
     },
     "MUSIC": {
       "total": 67,
