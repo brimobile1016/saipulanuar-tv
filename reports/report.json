@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 388,
-  "totalDead": 633,
-  "uptime": "38.00%",
-  "scanDuration": "60.0s",
-  "lastScan": "2026-08-20T15:03:55.220Z",
+  "totalLive": 385,
+  "totalDead": 636,
+  "uptime": "37.71%",
+  "scanDuration": "59.9s",
+  "lastScan": "2026-08-20T20:58:17.624Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 388,
-      "dead": 633
+      "live": 385,
+      "dead": 636
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 3,
-      "dead": 17
+      "live": 1,
+      "dead": 19
     },
     "INDONESIA TV": {
       "total": 65,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 12,
-      "dead": 31
+      "live": 14,
+      "dead": 29
     },
     "SPORTS | BEIN": {
       "total": 25,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 24,
-      "dead": 54
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -231,18 +231,18 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
-      "live": 22,
-      "dead": 13
+      "live": 21,
+      "dead": 14
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
