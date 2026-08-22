@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 391,
-  "totalDead": 630,
-  "uptime": "38.30%",
-  "scanDuration": "48.7s",
-  "lastScan": "2026-08-22T08:54:34.898Z",
+  "totalLive": 388,
+  "totalDead": 633,
+  "uptime": "38.00%",
+  "scanDuration": "55.1s",
+  "lastScan": "2026-08-22T14:46:38.730Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 391,
-      "dead": 630
+      "live": 388,
+      "dead": 633
     }
   },
   "channelStatistics": {
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 3,
-      "dead": 17
+      "live": 1,
+      "dead": 19
     },
     "INDONESIA TV": {
       "total": 65,
@@ -76,8 +76,8 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 10,
+      "dead": 3
     },
     "SKY SPORTS": {
       "total": 11,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -179,30 +179,30 @@
       "live": 3,
       "dead": 5
     },
-    "News": {
-      "total": 20,
-      "live": 13,
-      "dead": 7
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "News": {
+      "total": 20,
+      "live": 13,
+      "dead": 7
     },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
-    },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
