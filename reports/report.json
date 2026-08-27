@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 386,
-  "totalDead": 635,
-  "uptime": "37.81%",
-  "scanDuration": "48.8s",
-  "lastScan": "2026-08-26T23:59:19.154Z",
+  "totalLive": 383,
+  "totalDead": 638,
+  "uptime": "37.51%",
+  "scanDuration": "48.2s",
+  "lastScan": "2026-08-27T19:10:29.625Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 386,
-      "dead": 635
+      "live": 383,
+      "dead": 638
     }
   },
   "channelStatistics": {
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -76,13 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 10,
-      "dead": 3
+      "live": 11,
+      "dead": 2
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 9,
+      "dead": 2
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 13,
-      "dead": 30
+      "live": 14,
+      "dead": 29
     },
     "FIFA+": {
       "total": 9,
@@ -194,15 +194,15 @@
       "live": 1,
       "dead": 4
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
-    },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 6,
+      "dead": 18
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 8,
+      "dead": 7
     },
     "KIDS": {
       "total": 35,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
