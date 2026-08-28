@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 389,
-  "totalDead": 632,
-  "uptime": "38.10%",
-  "scanDuration": "61.0s",
-  "lastScan": "2026-08-28T04:26:35.935Z",
+  "totalLive": 387,
+  "totalDead": 634,
+  "uptime": "37.90%",
+  "scanDuration": "76.1s",
+  "lastScan": "2026-08-28T20:17:13.967Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 389,
-      "dead": 632
+      "live": 387,
+      "dead": 634
     }
   },
   "channelStatistics": {
@@ -19,15 +19,15 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 2,
-      "dead": 18
+      "live": 3,
+      "dead": 17
     },
     "INDONESIA TV": {
       "total": 65,
@@ -81,8 +81,8 @@
     },
     "SKY SPORTS": {
       "total": 11,
-      "live": 9,
-      "dead": 2
+      "live": 8,
+      "dead": 3
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -134,15 +134,15 @@
       "live": 13,
       "dead": 30
     },
-    "FIFA+": {
-      "total": 9,
-      "live": 9,
-      "dead": 0
-    },
     "SPORTS | BEIN": {
       "total": 25,
       "live": 20,
       "dead": 5
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -184,25 +184,25 @@
       "live": 13,
       "dead": 7
     },
-    "🇰🇷 Korengan": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
