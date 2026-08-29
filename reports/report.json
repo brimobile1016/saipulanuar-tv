@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 387,
-  "totalDead": 634,
-  "uptime": "37.90%",
-  "scanDuration": "70.5s",
-  "lastScan": "2026-08-29T17:47:22.957Z",
+  "totalLive": 386,
+  "totalDead": 635,
+  "uptime": "37.81%",
+  "scanDuration": "45.9s",
+  "lastScan": "2026-08-29T22:45:14.238Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 387,
-      "dead": 634
+      "live": 386,
+      "dead": 635
     }
   },
   "channelStatistics": {
@@ -24,6 +24,11 @@
       "live": 3,
       "dead": 8
     },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
+    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
@@ -33,11 +38,6 @@
       "total": 2,
       "live": 0,
       "dead": 2
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 2,
-      "dead": 18
+      "live": 3,
+      "dead": 17
     },
     "INDONESIA TV": {
       "total": 65,
@@ -96,23 +96,23 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
-    },
-    "📺TV nya KLUB BOLA": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
+      "live": 30,
+      "dead": 29
     },
     "Sports Visionplus": {
       "total": 12,
       "live": 2,
       "dead": 10
     },
+    "📺TV nya KLUB BOLA": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
+    },
     "HIBURAN": {
       "total": 51,
-      "live": 8,
-      "dead": 43
+      "live": 9,
+      "dead": 42
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -236,8 +236,8 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 22,
-      "dead": 13
+      "live": 21,
+      "dead": 14
     },
     "MUSIC": {
       "total": 67,
