@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 376,
-  "totalDead": 645,
-  "uptime": "36.83%",
-  "scanDuration": "60.3s",
-  "lastScan": "2026-08-31T20:15:44.359Z",
+  "totalLive": 380,
+  "totalDead": 641,
+  "uptime": "37.22%",
+  "scanDuration": "77.0s",
+  "lastScan": "2026-09-01T00:02:26.233Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 376,
-      "dead": 645
+      "live": 380,
+      "dead": 641
     }
   },
   "channelStatistics": {
@@ -21,13 +21,8 @@
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
-      "live": 3,
-      "dead": 8
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+      "live": 2,
+      "dead": 9
     },
     "CHAMPIONS TV": {
       "total": 6,
@@ -38,6 +33,11 @@
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 1,
-      "dead": 19
+      "live": 3,
+      "dead": 17
     },
     "INDONESIA TV": {
       "total": 65,
@@ -76,18 +76,13 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 9,
-      "dead": 4
+      "live": 10,
+      "dead": 3
     },
     "SKY SPORTS": {
       "total": 11,
       "live": 0,
       "dead": 11
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "ASTRO": {
       "total": 1,
@@ -98,6 +93,11 @@
       "total": 59,
       "live": 31,
       "dead": 28
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -131,18 +131,18 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 12,
-      "dead": 31
-    },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 13,
+      "dead": 30
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
