@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-name="" tvg-logo="https://i.imgur.com/fBpLsbC.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Bahrain Sports 1 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-name="" tvg-logo="https://i.imgur.com/ZkuZmIo.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-name="" tvg-logo="https://i.imgur.com/fBpLsbC.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/BZijfKh.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Billiard TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
 #EXTINF:-1 tvg-id="GloryKickboxing.us@US" tvg-name="" tvg-logo="https://i.imgur.com/tS7Ub7i.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Glory Kickboxing
