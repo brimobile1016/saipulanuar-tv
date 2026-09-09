@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 373,
-  "totalDead": 648,
-  "uptime": "36.53%",
-  "scanDuration": "76.3s",
-  "lastScan": "2026-09-08T22:55:53.130Z",
+  "totalLive": 360,
+  "totalDead": 661,
+  "uptime": "35.26%",
+  "scanDuration": "75.5s",
+  "lastScan": "2026-09-09T13:03:13.743Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 373,
-      "dead": 648
+      "live": 360,
+      "dead": 661
     }
   },
   "channelStatistics": {
@@ -66,8 +66,8 @@
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
-      "live": 1,
-      "dead": 19
+      "live": 0,
+      "dead": 20
     },
     "INDONESIA TV": {
       "total": 65,
@@ -76,8 +76,8 @@
     },
     "ARENA SPORT": {
       "total": 13,
-      "live": 11,
-      "dead": 2
+      "live": 0,
+      "dead": 13
     },
     "SKY SPORTS": {
       "total": 11,
@@ -111,23 +111,23 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
       "live": 16,
       "dead": 26
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
+    },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -236,13 +236,13 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 15,
-      "dead": 20
+      "live": 14,
+      "dead": 21
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
