@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 361,
-  "totalDead": 660,
-  "uptime": "35.36%",
-  "scanDuration": "69.1s",
-  "lastScan": "2026-09-09T17:54:29.824Z",
+  "totalLive": 362,
+  "totalDead": 659,
+  "uptime": "35.46%",
+  "scanDuration": "68.6s",
+  "lastScan": "2026-09-09T22:42:31.729Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 361,
-      "dead": 660
+      "live": 362,
+      "dead": 659
     }
   },
   "channelStatistics": {
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -209,15 +209,15 @@
       "live": 16,
       "dead": 0
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇲🇾 Malaysia": {
       "total": 32,
       "live": 6,
       "dead": 26
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇸🇬 Singapore": {
       "total": 24,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
