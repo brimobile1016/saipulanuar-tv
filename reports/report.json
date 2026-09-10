@@ -4,8 +4,8 @@
   "totalLive": 358,
   "totalDead": 663,
   "uptime": "35.06%",
-  "scanDuration": "85.0s",
-  "lastScan": "2026-09-10T17:47:28.961Z",
+  "scanDuration": "69.9s",
+  "lastScan": "2026-09-10T22:44:44.284Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -18,11 +18,6 @@
       "total": 11,
       "live": 7,
       "dead": 4
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
@@ -38,6 +33,11 @@
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 22,
-      "dead": 43
+      "live": 25,
+      "dead": 40
     },
     "ARENA SPORT": {
       "total": 13,
@@ -119,20 +119,20 @@
       "live": 16,
       "dead": 26
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
     },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
+    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 12,
-      "dead": 31
+      "live": 11,
+      "dead": 32
     },
     "FIFA+": {
       "total": 9,
@@ -194,15 +194,15 @@
       "live": 1,
       "dead": 4
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
-    },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
