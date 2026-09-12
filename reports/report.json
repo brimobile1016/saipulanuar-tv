@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 358,
-  "totalDead": 663,
-  "uptime": "35.06%",
-  "scanDuration": "70.7s",
-  "lastScan": "2026-09-11T22:44:44.536Z",
+  "totalLive": 360,
+  "totalDead": 661,
+  "uptime": "35.26%",
+  "scanDuration": "59.4s",
+  "lastScan": "2026-09-12T12:15:39.953Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 358,
-      "dead": 663
+      "live": 360,
+      "dead": 661
     }
   },
   "channelStatistics": {
@@ -18,11 +18,6 @@
       "total": 11,
       "live": 7,
       "dead": 4
-    },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
@@ -33,6 +28,11 @@
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -111,23 +111,23 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 8,
-      "dead": 43
+      "live": 9,
+      "dead": 42
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
       "live": 16,
       "dead": 26
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
+    },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -179,30 +179,30 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
-    },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
@@ -254,15 +254,15 @@
       "live": 1,
       "dead": 4
     },
-    "UPCOMING": {
-      "total": 59,
-      "live": 0,
-      "dead": 59
-    },
     "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
+    },
+    "UPCOMING": {
+      "total": 59,
+      "live": 0,
+      "dead": 59
     },
     "LIVE EVENT | AFC Women’s Asian Cup": {
       "total": 1,
