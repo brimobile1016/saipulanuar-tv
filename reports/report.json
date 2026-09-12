@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 360,
-  "totalDead": 661,
-  "uptime": "35.26%",
-  "scanDuration": "59.4s",
-  "lastScan": "2026-09-12T12:15:39.953Z",
+  "totalLive": 359,
+  "totalDead": 662,
+  "uptime": "35.16%",
+  "scanDuration": "56.4s",
+  "lastScan": "2026-09-12T17:21:09.841Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 360,
-      "dead": 661
+      "live": 359,
+      "dead": 662
     }
   },
   "channelStatistics": {
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "News": {
-      "total": 20,
-      "live": 13,
-      "dead": 7
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "News": {
+      "total": 20,
+      "live": 13,
+      "dead": 7
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 10,
+      "dead": 14
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
