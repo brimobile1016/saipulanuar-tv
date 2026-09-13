@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 361,
-  "totalDead": 660,
-  "uptime": "35.36%",
-  "scanDuration": "73.9s",
-  "lastScan": "2026-09-12T22:30:16.682Z",
+  "totalLive": 359,
+  "totalDead": 662,
+  "uptime": "35.16%",
+  "scanDuration": "66.7s",
+  "lastScan": "2026-09-13T13:23:16.612Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 361,
-      "dead": 660
+      "live": 359,
+      "dead": 662
     }
   },
   "channelStatistics": {
@@ -19,15 +19,15 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -49,15 +49,15 @@
       "live": 2,
       "dead": 23
     },
-    "LIGA SPANYOL": {
-      "total": 8,
-      "live": 4,
-      "dead": 4
-    },
     "LIGA ITALIA": {
       "total": 9,
       "live": 1,
       "dead": 8
+    },
+    "LIGA SPANYOL": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
     },
     "LIGA JERMAN": {
       "total": 7,
@@ -91,8 +91,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
+      "live": 12,
+      "dead": 31
     },
     "FIFA+": {
       "total": 9,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 22,
+      "dead": 56
     },
     "MMA/UFC": {
       "total": 15,
@@ -179,6 +179,11 @@
       "live": 3,
       "dead": 5
     },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "News": {
       "total": 20,
       "live": 13,
@@ -188,11 +193,6 @@
       "total": 5,
       "live": 1,
       "dead": 4
-    },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
