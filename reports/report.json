@@ -1,38 +1,38 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 358,
-  "totalDead": 663,
-  "uptime": "35.06%",
-  "scanDuration": "62.8s",
-  "lastScan": "2026-09-16T13:37:11.256Z",
+  "totalLive": 355,
+  "totalDead": 666,
+  "uptime": "34.77%",
+  "scanDuration": "76.3s",
+  "lastScan": "2026-09-16T18:18:14.586Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 358,
-      "dead": 663
+      "live": 355,
+      "dead": 666
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 6,
+      "dead": 5
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
       "live": 4,
       "dead": 6
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -204,6 +204,11 @@
       "live": 0,
       "dead": 19
     },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
@@ -214,15 +219,10 @@
       "live": 6,
       "dead": 26
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 50,
-      "dead": 17
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
