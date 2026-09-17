@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 360,
-  "totalDead": 661,
-  "uptime": "35.26%",
-  "scanDuration": "58.5s",
-  "lastScan": "2026-09-16T23:12:05.897Z",
+  "totalLive": 348,
+  "totalDead": 673,
+  "uptime": "34.08%",
+  "scanDuration": "81.9s",
+  "lastScan": "2026-09-17T13:39:18.462Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 360,
-      "dead": 661
+      "live": 348,
+      "dead": 673
     }
   },
   "channelStatistics": {
@@ -24,6 +24,11 @@
       "live": 0,
       "dead": 6
     },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
+    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
@@ -33,11 +38,6 @@
       "total": 2,
       "live": 0,
       "dead": 2
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -91,8 +91,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 23,
+      "dead": 36
     },
     "HUB PREMIER & HUB SPORTS": {
       "total": 13,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 12,
-      "dead": 31
+      "live": 11,
+      "dead": 32
     },
     "FIFA+": {
       "total": 9,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 18,
+      "dead": 7
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 23,
+      "dead": 55
     },
     "MMA/UFC": {
       "total": 15,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
