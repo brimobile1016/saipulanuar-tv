@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 359,
-  "totalDead": 662,
-  "uptime": "35.16%",
-  "scanDuration": "59.4s",
-  "lastScan": "2026-09-18T13:03:02.025Z",
+  "totalLive": 357,
+  "totalDead": 664,
+  "uptime": "34.97%",
+  "scanDuration": "69.5s",
+  "lastScan": "2026-09-18T17:47:03.104Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 359,
-      "dead": 662
+      "live": 357,
+      "dead": 664
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -49,15 +49,15 @@
       "live": 2,
       "dead": 23
     },
-    "LIGA SPANYOL": {
-      "total": 8,
-      "live": 4,
-      "dead": 4
-    },
     "LIGA ITALIA": {
       "total": 9,
       "live": 1,
       "dead": 8
+    },
+    "LIGA SPANYOL": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
     },
     "LIGA JERMAN": {
       "total": 7,
@@ -99,20 +99,20 @@
       "live": 0,
       "dead": 13
     },
-    "📺TV nya KLUB BOLA": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "Sports Visionplus": {
       "total": 12,
       "live": 2,
       "dead": 10
     },
+    "📺TV nya KLUB BOLA": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
+    },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -134,15 +134,15 @@
       "live": 11,
       "dead": 32
     },
-    "FIFA+": {
-      "total": 9,
-      "live": 9,
-      "dead": 0
-    },
     "SPORTS | BEIN": {
       "total": 25,
       "live": 20,
       "dead": 5
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -184,35 +184,35 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
     },
-    "🇯🇵 TV JEPANG": {
-      "total": 16,
-      "live": 16,
-      "dead": 0
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
+    },
+    "🇯🇵 TV JEPANG": {
+      "total": 16,
+      "live": 16,
+      "dead": 0
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 50,
-      "dead": 17
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
