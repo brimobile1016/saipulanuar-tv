@@ -4,8 +4,8 @@
   "totalLive": 357,
   "totalDead": 664,
   "uptime": "34.97%",
-  "scanDuration": "59.2s",
-  "lastScan": "2026-09-19T22:26:11.008Z",
+  "scanDuration": "77.9s",
+  "lastScan": "2026-09-20T13:08:08.359Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
+      "live": 12,
+      "dead": 31
     },
     "FIFA+": {
       "total": 9,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -211,8 +211,8 @@
     },
     "🇮🇳 Hindi": {
       "total": 11,
-      "live": 2,
-      "dead": 9
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 47,
+      "dead": 20
     },
     "TVRI DAERAH": {
       "total": 30,
