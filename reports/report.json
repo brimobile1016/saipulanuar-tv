@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 339,
-  "totalDead": 682,
-  "uptime": "33.20%",
-  "scanDuration": "60.2s",
-  "lastScan": "2026-09-25T18:48:04.532Z",
+  "totalLive": 342,
+  "totalDead": 679,
+  "uptime": "33.50%",
+  "scanDuration": "73.5s",
+  "lastScan": "2026-09-25T23:27:09.769Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 339,
-      "dead": 682
+      "live": 342,
+      "dead": 679
     }
   },
   "channelStatistics": {
@@ -19,14 +19,14 @@
       "live": 7,
       "dead": 4
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 4,
-      "dead": 6
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
+      "dead": 6
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 4,
       "dead": 6
     },
     "BWF BADMINTON & VOLLEYBALL": {
@@ -84,6 +84,11 @@
       "live": 0,
       "dead": 11
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -94,20 +99,15 @@
       "live": 21,
       "dead": 38
     },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
+    "Sports Visionplus": {
+      "total": 12,
+      "live": 2,
+      "dead": 10
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
       "live": 3,
       "dead": 4
-    },
-    "Sports Visionplus": {
-      "total": 12,
-      "live": 2,
-      "dead": 10
     },
     "HIBURAN": {
       "total": 51,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 23,
-      "dead": 55
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -174,35 +174,35 @@
       "live": 0,
       "dead": 10
     },
-    "Fashion": {
+    "Lifestyle": {
       "total": 8,
-      "live": 5,
-      "dead": 3
+      "live": 3,
+      "dead": 5
     },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
     },
-    "Lifestyle": {
+    "Fashion": {
       "total": 8,
-      "live": 3,
-      "dead": 5
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
-    },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
@@ -249,15 +249,15 @@
       "live": 30,
       "dead": 0
     },
-    "LIVE FOOTBALL | XOILACZ AI": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
+    },
+    "LIVE FOOTBALL | XOILACZ AI": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "UPCOMING": {
       "total": 59,
