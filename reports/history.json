@@ -1839,5 +1839,12 @@
     "totalLive": 338,
     "totalDead": 683,
     "uptime": "33.10%"
+  },
+  {
+    "timestamp": "2026-09-27T18:34:38.735Z",
+    "totalChannel": 1021,
+    "totalLive": 354,
+    "totalDead": 667,
+    "uptime": "34.67%"
   }
 ]
