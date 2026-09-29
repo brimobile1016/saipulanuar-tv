@@ -1,38 +1,38 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 357,
-  "totalDead": 664,
-  "uptime": "34.97%",
-  "scanDuration": "53.4s",
-  "lastScan": "2026-09-29T19:32:16.992Z",
+  "totalLive": 337,
+  "totalDead": 684,
+  "uptime": "33.01%",
+  "scanDuration": "73.0s",
+  "lastScan": "2026-09-29T23:55:55.537Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 357,
-      "dead": 664
+      "live": 337,
+      "dead": 684
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 5,
+      "dead": 6
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
-      "live": 5,
-      "dead": 5
-    },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
+      "live": 3,
+      "dead": 7
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -84,11 +84,6 @@
       "live": 0,
       "dead": 11
     },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
-    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -96,8 +91,13 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 24,
+      "dead": 35
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -116,18 +116,18 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 15,
-      "dead": 27
-    },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
+      "live": 14,
+      "dead": 28
     },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 16,
+      "dead": 62
     },
     "MMA/UFC": {
       "total": 15,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "🇰🇷 Korengan": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "🇨🇳 China": {
       "total": 19,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
