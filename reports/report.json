@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 354,
-  "totalDead": 667,
-  "uptime": "34.67%",
-  "scanDuration": "59.7s",
-  "lastScan": "2026-09-29T14:55:32.862Z",
+  "totalLive": 357,
+  "totalDead": 664,
+  "uptime": "34.97%",
+  "scanDuration": "53.4s",
+  "lastScan": "2026-09-29T19:32:16.992Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 354,
-      "dead": 667
+      "live": 357,
+      "dead": 664
     }
   },
   "channelStatistics": {
@@ -84,6 +84,11 @@
       "live": 0,
       "dead": 11
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -93,11 +98,6 @@
       "total": 59,
       "live": 31,
       "dead": 28
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -131,18 +131,18 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 10,
-      "dead": 33
-    },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 18,
-      "dead": 7
+      "live": 11,
+      "dead": 32
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -231,13 +231,13 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
-      "live": 14,
-      "dead": 21
+      "live": 15,
+      "dead": 20
     },
     "MUSIC": {
       "total": 67,
