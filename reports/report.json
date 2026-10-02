@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 359,
-  "totalDead": 662,
-  "uptime": "35.16%",
-  "scanDuration": "56.5s",
-  "lastScan": "2026-10-02T14:50:13.017Z",
+  "totalLive": 355,
+  "totalDead": 666,
+  "uptime": "34.77%",
+  "scanDuration": "57.9s",
+  "lastScan": "2026-10-02T19:26:48.954Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 359,
-      "dead": 662
+      "live": 355,
+      "dead": 666
     }
   },
   "channelStatistics": {
@@ -19,25 +19,25 @@
       "live": 7,
       "dead": 4
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "BRI SUPER LEAGUE": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 15,
-      "dead": 27
+      "live": 14,
+      "dead": 28
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -134,15 +134,15 @@
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,11 +179,6 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
@@ -192,6 +187,11 @@
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
+      "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 4,
       "dead": 4
     },
     "🇨🇳 China": {
@@ -209,15 +209,15 @@
       "live": 16,
       "dead": 0
     },
-    "🇲🇾 Malaysia": {
-      "total": 32,
-      "live": 6,
-      "dead": 26
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
+    },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 6,
+      "dead": 26
     },
     "🇸🇬 Singapore": {
       "total": 24,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 11,
-      "dead": 4
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 50,
-      "dead": 17
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
