@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 355,
-  "totalDead": 666,
-  "uptime": "34.77%",
-  "scanDuration": "58.3s",
-  "lastScan": "2026-10-05T17:16:02.169Z",
+  "totalLive": 354,
+  "totalDead": 667,
+  "uptime": "34.67%",
+  "scanDuration": "55.4s",
+  "lastScan": "2026-10-05T21:34:24.485Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 355,
-      "dead": 666
+      "live": 354,
+      "dead": 667
     }
   },
   "channelStatistics": {
@@ -49,11 +49,6 @@
       "live": 0,
       "dead": 25
     },
-    "LIGA ITALIA": {
-      "total": 9,
-      "live": 1,
-      "dead": 8
-    },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
@@ -63,6 +58,11 @@
       "total": 7,
       "live": 2,
       "dead": 5
+    },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
@@ -111,18 +111,13 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
       "live": 14,
       "dead": 28
-    },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -131,8 +126,13 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
+      "live": 10,
+      "dead": 33
+    },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
     },
     "FIFA+": {
       "total": 9,
@@ -209,15 +209,15 @@
       "live": 16,
       "dead": 0
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇲🇾 Malaysia": {
       "total": 32,
       "live": 6,
       "dead": 26
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇸🇬 Singapore": {
       "total": 24,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 11,
+      "dead": 4
     },
     "KIDS": {
       "total": 35,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
