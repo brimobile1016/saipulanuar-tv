@@ -15,9 +15,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-name="" tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@UK" tvg-name="" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Strongman (720p)
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-name="" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Strongman Champions League (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-name="" tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg" tvg-country="" tvg-language="" group-title="🇮🇳 SPORTS | INDIA",Persiana Fight
-https://fighthls.persiana.live/hls/stream.m3u8
