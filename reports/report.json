@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 351,
-  "totalDead": 670,
-  "uptime": "34.38%",
-  "scanDuration": "57.9s",
-  "lastScan": "2026-10-07T15:39:59.812Z",
+  "totalLive": 349,
+  "totalDead": 672,
+  "uptime": "34.18%",
+  "scanDuration": "59.9s",
+  "lastScan": "2026-10-07T20:04:08.194Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 351,
-      "dead": 670
+      "live": 349,
+      "dead": 672
     }
   },
   "channelStatistics": {
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -124,15 +124,15 @@
       "live": 0,
       "dead": 10
     },
+    "🇮🇳 SPORTS | INDIA": {
+      "total": 43,
+      "live": 11,
+      "dead": 32
+    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
-    },
-    "🇮🇳 SPORTS | INDIA": {
-      "total": 43,
-      "live": 10,
-      "dead": 33
     },
     "SPORTS | BEIN": {
       "total": 25,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 46,
-      "dead": 21
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
