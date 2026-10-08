@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 355,
-  "totalDead": 666,
-  "uptime": "34.77%",
-  "scanDuration": "53.8s",
-  "lastScan": "2026-10-08T15:45:11.349Z",
+  "totalLive": 341,
+  "totalDead": 680,
+  "uptime": "33.40%",
+  "scanDuration": "59.6s",
+  "lastScan": "2026-10-08T20:02:04.741Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 355,
-      "dead": 666
+      "live": 341,
+      "dead": 680
     }
   },
   "channelStatistics": {
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 25,
-      "dead": 40
+      "live": 24,
+      "dead": 41
     },
     "ARENA SPORT": {
       "total": 13,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 23,
+      "dead": 36
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -116,23 +116,23 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 14,
-      "dead": 28
+      "live": 12,
+      "dead": 30
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
       "live": 11,
       "dead": 32
+    },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
     },
     "FIFA+": {
       "total": 9,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "News": {
-      "total": 20,
-      "live": 13,
-      "dead": 7
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "News": {
+      "total": 20,
+      "live": 13,
+      "dead": 7
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -209,20 +209,20 @@
       "live": 16,
       "dead": 0
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇲🇾 Malaysia": {
       "total": 32,
       "live": 6,
       "dead": 26
     },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
