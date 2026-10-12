@@ -1,63 +1,63 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 350,
-  "totalDead": 671,
-  "uptime": "34.28%",
-  "scanDuration": "64.1s",
-  "lastScan": "2026-10-12T18:05:00.027Z",
+  "totalLive": 343,
+  "totalDead": 678,
+  "uptime": "33.59%",
+  "scanDuration": "55.4s",
+  "lastScan": "2026-10-12T22:12:08.245Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 350,
-      "dead": 671
+      "live": 343,
+      "dead": 678
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
-    },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
+      "live": 4,
+      "dead": 7
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
-      "live": 5,
-      "dead": 5
+      "live": 4,
+      "dead": 6
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 2,
+      "dead": 9
+    },
     "BRI SUPER LEAGUE": {
       "total": 2,
       "live": 0,
       "dead": 2
-    },
-    "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
-      "total": 1,
-      "live": 1,
-      "dead": 0
     },
     "LIGA INGGRIS": {
       "total": 25,
       "live": 0,
       "dead": 25
     },
-    "LIGA ITALIA": {
-      "total": 9,
+    "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
+      "total": 1,
       "live": 1,
-      "dead": 8
+      "dead": 0
     },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
       "dead": 4
+    },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
     },
     "LIGA JERMAN": {
       "total": 7,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -134,15 +134,15 @@
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -211,8 +211,8 @@
     },
     "🇮🇳 Hindi": {
       "total": 11,
-      "live": 0,
-      "dead": 11
+      "live": 1,
+      "dead": 10
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
