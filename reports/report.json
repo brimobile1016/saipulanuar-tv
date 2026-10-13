@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 350,
-  "totalDead": 671,
-  "uptime": "34.28%",
-  "scanDuration": "58.7s",
-  "lastScan": "2026-10-13T20:18:50.588Z",
+  "totalLive": 351,
+  "totalDead": 670,
+  "uptime": "34.38%",
+  "scanDuration": "46.8s",
+  "lastScan": "2026-10-13T23:49:34.084Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 350,
-      "dead": 671
+      "live": 351,
+      "dead": 670
     }
   },
   "channelStatistics": {
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -131,18 +131,18 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 10,
-      "dead": 33
-    },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 11,
+      "dead": 32
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 24,
-      "dead": 54
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -174,55 +174,55 @@
       "live": 0,
       "dead": 10
     },
-    "News": {
-      "total": 20,
-      "live": 13,
-      "dead": 7
-    },
     "Lifestyle": {
       "total": 8,
       "live": 3,
       "dead": 5
     },
-    "🇰🇷 Korengan": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
+    "News": {
+      "total": 20,
+      "live": 13,
+      "dead": 7
     },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
     },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
+    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
-    },
-    "🇲🇾 Malaysia": {
-      "total": 32,
-      "live": 6,
-      "dead": 26
     },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 0,
       "dead": 11
     },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 6,
+      "dead": 26
+    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
