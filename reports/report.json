@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 319,
-  "totalDead": 702,
-  "uptime": "31.24%",
-  "scanDuration": "62.0s",
-  "lastScan": "2026-10-14T23:23:05.266Z",
+  "totalLive": 351,
+  "totalDead": 670,
+  "uptime": "34.38%",
+  "scanDuration": "63.7s",
+  "lastScan": "2026-10-15T13:34:38.092Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 319,
-      "dead": 702
+      "live": 351,
+      "dead": 670
     }
   },
   "channelStatistics": {
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 3,
-      "dead": 7
-    },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 2,
-      "dead": 9
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -49,15 +49,15 @@
       "live": 0,
       "dead": 25
     },
-    "LIGA SPANYOL": {
-      "total": 8,
-      "live": 4,
-      "dead": 4
-    },
     "LIGA ITALIA": {
       "total": 9,
       "live": 1,
       "dead": 8
+    },
+    "LIGA SPANYOL": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
     },
     "LIGA JERMAN": {
       "total": 7,
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 18,
-      "dead": 47
+      "live": 25,
+      "dead": 40
     },
     "ARENA SPORT": {
       "total": 13,
@@ -96,18 +96,18 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 27,
-      "dead": 32
+      "live": 31,
+      "dead": 28
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
-      "live": 2,
-      "dead": 5
+      "live": 3,
+      "dead": 4
     },
     "Sports Visionplus": {
       "total": 12,
-      "live": 0,
-      "dead": 12
+      "live": 2,
+      "dead": 10
     },
     "HIBURAN": {
       "total": 51,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 11,
-      "dead": 31
+      "live": 14,
+      "dead": 28
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -131,18 +131,18 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 10,
-      "dead": 33
-    },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 11,
+      "dead": 32
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -151,13 +151,13 @@
     },
     "CHANNEL |  MOTOGP & F1": {
       "total": 8,
-      "live": 1,
-      "dead": 7
+      "live": 2,
+      "dead": 6
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 24,
-      "dead": 54
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -176,23 +176,23 @@
     },
     "Lifestyle": {
       "total": 8,
-      "live": 2,
-      "dead": 6
+      "live": 3,
+      "dead": 5
     },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,18 +231,18 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
-      "live": 12,
-      "dead": 23
+      "live": 15,
+      "dead": 20
     },
     "MUSIC": {
       "total": 67,
-      "live": 43,
-      "dead": 24
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
