@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 348,
-  "totalDead": 673,
-  "uptime": "34.08%",
-  "scanDuration": "54.7s",
-  "lastScan": "2026-10-19T15:45:44.605Z",
+  "totalLive": 351,
+  "totalDead": 670,
+  "uptime": "34.38%",
+  "scanDuration": "62.7s",
+  "lastScan": "2026-10-19T20:03:33.569Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 348,
-      "dead": 673
+      "live": 351,
+      "dead": 670
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 31,
-      "dead": 28
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
+      "live": 10,
+      "dead": 33
     },
     "SPORTS | BEIN": {
       "total": 25,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 10,
+      "dead": 14
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 10,
+      "dead": 5
     },
     "KIDS": {
       "total": 35,
@@ -246,8 +246,8 @@
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 29,
-      "dead": 1
+      "live": 30,
+      "dead": 0
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
