@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 351,
-  "totalDead": 670,
-  "uptime": "34.38%",
-  "scanDuration": "62.7s",
-  "lastScan": "2026-10-19T20:03:33.569Z",
+  "totalLive": 325,
+  "totalDead": 696,
+  "uptime": "31.83%",
+  "scanDuration": "137.5s",
+  "lastScan": "2026-10-19T23:55:00.068Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 351,
-      "dead": 670
+      "live": 325,
+      "dead": 696
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -49,11 +49,6 @@
       "live": 0,
       "dead": 25
     },
-    "LIGA ITALIA": {
-      "total": 9,
-      "live": 1,
-      "dead": 8
-    },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
@@ -63,6 +58,11 @@
       "total": 7,
       "live": 2,
       "dead": 5
+    },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
@@ -84,11 +84,6 @@
       "live": 0,
       "dead": 11
     },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
-    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -96,18 +91,23 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 30,
-      "dead": 29
+      "live": 15,
+      "dead": 44
     },
-    "📺TV nya KLUB BOLA": {
-      "total": 7,
-      "live": 3,
-      "dead": 4
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "Sports Visionplus": {
       "total": 12,
       "live": 2,
       "dead": 10
+    },
+    "📺TV nya KLUB BOLA": {
+      "total": 7,
+      "live": 3,
+      "dead": 4
     },
     "HIBURAN": {
       "total": 51,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 15,
-      "dead": 27
+      "live": 14,
+      "dead": 28
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -131,13 +131,13 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 10,
-      "dead": 33
+      "live": 11,
+      "dead": 32
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 15,
+      "dead": 10
     },
     "FIFA+": {
       "total": 9,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "🇰🇷 Korengan": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "🇨🇳 China": {
       "total": 19,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 48,
-      "dead": 19
+      "live": 43,
+      "dead": 24
     },
     "TVRI DAERAH": {
       "total": 30,
@@ -259,15 +259,15 @@
       "live": 0,
       "dead": 1
     },
-    "UPCOMING": {
-      "total": 59,
-      "live": 0,
-      "dead": 59
-    },
     "LIVE EVENT | AFC Women’s Asian Cup": {
       "total": 1,
       "live": 0,
       "dead": 1
+    },
+    "UPCOMING": {
+      "total": 59,
+      "live": 0,
+      "dead": 59
     }
   }
 }
