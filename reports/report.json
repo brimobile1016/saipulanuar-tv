@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 351,
-  "totalDead": 670,
-  "uptime": "34.38%",
-  "scanDuration": "55.4s",
-  "lastScan": "2026-10-18T22:32:46.919Z",
+  "totalLive": 348,
+  "totalDead": 673,
+  "uptime": "34.08%",
+  "scanDuration": "54.7s",
+  "lastScan": "2026-10-19T15:45:44.605Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 351,
-      "dead": 670
+      "live": 348,
+      "dead": 673
     }
   },
   "channelStatistics": {
@@ -49,6 +49,11 @@
       "live": 0,
       "dead": 25
     },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
+    },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
@@ -58,11 +63,6 @@
       "total": 7,
       "live": 2,
       "dead": 5
-    },
-    "LIGA ITALIA": {
-      "total": 9,
-      "live": 1,
-      "dead": 8
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 26,
+      "dead": 52
     },
     "MMA/UFC": {
       "total": 15,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 9,
-      "dead": 15
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
@@ -246,8 +246,8 @@
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 30,
-      "dead": 0
+      "live": 29,
+      "dead": 1
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
