@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 326,
-  "totalDead": 695,
-  "uptime": "31.93%",
-  "scanDuration": "130.3s",
-  "lastScan": "2026-10-21T14:01:00.813Z",
+  "totalLive": 348,
+  "totalDead": 673,
+  "uptime": "34.08%",
+  "scanDuration": "54.8s",
+  "lastScan": "2026-10-21T18:48:38.945Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 326,
-      "dead": 695
+      "live": 348,
+      "dead": 673
     }
   },
   "channelStatistics": {
@@ -19,15 +19,15 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "EVENT 014/MARET/2026": {
       "total": 10,
       "live": 5,
       "dead": 5
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
@@ -49,30 +49,30 @@
       "live": 0,
       "dead": 25
     },
-    "LIGA ITALIA": {
-      "total": 9,
-      "live": 1,
-      "dead": 8
+    "LIGA JERMAN": {
+      "total": 7,
+      "live": 2,
+      "dead": 5
     },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
       "dead": 4
     },
-    "LIGA JERMAN": {
-      "total": 7,
-      "live": 2,
-      "dead": 5
-    },
     "LIGA CHAMPION🏆": {
       "total": 20,
       "live": 0,
       "dead": 20
     },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
+    },
     "INDONESIA TV": {
       "total": 65,
-      "live": 25,
-      "dead": 40
+      "live": 24,
+      "dead": 41
     },
     "ARENA SPORT": {
       "total": 13,
@@ -84,6 +84,11 @@
       "live": 0,
       "dead": 11
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -93,11 +98,6 @@
       "total": 59,
       "live": 30,
       "dead": 29
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -116,8 +116,8 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 14,
-      "dead": 28
+      "live": 15,
+      "dead": 27
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
@@ -131,18 +131,18 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 2,
-      "dead": 41
+      "live": 11,
+      "dead": 32
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 9,
-      "dead": 16
+      "live": 20,
+      "dead": 5
     },
     "FIFA+": {
       "total": 9,
-      "live": 4,
-      "dead": 5
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 26,
-      "dead": 52
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -179,6 +179,11 @@
       "live": 3,
       "dead": 5
     },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "News": {
       "total": 20,
       "live": 13,
@@ -188,11 +193,6 @@
       "total": 5,
       "live": 1,
       "dead": 4
-    },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,18 +231,18 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
-      "live": 15,
-      "dead": 20
+      "live": 14,
+      "dead": 21
     },
     "MUSIC": {
       "total": 67,
-      "live": 47,
-      "dead": 20
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
@@ -259,15 +259,15 @@
       "live": 0,
       "dead": 1
     },
-    "LIVE EVENT | AFC Women’s Asian Cup": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
-    },
     "UPCOMING": {
       "total": 59,
       "live": 0,
       "dead": 59
+    },
+    "LIVE EVENT | AFC Women’s Asian Cup": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
     }
   }
 }
