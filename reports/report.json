@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 360,
-  "totalDead": 661,
-  "uptime": "35.26%",
-  "scanDuration": "51.0s",
-  "lastScan": "2026-10-22T13:57:31.938Z",
+  "totalLive": 336,
+  "totalDead": 685,
+  "uptime": "32.91%",
+  "scanDuration": "103.9s",
+  "lastScan": "2026-10-22T18:42:34.413Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 360,
-      "dead": 661
+      "live": 336,
+      "dead": 685
     }
   },
   "channelStatistics": {
@@ -49,6 +49,11 @@
       "live": 3,
       "dead": 22
     },
+    "LIGA SPANYOL": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
+    },
     "LIGA ITALIA": {
       "total": 9,
       "live": 1,
@@ -59,11 +64,6 @@
       "live": 2,
       "dead": 5
     },
-    "LIGA SPANYOL": {
-      "total": 8,
-      "live": 4,
-      "dead": 4
-    },
     "LIGA CHAMPION🏆": {
       "total": 20,
       "live": 0,
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 25,
-      "dead": 40
+      "live": 9,
+      "dead": 56
     },
     "ARENA SPORT": {
       "total": 13,
@@ -84,11 +84,6 @@
       "live": 0,
       "dead": 11
     },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
-    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -98,6 +93,11 @@
       "total": 59,
       "live": 31,
       "dead": 28
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -136,8 +136,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 19,
+      "dead": 6
     },
     "FIFA+": {
       "total": 9,
@@ -194,35 +194,35 @@
       "live": 5,
       "dead": 3
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
-    },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
     },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 0,
+      "dead": 11
+    },
     "🇲🇾 Malaysia": {
       "total": 32,
       "live": 6,
       "dead": 26
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 10,
-      "dead": 14
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
