@@ -4,8 +4,8 @@
   "totalLive": 345,
   "totalDead": 676,
   "uptime": "33.79%",
-  "scanDuration": "56.9s",
-  "lastScan": "2026-10-23T18:35:09.667Z",
+  "scanDuration": "55.9s",
+  "lastScan": "2026-10-23T23:22:04.132Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
       "dead": 8
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -54,15 +54,15 @@
       "live": 1,
       "dead": 8
     },
-    "LIGA SPANYOL": {
-      "total": 8,
-      "live": 4,
-      "dead": 4
-    },
     "LIGA JERMAN": {
       "total": 7,
       "live": 1,
       "dead": 6
+    },
+    "LIGA SPANYOL": {
+      "total": 8,
+      "live": 4,
+      "dead": 4
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 24,
-      "dead": 41
+      "live": 25,
+      "dead": 40
     },
     "ARENA SPORT": {
       "total": 13,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 30,
-      "dead": 29
+      "live": 29,
+      "dead": 30
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -134,15 +134,15 @@
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,6 +179,11 @@
       "live": 3,
       "dead": 5
     },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "News": {
       "total": 20,
       "live": 13,
@@ -188,11 +193,6 @@
       "total": 5,
       "live": 1,
       "dead": 4
-    },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -236,13 +236,13 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 15,
-      "dead": 20
+      "live": 14,
+      "dead": 21
     },
     "MUSIC": {
       "total": 67,
-      "live": 47,
-      "dead": 20
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
