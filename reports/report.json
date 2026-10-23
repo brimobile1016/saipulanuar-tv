@@ -1,27 +1,22 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 352,
-  "totalDead": 669,
-  "uptime": "34.48%",
-  "scanDuration": "54.4s",
-  "lastScan": "2026-10-22T23:31:09.738Z",
+  "totalLive": 349,
+  "totalDead": 672,
+  "uptime": "34.18%",
+  "scanDuration": "46.7s",
+  "lastScan": "2026-10-23T13:39:14.958Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 352,
-      "dead": 669
+      "live": 349,
+      "dead": 672
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
+      "live": 6,
       "dead": 5
     },
     "BWF BADMINTON & VOLLEYBALL": {
@@ -33,6 +28,11 @@
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -46,18 +46,18 @@
     },
     "LIGA INGGRIS": {
       "total": 25,
-      "live": 3,
-      "dead": 22
-    },
-    "LIGA ITALIA": {
-      "total": 9,
-      "live": 1,
-      "dead": 8
+      "live": 0,
+      "dead": 25
     },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
       "dead": 4
+    },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
     },
     "LIGA JERMAN": {
       "total": 7,
@@ -124,25 +124,25 @@
       "live": 0,
       "dead": 10
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 19,
+      "dead": 6
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -194,15 +194,15 @@
       "live": 5,
       "dead": 3
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
-    },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -211,8 +211,8 @@
     },
     "🇮🇳 Hindi": {
       "total": 11,
-      "live": 0,
-      "dead": 11
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -231,13 +231,13 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
-      "live": 15,
-      "dead": 20
+      "live": 14,
+      "dead": 21
     },
     "MUSIC": {
       "total": 67,
