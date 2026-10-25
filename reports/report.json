@@ -4,8 +4,8 @@
   "totalLive": 349,
   "totalDead": 672,
   "uptime": "34.18%",
-  "scanDuration": "60.2s",
-  "lastScan": "2026-10-24T22:41:01.881Z",
+  "scanDuration": "62.8s",
+  "lastScan": "2026-10-25T13:16:34.436Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -21,8 +21,8 @@
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
-      "live": 5,
-      "dead": 5
+      "live": 4,
+      "dead": 6
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 25,
-      "dead": 40
+      "live": 24,
+      "dead": 41
     },
     "ARENA SPORT": {
       "total": 13,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 28,
-      "dead": 31
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -204,6 +204,11 @@
       "live": 0,
       "dead": 2
     },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
@@ -213,11 +218,6 @@
       "total": 32,
       "live": 6,
       "dead": 26
-    },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
     },
     "🇸🇬 Singapore": {
       "total": 24,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 48,
-      "dead": 19
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
