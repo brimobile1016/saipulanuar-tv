@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 349,
-  "totalDead": 672,
-  "uptime": "34.18%",
-  "scanDuration": "51.1s",
-  "lastScan": "2026-10-25T17:45:26.911Z",
+  "totalLive": 347,
+  "totalDead": 674,
+  "uptime": "33.99%",
+  "scanDuration": "49.9s",
+  "lastScan": "2026-10-26T15:20:00.119Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 349,
-      "dead": 672
+      "live": 347,
+      "dead": 674
     }
   },
   "channelStatistics": {
@@ -49,6 +49,11 @@
       "live": 0,
       "dead": 25
     },
+    "LIGA ITALIA": {
+      "total": 9,
+      "live": 1,
+      "dead": 8
+    },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
@@ -63,11 +68,6 @@
       "total": 20,
       "live": 0,
       "dead": 20
-    },
-    "LIGA ITALIA": {
-      "total": 9,
-      "live": 1,
-      "dead": 8
     },
     "INDONESIA TV": {
       "total": 65,
@@ -131,18 +131,18 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
-    },
-    "FIFA+": {
-      "total": 9,
-      "live": 9,
-      "dead": 0
+      "live": 10,
+      "dead": 33
     },
     "SPORTS | BEIN": {
       "total": 25,
       "live": 20,
       "dead": 5
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -209,15 +209,15 @@
       "live": 16,
       "dead": 0
     },
-    "🇲🇾 Malaysia": {
-      "total": 32,
-      "live": 6,
-      "dead": 26
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
+    },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 6,
+      "dead": 26
     },
     "🇸🇬 Singapore": {
       "total": 24,
@@ -236,13 +236,13 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 15,
-      "dead": 20
+      "live": 14,
+      "dead": 21
     },
     "MUSIC": {
       "total": 67,
-      "live": 48,
-      "dead": 19
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
