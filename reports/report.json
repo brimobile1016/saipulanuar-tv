@@ -4,8 +4,8 @@
   "totalLive": 351,
   "totalDead": 670,
   "uptime": "34.38%",
-  "scanDuration": "45.9s",
-  "lastScan": "2026-10-27T23:56:04.811Z",
+  "scanDuration": "60.7s",
+  "lastScan": "2026-10-28T15:15:17.530Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -184,25 +184,25 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
