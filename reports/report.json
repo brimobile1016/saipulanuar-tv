@@ -1,38 +1,38 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 351,
-  "totalDead": 670,
-  "uptime": "34.38%",
-  "scanDuration": "60.7s",
-  "lastScan": "2026-10-28T15:15:17.530Z",
+  "totalLive": 342,
+  "totalDead": 679,
+  "uptime": "33.50%",
+  "scanDuration": "59.9s",
+  "lastScan": "2026-10-28T19:44:04.353Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 351,
-      "dead": 670
+      "live": 342,
+      "dead": 679
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 6,
+      "dead": 5
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
-      "live": 5,
-      "dead": 5
-    },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
+      "live": 4,
       "dead": 6
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -134,15 +134,15 @@
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 14,
+      "dead": 11
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,6 +179,11 @@
       "live": 3,
       "dead": 5
     },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "News": {
       "total": 20,
       "live": 13,
@@ -189,20 +194,15 @@
       "live": 1,
       "dead": 4
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
-    },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
