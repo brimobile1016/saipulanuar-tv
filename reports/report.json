@@ -1,28 +1,23 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 342,
-  "totalDead": 679,
-  "uptime": "33.50%",
-  "scanDuration": "59.9s",
-  "lastScan": "2026-10-28T19:44:04.353Z",
+  "totalLive": 347,
+  "totalDead": 674,
+  "uptime": "33.99%",
+  "scanDuration": "44.5s",
+  "lastScan": "2026-10-29T00:13:52.014Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 342,
-      "dead": 679
+      "live": 347,
+      "dead": 674
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 6,
-      "dead": 5
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 7,
+      "dead": 4
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
@@ -33,6 +28,11 @@
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -124,25 +124,25 @@
       "live": 0,
       "dead": 10
     },
+    "🇮🇳 SPORTS | INDIA": {
+      "total": 43,
+      "live": 10,
+      "dead": 33
+    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
     },
-    "🇮🇳 SPORTS | INDIA": {
-      "total": 43,
-      "live": 11,
-      "dead": 32
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
-    },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 14,
-      "dead": 11
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,11 +179,6 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
@@ -193,6 +188,11 @@
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇧🇳 Brunai": {
       "total": 2,
@@ -209,20 +209,20 @@
       "live": 16,
       "dead": 0
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇲🇾 Malaysia": {
       "total": 32,
       "live": 6,
       "dead": 26
     },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 6,
+      "dead": 18
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 8,
+      "dead": 7
     },
     "KIDS": {
       "total": 35,
