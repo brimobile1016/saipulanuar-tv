@@ -4,8 +4,8 @@
   "totalLive": 347,
   "totalDead": 674,
   "uptime": "33.99%",
-  "scanDuration": "65.1s",
-  "lastScan": "2026-10-30T15:09:24.088Z",
+  "scanDuration": "48.8s",
+  "lastScan": "2026-10-30T19:34:20.018Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -16,8 +16,8 @@
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 6,
-      "dead": 5
+      "live": 7,
+      "dead": 4
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
+      "live": 10,
+      "dead": 33
     },
     "SPORTS | BEIN": {
       "total": 25,
@@ -159,15 +159,15 @@
       "live": 25,
       "dead": 53
     },
-    "Movies": {
-      "total": 34,
-      "live": 7,
-      "dead": 27
-    },
     "MMA/UFC": {
       "total": 15,
       "live": 5,
       "dead": 10
+    },
+    "Movies": {
+      "total": 34,
+      "live": 7,
+      "dead": 27
     },
     "HBO GO": {
       "total": 10,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "🇰🇷 Korengan": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "🇨🇳 China": {
       "total": 19,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 8,
-      "dead": 7
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
@@ -241,23 +241,23 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
       "live": 30,
       "dead": 0
     },
-    "🐓ADU AYAM | SABUNG AYAM": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
-    },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "🐓ADU AYAM | SABUNG AYAM": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
     },
     "UPCOMING": {
       "total": 59,
