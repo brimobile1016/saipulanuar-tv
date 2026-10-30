@@ -1,28 +1,23 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 348,
-  "totalDead": 673,
-  "uptime": "34.08%",
-  "scanDuration": "58.5s",
-  "lastScan": "2026-10-30T00:08:48.711Z",
+  "totalLive": 347,
+  "totalDead": 674,
+  "uptime": "33.99%",
+  "scanDuration": "65.1s",
+  "lastScan": "2026-10-30T15:09:24.088Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 348,
-      "dead": 673
+      "live": 347,
+      "dead": 674
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
-    },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
+      "live": 6,
+      "dead": 5
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
@@ -33,6 +28,11 @@
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 29,
-      "dead": 30
+      "live": 30,
+      "dead": 29
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 10,
-      "dead": 33
+      "live": 11,
+      "dead": 32
     },
     "SPORTS | BEIN": {
       "total": 25,
@@ -159,15 +159,15 @@
       "live": 25,
       "dead": 53
     },
-    "MMA/UFC": {
-      "total": 15,
-      "live": 5,
-      "dead": 10
-    },
     "Movies": {
       "total": 34,
       "live": 7,
       "dead": 27
+    },
+    "MMA/UFC": {
+      "total": 15,
+      "live": 5,
+      "dead": 10
     },
     "HBO GO": {
       "total": 10,
@@ -179,11 +179,6 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
@@ -193,6 +188,11 @@
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 5,
+      "dead": 19
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 8,
+      "dead": 7
     },
     "KIDS": {
       "total": 35,
@@ -241,23 +241,23 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 48,
-      "dead": 19
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
       "live": 30,
       "dead": 0
     },
-    "LIVE FOOTBALL | XOILACZ AI": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
+    },
+    "LIVE FOOTBALL | XOILACZ AI": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "UPCOMING": {
       "total": 59,
