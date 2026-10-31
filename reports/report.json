@@ -4,8 +4,8 @@
   "totalLive": 348,
   "totalDead": 673,
   "uptime": "34.08%",
-  "scanDuration": "51.1s",
-  "lastScan": "2026-10-31T18:40:55.374Z",
+  "scanDuration": "53.6s",
+  "lastScan": "2026-10-31T23:34:08.537Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -96,8 +96,8 @@
     },
     "SPORTS": {
       "total": 59,
-      "live": 30,
-      "dead": 29
+      "live": 29,
+      "dead": 30
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -134,15 +134,15 @@
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 23,
-      "dead": 55
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -179,6 +179,11 @@
       "live": 3,
       "dead": 5
     },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
+    },
     "News": {
       "total": 20,
       "live": 13,
@@ -189,20 +194,15 @@
       "live": 1,
       "dead": 4
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
-    },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 6,
+      "dead": 18
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -249,15 +249,15 @@
       "live": 30,
       "dead": 0
     },
-    "🐓ADU AYAM | SABUNG AYAM": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
-    },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "🐓ADU AYAM | SABUNG AYAM": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
     },
     "UPCOMING": {
       "total": 59,
