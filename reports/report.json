@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 347,
-  "totalDead": 674,
-  "uptime": "33.99%",
-  "scanDuration": "54.6s",
-  "lastScan": "2026-11-01T15:20:33.969Z",
+  "totalLive": 348,
+  "totalDead": 673,
+  "uptime": "34.08%",
+  "scanDuration": "62.6s",
+  "lastScan": "2026-11-01T19:02:25.235Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 347,
-      "dead": 674
+      "live": 348,
+      "dead": 673
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 0,
       "dead": 6
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "EVENT 014/MARET/2026": {
       "total": 10,
       "live": 5,
       "dead": 5
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 8,
-      "dead": 43
+      "live": 9,
+      "dead": 42
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -136,8 +136,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 20,
-      "dead": 5
+      "live": 19,
+      "dead": 6
     },
     "FIFA+": {
       "total": 9,
@@ -209,20 +209,20 @@
       "live": 16,
       "dead": 0
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 4,
-      "dead": 7
-    },
     "🇲🇾 Malaysia": {
       "total": 32,
       "live": 6,
       "dead": 26
     },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 4,
+      "dead": 7
+    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 5,
-      "dead": 19
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
