@@ -4,8 +4,8 @@
   "totalLive": 348,
   "totalDead": 673,
   "uptime": "34.08%",
-  "scanDuration": "62.6s",
-  "lastScan": "2026-11-01T19:02:25.235Z",
+  "scanDuration": "64.4s",
+  "lastScan": "2026-11-01T23:48:38.198Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -19,11 +19,6 @@
       "live": 7,
       "dead": 4
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "EVENT 014/MARET/2026": {
       "total": 10,
       "live": 5,
@@ -33,6 +28,11 @@
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -54,6 +54,11 @@
       "live": 1,
       "dead": 8
     },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
+    },
     "LIGA SPANYOL": {
       "total": 8,
       "live": 4,
@@ -63,11 +68,6 @@
       "total": 7,
       "live": 1,
       "dead": 6
-    },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
-      "live": 0,
-      "dead": 20
     },
     "INDONESIA TV": {
       "total": 65,
@@ -131,18 +131,18 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 10,
-      "dead": 33
-    },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 19,
-      "dead": 6
+      "live": 11,
+      "dead": 32
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -209,20 +209,20 @@
       "live": 16,
       "dead": 0
     },
-    "🇲🇾 Malaysia": {
-      "total": 32,
-      "live": 6,
-      "dead": 26
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
     },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 6,
+      "dead": 26
+    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 6,
+      "dead": 18
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -246,8 +246,8 @@
     },
     "TVRI DAERAH": {
       "total": 30,
-      "live": 30,
-      "dead": 0
+      "live": 29,
+      "dead": 1
     },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
