@@ -4,8 +4,8 @@
   "totalLive": 348,
   "totalDead": 673,
   "uptime": "34.08%",
-  "scanDuration": "67.0s",
-  "lastScan": "2026-11-02T18:36:31.274Z",
+  "scanDuration": "55.2s",
+  "lastScan": "2026-11-02T22:50:55.521Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -16,12 +16,12 @@
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 6,
+      "dead": 5
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 4,
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
       "dead": 6
     },
     "BWF BADMINTON & VOLLEYBALL": {
@@ -29,10 +29,10 @@
       "live": 3,
       "dead": 8
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -111,28 +111,28 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 14,
-      "dead": 28
+      "live": 15,
+      "dead": 27
     },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
       "live": 11,
       "dead": 32
+    },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
     },
     "FIFA+": {
       "total": 9,
