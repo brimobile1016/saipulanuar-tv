@@ -1,22 +1,27 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 348,
-  "totalDead": 673,
-  "uptime": "34.08%",
-  "scanDuration": "55.2s",
-  "lastScan": "2026-11-02T22:50:55.521Z",
+  "totalLive": 350,
+  "totalDead": 671,
+  "uptime": "34.28%",
+  "scanDuration": "68.5s",
+  "lastScan": "2026-11-03T02:33:52.815Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 348,
-      "dead": 673
+      "live": 350,
+      "dead": 671
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 6,
+      "live": 7,
+      "dead": 4
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
       "dead": 5
     },
     "CHAMPIONS TV": {
@@ -28,11 +33,6 @@
       "total": 11,
       "live": 3,
       "dead": 8
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -64,15 +64,15 @@
       "live": 1,
       "dead": 6
     },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
-      "live": 0,
-      "dead": 20
-    },
     "INDONESIA TV": {
       "total": 65,
       "live": 25,
       "dead": 40
+    },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
     },
     "ARENA SPORT": {
       "total": 13,
@@ -111,8 +111,8 @@
     },
     "HIBURAN": {
       "total": 51,
-      "live": 8,
-      "dead": 43
+      "live": 9,
+      "dead": 42
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -124,25 +124,25 @@
       "live": 0,
       "dead": 10
     },
-    "🇮🇳 SPORTS | INDIA": {
-      "total": 43,
-      "live": 11,
-      "dead": 32
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
     },
-    "FIFA+": {
-      "total": 9,
-      "live": 9,
-      "dead": 0
+    "🇮🇳 SPORTS | INDIA": {
+      "total": 43,
+      "live": 11,
+      "dead": 32
     },
     "SPORTS | BEIN": {
       "total": 25,
       "live": 20,
       "dead": 5
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "News": {
-      "total": 20,
-      "live": 13,
-      "dead": 7
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "News": {
+      "total": 20,
+      "live": 13,
+      "dead": 7
     },
     "🇰🇷 Korengan": {
       "total": 5,
