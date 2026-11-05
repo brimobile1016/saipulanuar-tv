@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 343,
-  "totalDead": 678,
-  "uptime": "33.59%",
-  "scanDuration": "65.0s",
-  "lastScan": "2026-11-05T16:36:19.275Z",
+  "totalLive": 342,
+  "totalDead": 679,
+  "uptime": "33.50%",
+  "scanDuration": "67.2s",
+  "lastScan": "2026-11-05T21:10:04.953Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 343,
-      "dead": 678
+      "live": 342,
+      "dead": 679
     }
   },
   "channelStatistics": {
@@ -18,11 +18,6 @@
       "total": 11,
       "live": 7,
       "dead": 4
-    },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
@@ -33,6 +28,11 @@
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -124,15 +124,15 @@
       "live": 0,
       "dead": 10
     },
-    "🇮🇳 SPORTS | INDIA": {
-      "total": 43,
-      "live": 10,
-      "dead": 33
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "🇮🇳 SPORTS | INDIA": {
+      "total": 43,
+      "live": 11,
+      "dead": 32
     },
     "SPORTS | BEIN": {
       "total": 25,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -209,15 +209,15 @@
       "live": 16,
       "dead": 0
     },
-    "🇲🇾 Malaysia": {
-      "total": 32,
-      "live": 6,
-      "dead": 26
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 4,
       "dead": 7
+    },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 6,
+      "dead": 26
     },
     "🇸🇬 Singapore": {
       "total": 24,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 48,
+      "dead": 19
     },
     "TVRI DAERAH": {
       "total": 30,
