@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 340,
-  "totalDead": 681,
-  "uptime": "33.30%",
-  "scanDuration": "64.1s",
-  "lastScan": "2026-11-06T16:04:14.150Z",
+  "totalLive": 341,
+  "totalDead": 680,
+  "uptime": "33.40%",
+  "scanDuration": "67.3s",
+  "lastScan": "2026-11-06T20:30:25.823Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 340,
-      "dead": 681
+      "live": 341,
+      "dead": 680
     }
   },
   "channelStatistics": {
@@ -19,20 +19,20 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -124,25 +124,25 @@
       "live": 0,
       "dead": 10
     },
-    "🇮🇳 SPORTS | INDIA": {
-      "total": 43,
-      "live": 11,
-      "dead": 32
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
     },
-    "FIFA+": {
-      "total": 9,
-      "live": 9,
-      "dead": 0
+    "🇮🇳 SPORTS | INDIA": {
+      "total": 43,
+      "live": 11,
+      "dead": 32
     },
     "SPORTS | BEIN": {
       "total": 25,
       "live": 20,
       "dead": 5
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 5,
-      "dead": 19
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 50,
-      "dead": 17
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
