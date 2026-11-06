@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 342,
-  "totalDead": 679,
-  "uptime": "33.50%",
-  "scanDuration": "67.2s",
-  "lastScan": "2026-11-05T21:10:04.953Z",
+  "totalLive": 340,
+  "totalDead": 681,
+  "uptime": "33.30%",
+  "scanDuration": "55.9s",
+  "lastScan": "2026-11-06T01:04:15.663Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 342,
-      "dead": 679
+      "live": 340,
+      "dead": 681
     }
   },
   "channelStatistics": {
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
+      "live": 9,
+      "dead": 34
     },
     "SPORTS | BEIN": {
       "total": 25,
@@ -184,25 +184,25 @@
       "live": 13,
       "dead": 7
     },
-    "🇰🇷 Korengan": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 9,
-      "dead": 6
+      "live": 8,
+      "dead": 7
     },
     "KIDS": {
       "total": 35,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 48,
-      "dead": 19
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
