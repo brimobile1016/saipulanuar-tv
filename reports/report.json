@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 341,
-  "totalDead": 680,
-  "uptime": "33.40%",
-  "scanDuration": "67.3s",
-  "lastScan": "2026-11-06T20:30:25.823Z",
+  "totalLive": 327,
+  "totalDead": 694,
+  "uptime": "32.03%",
+  "scanDuration": "69.5s",
+  "lastScan": "2026-11-07T00:14:23.383Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 341,
-      "dead": 680
+      "live": 327,
+      "dead": 694
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 2,
+      "dead": 9
+    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
-    },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -84,11 +84,6 @@
       "live": 0,
       "dead": 11
     },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
-    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -98,6 +93,11 @@
       "total": 59,
       "live": 29,
       "dead": 30
+    },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -126,23 +126,23 @@
     },
     "TV SONY": {
       "total": 7,
-      "live": 4,
-      "dead": 3
+      "live": 0,
+      "dead": 7
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 11,
+      "dead": 14
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -159,15 +159,15 @@
       "live": 25,
       "dead": 53
     },
-    "MMA/UFC": {
-      "total": 15,
-      "live": 5,
-      "dead": 10
-    },
     "Movies": {
       "total": 34,
       "live": 7,
       "dead": 27
+    },
+    "MMA/UFC": {
+      "total": 15,
+      "live": 5,
+      "dead": 10
     },
     "HBO GO": {
       "total": 10,
@@ -179,11 +179,6 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
@@ -193,6 +188,11 @@
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
