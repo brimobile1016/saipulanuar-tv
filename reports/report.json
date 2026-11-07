@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 322,
-  "totalDead": 699,
-  "uptime": "31.54%",
-  "scanDuration": "77.6s",
-  "lastScan": "2026-11-07T18:58:55.928Z",
+  "totalLive": 326,
+  "totalDead": 695,
+  "uptime": "31.93%",
+  "scanDuration": "72.4s",
+  "lastScan": "2026-11-07T23:50:31.633Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 322,
-      "dead": 699
+      "live": 326,
+      "dead": 695
     }
   },
   "channelStatistics": {
@@ -18,6 +18,11 @@
       "total": 11,
       "live": 7,
       "dead": 4
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "CHAMPIONS TV": {
       "total": 6,
@@ -28,11 +33,6 @@
       "total": 10,
       "live": 5,
       "dead": 5
-    },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -56,23 +56,23 @@
     },
     "LIGA SPANYOL": {
       "total": 8,
-      "live": 0,
-      "dead": 8
-    },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
-      "live": 0,
-      "dead": 20
+      "live": 4,
+      "dead": 4
     },
     "LIGA JERMAN": {
       "total": 7,
-      "live": 0,
-      "dead": 7
+      "live": 1,
+      "dead": 6
     },
     "INDONESIA TV": {
       "total": 65,
       "live": 22,
       "dead": 43
+    },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
     },
     "ARENA SPORT": {
       "total": 13,
@@ -84,6 +84,11 @@
       "live": 0,
       "dead": 11
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -93,11 +98,6 @@
       "total": 59,
       "live": 29,
       "dead": 30
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 5,
+      "dead": 19
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -236,8 +236,8 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 13,
-      "dead": 22
+      "live": 14,
+      "dead": 21
     },
     "MUSIC": {
       "total": 67,
