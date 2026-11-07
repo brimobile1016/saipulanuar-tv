@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 328,
-  "totalDead": 693,
-  "uptime": "32.13%",
-  "scanDuration": "64.3s",
-  "lastScan": "2026-11-07T14:59:00.461Z",
+  "totalLive": 322,
+  "totalDead": 699,
+  "uptime": "31.54%",
+  "scanDuration": "77.6s",
+  "lastScan": "2026-11-07T18:58:55.928Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 328,
-      "dead": 693
+      "live": 322,
+      "dead": 699
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 0,
       "dead": 6
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "EVENT 014/MARET/2026": {
       "total": 10,
       "live": 5,
       "dead": 5
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -56,18 +56,18 @@
     },
     "LIGA SPANYOL": {
       "total": 8,
-      "live": 4,
-      "dead": 4
-    },
-    "LIGA JERMAN": {
-      "total": 7,
-      "live": 1,
-      "dead": 6
+      "live": 0,
+      "dead": 8
     },
     "LIGA CHAMPION🏆": {
       "total": 20,
       "live": 0,
       "dead": 20
+    },
+    "LIGA JERMAN": {
+      "total": 7,
+      "live": 0,
+      "dead": 7
     },
     "INDONESIA TV": {
       "total": 65,
@@ -84,11 +84,6 @@
       "live": 0,
       "dead": 11
     },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
-    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -99,15 +94,20 @@
       "live": 29,
       "dead": 30
     },
-    "Sports Visionplus": {
-      "total": 12,
-      "live": 2,
-      "dead": 10
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
       "live": 3,
       "dead": 4
+    },
+    "Sports Visionplus": {
+      "total": 12,
+      "live": 2,
+      "dead": 10
     },
     "HIBURAN": {
       "total": 51,
@@ -141,8 +141,8 @@
     },
     "SPORTS | BEIN": {
       "total": 25,
-      "live": 10,
-      "dead": 15
+      "live": 11,
+      "dead": 14
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
       "dead": 7
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -236,13 +236,13 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 14,
-      "dead": 21
+      "live": 13,
+      "dead": 22
     },
     "MUSIC": {
       "total": 67,
-      "live": 50,
-      "dead": 17
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
