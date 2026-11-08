@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 326,
-  "totalDead": 695,
-  "uptime": "31.93%",
-  "scanDuration": "72.4s",
-  "lastScan": "2026-11-07T23:50:31.633Z",
+  "totalLive": 327,
+  "totalDead": 694,
+  "uptime": "32.03%",
+  "scanDuration": "68.6s",
+  "lastScan": "2026-11-08T15:26:31.406Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 326,
-      "dead": 695
+      "live": 327,
+      "dead": 694
     }
   },
   "channelStatistics": {
@@ -18,6 +18,11 @@
       "total": 11,
       "live": 7,
       "dead": 4
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
@@ -28,11 +33,6 @@
       "total": 6,
       "live": 0,
       "dead": 6
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -99,20 +99,20 @@
       "live": 29,
       "dead": 30
     },
-    "📺TV nya KLUB BOLA": {
-      "total": 7,
-      "live": 3,
-      "dead": 4
-    },
     "Sports Visionplus": {
       "total": 12,
       "live": 2,
       "dead": 10
     },
+    "📺TV nya KLUB BOLA": {
+      "total": 7,
+      "live": 3,
+      "dead": 4
+    },
     "HIBURAN": {
       "total": 51,
-      "live": 9,
-      "dead": 42
+      "live": 8,
+      "dead": 43
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 5,
-      "dead": 19
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -249,15 +249,15 @@
       "live": 30,
       "dead": 0
     },
-    "LIVE FOOTBALL | XOILACZ AI": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
+    },
+    "LIVE FOOTBALL | XOILACZ AI": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "UPCOMING": {
       "total": 59,

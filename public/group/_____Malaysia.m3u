@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BERITARTM" tvg-name="Berita RTM" tvg-logo="https://warningfm.github.io/v3/img/twIcy62.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇲🇾 Malaysia",Berita RTM
-http://khano.nng.cloudns.us/live/m3u8/my/BeritaRTM/index.m3u8
 #EXTINF:-1 tvg-id="TV1.HD.my" tvg-name="TV1 HD" tvg-logo="https://warningfm.github.io/v3/img/BCopt1L.png?v=1.1.1.1" tvg-country="" tvg-language="" group-title="🇲🇾 Malaysia",TV1 HD
 http://khano.nng.cloudns.us/live/m3u8/my/Tv1/index.m3u8
+#EXTINF:-1 tvg-id="BERITARTM" tvg-name="Berita RTM" tvg-logo="https://warningfm.github.io/v3/img/twIcy62.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇲🇾 Malaysia",Berita RTM
+http://khano.nng.cloudns.us/live/m3u8/my/BeritaRTM/index.m3u8
 #EXTINF:-1 tvg-id="TV2.HD.my" tvg-name="TV2 HD" tvg-logo="https://warningfm.github.io/v3/img/JVfkufE.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇲🇾 Malaysia",TV2 HD
 http://khano.nng.cloudns.us/live/m3u8/my/Tv2/index.m3u8
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://warningfm.github.io/v3/img/vklYc3t.png?v=1.0.0.1" tvg-country="" tvg-language="" group-title="🇲🇾 Malaysia",Astro Awani
