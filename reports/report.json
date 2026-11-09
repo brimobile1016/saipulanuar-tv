@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 328,
-  "totalDead": 693,
-  "uptime": "32.13%",
-  "scanDuration": "83.1s",
-  "lastScan": "2026-11-08T23:56:36.722Z",
+  "totalLive": 323,
+  "totalDead": 698,
+  "uptime": "31.64%",
+  "scanDuration": "67.6s",
+  "lastScan": "2026-11-09T18:58:49.020Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 328,
-      "dead": 693
+      "live": 323,
+      "dead": 698
     }
   },
   "channelStatistics": {
@@ -51,8 +51,8 @@
     },
     "LIGA ITALIA": {
       "total": 9,
-      "live": 1,
-      "dead": 8
+      "live": 0,
+      "dead": 9
     },
     "LIGA SPANYOL": {
       "total": 8,
@@ -119,30 +119,30 @@
       "live": 14,
       "dead": 28
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 0,
       "dead": 7
     },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
+    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
-    },
-    "FIFA+": {
-      "total": 9,
-      "live": 9,
-      "dead": 0
+      "live": 10,
+      "dead": 33
     },
     "SPORTS | BEIN": {
       "total": 25,
       "live": 11,
       "dead": 14
+    },
+    "FIFA+": {
+      "total": 9,
+      "live": 9,
+      "dead": 0
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -179,11 +179,6 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 13,
@@ -194,15 +189,20 @@
       "live": 1,
       "dead": 4
     },
-    "🇨🇳 China": {
-      "total": 19,
-      "live": 0,
-      "dead": 19
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇧🇳 Brunai": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "🇨🇳 China": {
+      "total": 19,
+      "live": 0,
+      "dead": 19
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 5,
+      "dead": 19
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -236,8 +236,8 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 14,
-      "dead": 21
+      "live": 13,
+      "dead": 22
     },
     "MUSIC": {
       "total": 67,
