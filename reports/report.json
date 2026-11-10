@@ -1,23 +1,23 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 339,
-  "totalDead": 682,
-  "uptime": "33.20%",
-  "scanDuration": "67.3s",
-  "lastScan": "2026-11-10T16:30:35.501Z",
+  "totalLive": 333,
+  "totalDead": 688,
+  "uptime": "32.62%",
+  "scanDuration": "81.3s",
+  "lastScan": "2026-11-10T20:57:21.094Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 339,
-      "dead": 682
+      "live": 333,
+      "dead": 688
     }
   },
   "channelStatistics": {
     "EVENT 015/MARET/2026": {
       "total": 11,
-      "live": 7,
-      "dead": 4
+      "live": 5,
+      "dead": 6
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
@@ -56,8 +56,8 @@
     },
     "LIGA SPANYOL": {
       "total": 8,
-      "live": 4,
-      "dead": 4
+      "live": 3,
+      "dead": 5
     },
     "LIGA JERMAN": {
       "total": 7,
@@ -116,33 +116,33 @@
     },
     "KNOWLEDGE & DOCUMENTARY": {
       "total": 42,
-      "live": 13,
-      "dead": 29
-    },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
+      "live": 14,
+      "dead": 28
     },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
     },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
+    },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
-    },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 19,
-      "dead": 6
+      "live": 10,
+      "dead": 33
     },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇯🇵 TV JEPANG": {
-      "total": 16,
-      "live": 16,
-      "dead": 0
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 0,
       "dead": 11
+    },
+    "🇯🇵 TV JEPANG": {
+      "total": 16,
+      "live": 16,
+      "dead": 0
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -236,13 +236,13 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 14,
-      "dead": 21
+      "live": 13,
+      "dead": 22
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 46,
+      "dead": 21
     },
     "TVRI DAERAH": {
       "total": 30,
