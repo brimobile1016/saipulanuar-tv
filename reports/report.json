@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 337,
-  "totalDead": 684,
-  "uptime": "33.01%",
-  "scanDuration": "86.3s",
-  "lastScan": "2026-11-11T16:25:06.044Z",
+  "totalLive": 339,
+  "totalDead": 682,
+  "uptime": "33.20%",
+  "scanDuration": "76.1s",
+  "lastScan": "2026-11-11T21:30:16.463Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 337,
-      "dead": 684
+      "live": 339,
+      "dead": 682
     }
   },
   "channelStatistics": {
@@ -21,8 +21,8 @@
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
-      "live": 4,
-      "dead": 6
+      "live": 5,
+      "dead": 5
     },
     "CHAMPIONS TV": {
       "total": 6,
@@ -51,13 +51,8 @@
     },
     "LIGA ITALIA": {
       "total": 9,
-      "live": 1,
-      "dead": 8
-    },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
       "live": 0,
-      "dead": 20
+      "dead": 9
     },
     "LIGA SPANYOL": {
       "total": 8,
@@ -73,6 +68,11 @@
       "total": 65,
       "live": 22,
       "dead": 43
+    },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
     },
     "ARENA SPORT": {
       "total": 13,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 10,
-      "dead": 33
+      "live": 11,
+      "dead": 32
     },
     "FIFA+": {
       "total": 9,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "🇰🇷 Korengan": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "🇰🇷 Korengan": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "🇨🇳 China": {
       "total": 19,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 5,
-      "dead": 19
+      "live": 7,
+      "dead": 17
     },
     "🇵🇭 Philippines": {
       "total": 5,
