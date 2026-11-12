@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 339,
-  "totalDead": 682,
-  "uptime": "33.20%",
-  "scanDuration": "76.1s",
-  "lastScan": "2026-11-11T21:30:16.463Z",
+  "totalLive": 341,
+  "totalDead": 680,
+  "uptime": "33.40%",
+  "scanDuration": "74.8s",
+  "lastScan": "2026-11-12T01:59:23.848Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 339,
-      "dead": 682
+      "live": 341,
+      "dead": 680
     }
   },
   "channelStatistics": {
@@ -51,8 +51,8 @@
     },
     "LIGA ITALIA": {
       "total": 9,
-      "live": 0,
-      "dead": 9
+      "live": 1,
+      "dead": 8
     },
     "LIGA SPANYOL": {
       "total": 8,
@@ -64,15 +64,15 @@
       "live": 1,
       "dead": 6
     },
-    "INDONESIA TV": {
-      "total": 65,
-      "live": 22,
-      "dead": 43
-    },
     "LIGA CHAMPION🏆": {
       "total": 20,
       "live": 0,
       "dead": 20
+    },
+    "INDONESIA TV": {
+      "total": 65,
+      "live": 22,
+      "dead": 43
     },
     "ARENA SPORT": {
       "total": 13,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 24,
-      "dead": 54
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇯🇵 TV JEPANG": {
-      "total": 16,
-      "live": 16,
-      "dead": 0
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 0,
       "dead": 11
+    },
+    "🇯🇵 TV JEPANG": {
+      "total": 16,
+      "live": 16,
+      "dead": 0
     },
     "🇲🇾 Malaysia": {
       "total": 32,
