@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 335,
-  "totalDead": 686,
-  "uptime": "32.81%",
-  "scanDuration": "89.9s",
-  "lastScan": "2026-11-13T16:36:26.104Z",
+  "totalLive": 336,
+  "totalDead": 685,
+  "uptime": "32.91%",
+  "scanDuration": "72.0s",
+  "lastScan": "2026-11-13T20:57:36.112Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 335,
-      "dead": 686
+      "live": 336,
+      "dead": 685
     }
   },
   "channelStatistics": {
@@ -21,18 +21,18 @@
     },
     "EVENT 014/MARET/2026": {
       "total": 10,
-      "live": 5,
-      "dead": 5
-    },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
+      "live": 4,
       "dead": 6
     },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -51,8 +51,8 @@
     },
     "LIGA ITALIA": {
       "total": 9,
-      "live": 0,
-      "dead": 9
+      "live": 1,
+      "dead": 8
     },
     "LIGA SPANYOL": {
       "total": 8,
@@ -64,15 +64,15 @@
       "live": 1,
       "dead": 6
     },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
-      "live": 0,
-      "dead": 20
-    },
     "INDONESIA TV": {
       "total": 65,
       "live": 22,
       "dead": 43
+    },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
     },
     "ARENA SPORT": {
       "total": 13,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 23,
-      "dead": 55
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 0,
-      "dead": 11
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 0,
+      "dead": 11
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 4,
-      "dead": 20
+      "live": 5,
+      "dead": 19
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -236,13 +236,13 @@
     },
     "KIDS": {
       "total": 35,
-      "live": 14,
-      "dead": 21
+      "live": 13,
+      "dead": 22
     },
     "MUSIC": {
       "total": 67,
-      "live": 50,
-      "dead": 17
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
