@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 339,
-  "totalDead": 682,
-  "uptime": "33.20%",
-  "scanDuration": "71.5s",
-  "lastScan": "2026-11-17T22:32:42.792Z",
+  "totalLive": 341,
+  "totalDead": 680,
+  "uptime": "33.40%",
+  "scanDuration": "67.5s",
+  "lastScan": "2026-11-18T02:32:41.832Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 339,
-      "dead": 682
+      "live": 341,
+      "dead": 680
     }
   },
   "channelStatistics": {
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
-    "CHAMPIONS TV": {
-      "total": 6,
-      "live": 0,
-      "dead": 6
-    },
     "BWF BADMINTON & VOLLEYBALL": {
       "total": 11,
       "live": 3,
       "dead": 8
+    },
+    "CHAMPIONS TV": {
+      "total": 6,
+      "live": 0,
+      "dead": 6
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -71,8 +71,8 @@
     },
     "INDONESIA TV": {
       "total": 65,
-      "live": 21,
-      "dead": 44
+      "live": 22,
+      "dead": 43
     },
     "ARENA SPORT": {
       "total": 13,
@@ -184,15 +184,15 @@
       "live": 13,
       "dead": 7
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -231,8 +231,8 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 8,
-      "dead": 7
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
