@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvht3Vvx9Gz1UNHKukYRaAoEyqhhCc1IHt2qkVAE-e3AKEiI8Tuncnvmj&s=10" tvg-country="" tvg-language="" group-title="LIGA SPANYOL",BEIN SPORTS 2 AU
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsjcNy_IDohefZUIH1APnJwclfHByEcy6_w&s" tvg-country="" tvg-language="" group-title="LIGA SPANYOL",BEIN SPORTS 3 AU
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2021/07/Premier-Sports-1.png" tvg-country="" tvg-language="" group-title="LIGA SPANYOL",Premiere Sports 1 UK
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2021/07/Premier-Sports-2.png" tvg-country="" tvg-language="" group-title="LIGA SPANYOL",Premiere Sports 2 UK
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2021/07/Premier-Sports-1.png" tvg-country="" tvg-language="" group-title="LIGA SPANYOL",Premiere Sports 1 UK
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsjcNy_IDohefZUIH1APnJwclfHByEcy6_w&s" tvg-country="" tvg-language="" group-title="LIGA SPANYOL",BEIN SPORTS 3 AU
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
