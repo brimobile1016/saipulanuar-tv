@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 334,
-  "totalDead": 687,
-  "uptime": "32.71%",
-  "scanDuration": "80.7s",
-  "lastScan": "2026-11-19T22:21:51.406Z",
+  "totalLive": 336,
+  "totalDead": 685,
+  "uptime": "32.91%",
+  "scanDuration": "69.6s",
+  "lastScan": "2026-11-20T01:52:12.930Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 334,
-      "dead": 687
+      "live": 336,
+      "dead": 685
     }
   },
   "channelStatistics": {
@@ -64,15 +64,15 @@
       "live": 1,
       "dead": 6
     },
-    "INDONESIA TV": {
-      "total": 65,
-      "live": 22,
-      "dead": 43
-    },
     "LIGA CHAMPION🏆": {
       "total": 20,
       "live": 0,
       "dead": 20
+    },
+    "INDONESIA TV": {
+      "total": 65,
+      "live": 22,
+      "dead": 43
     },
     "ARENA SPORT": {
       "total": 13,
@@ -131,8 +131,8 @@
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
-      "live": 11,
-      "dead": 32
+      "live": 10,
+      "dead": 33
     },
     "FIFA+": {
       "total": 9,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 24,
-      "dead": 54
+      "live": 25,
+      "dead": 53
     },
     "MMA/UFC": {
       "total": 15,
@@ -204,15 +204,15 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 0,
-      "dead": 11
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
       "dead": 0
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 0,
+      "dead": 11
     },
     "🇲🇾 Malaysia": {
       "total": 32,
@@ -221,13 +221,13 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
-      "live": 2,
-      "dead": 3
+      "live": 3,
+      "dead": 2
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
