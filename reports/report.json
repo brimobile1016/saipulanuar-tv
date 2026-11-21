@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 337,
-  "totalDead": 684,
-  "uptime": "33.01%",
-  "scanDuration": "82.2s",
-  "lastScan": "2026-11-21T16:16:35.458Z",
+  "totalLive": 336,
+  "totalDead": 685,
+  "uptime": "32.91%",
+  "scanDuration": "86.2s",
+  "lastScan": "2026-11-21T20:38:20.988Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 337,
-      "dead": 684
+      "live": 336,
+      "dead": 685
     }
   },
   "channelStatistics": {
@@ -19,25 +19,25 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
-    "EVENT 014/MARET/2026": {
-      "total": 10,
-      "live": 5,
-      "dead": 5
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
     },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
+    },
     "BRI SUPER LEAGUE": {
       "total": 2,
       "live": 0,
       "dead": 2
+    },
+    "EVENT 014/MARET/2026": {
+      "total": 10,
+      "live": 5,
+      "dead": 5
     },
     "0❗❗❗JOIN KE TELE UNTUK UPDATE PL❗❗❗": {
       "total": 1,
@@ -64,15 +64,15 @@
       "live": 1,
       "dead": 6
     },
-    "INDONESIA TV": {
-      "total": 65,
-      "live": 22,
-      "dead": 43
-    },
     "LIGA CHAMPION🏆": {
       "total": 20,
       "live": 0,
       "dead": 20
+    },
+    "INDONESIA TV": {
+      "total": 65,
+      "live": 22,
+      "dead": 43
     },
     "ARENA SPORT": {
       "total": 13,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 24,
+      "dead": 54
     },
     "MMA/UFC": {
       "total": 15,
@@ -184,15 +184,15 @@
       "live": 12,
       "dead": 8
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "🇰🇷 Korengan": {
       "total": 5,
       "live": 1,
       "dead": 4
+    },
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
@@ -249,15 +249,15 @@
       "live": 30,
       "dead": 0
     },
-    "LIVE FOOTBALL | XOILACZ AI": {
-      "total": 5,
-      "live": 1,
-      "dead": 4
-    },
     "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
+    },
+    "LIVE FOOTBALL | XOILACZ AI": {
+      "total": 5,
+      "live": 1,
+      "dead": 4
     },
     "UPCOMING": {
       "total": 59,
