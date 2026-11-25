@@ -4,8 +4,8 @@
   "totalLive": 338,
   "totalDead": 683,
   "uptime": "33.10%",
-  "scanDuration": "81.4s",
-  "lastScan": "2026-11-24T23:35:40.991Z",
+  "scanDuration": "71.7s",
+  "lastScan": "2026-11-25T03:41:49.842Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -24,15 +24,15 @@
       "live": 5,
       "dead": 5
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "CHAMPIONS TV": {
       "total": 6,
       "live": 0,
       "dead": 6
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "BRI SUPER LEAGUE": {
       "total": 2,
@@ -64,15 +64,15 @@
       "live": 1,
       "dead": 6
     },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
-      "live": 0,
-      "dead": 20
-    },
     "INDONESIA TV": {
       "total": 65,
       "live": 22,
       "dead": 43
+    },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
     },
     "ARENA SPORT": {
       "total": 13,
@@ -204,11 +204,6 @@
       "live": 0,
       "dead": 2
     },
-    "🇮🇳 Hindi": {
-      "total": 11,
-      "live": 0,
-      "dead": 11
-    },
     "🇯🇵 TV JEPANG": {
       "total": 16,
       "live": 16,
@@ -218,6 +213,11 @@
       "total": 32,
       "live": 6,
       "dead": 26
+    },
+    "🇮🇳 Hindi": {
+      "total": 11,
+      "live": 0,
+      "dead": 11
     },
     "🇸🇬 Singapore": {
       "total": 24,
