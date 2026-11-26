@@ -1,16 +1,16 @@
 {
   "totalPlaylist": 1,
   "totalChannel": 1021,
-  "totalLive": 336,
-  "totalDead": 685,
-  "uptime": "32.91%",
-  "scanDuration": "46.2s",
-  "lastScan": "2026-11-26T03:00:02.272Z",
+  "totalLive": 332,
+  "totalDead": 689,
+  "uptime": "32.52%",
+  "scanDuration": "85.5s",
+  "lastScan": "2026-11-26T18:32:11.800Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
-      "live": 336,
-      "dead": 685
+      "live": 332,
+      "dead": 689
     }
   },
   "channelStatistics": {
@@ -51,8 +51,8 @@
     },
     "LIGA ITALIA": {
       "total": 9,
-      "live": 1,
-      "dead": 8
+      "live": 0,
+      "dead": 9
     },
     "LIGA SPANYOL": {
       "total": 8,
@@ -84,11 +84,6 @@
       "live": 0,
       "dead": 11
     },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
-    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -99,10 +94,15 @@
       "live": 29,
       "dead": 30
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "📺TV nya KLUB BOLA": {
       "total": 7,
-      "live": 2,
-      "dead": 5
+      "live": 3,
+      "dead": 4
     },
     "Sports Visionplus": {
       "total": 12,
@@ -119,15 +119,15 @@
       "live": 10,
       "dead": 32
     },
-    "TV SONY": {
-      "total": 7,
-      "live": 4,
-      "dead": 3
-    },
     "TV STAR SPORT INDIA": {
       "total": 10,
       "live": 0,
       "dead": 10
+    },
+    "TV SONY": {
+      "total": 7,
+      "live": 4,
+      "dead": 3
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -179,11 +179,6 @@
       "live": 3,
       "dead": 5
     },
-    "Fashion": {
-      "total": 8,
-      "live": 5,
-      "dead": 3
-    },
     "News": {
       "total": 20,
       "live": 12,
@@ -194,15 +189,20 @@
       "live": 1,
       "dead": 4
     },
-    "🇧🇳 Brunai": {
-      "total": 2,
-      "live": 0,
-      "dead": 2
+    "Fashion": {
+      "total": 8,
+      "live": 5,
+      "dead": 3
     },
     "🇨🇳 China": {
       "total": 19,
       "live": 0,
       "dead": 19
+    },
+    "🇧🇳 Brunai": {
+      "total": 2,
+      "live": 0,
+      "dead": 2
     },
     "🇯🇵 TV JEPANG": {
       "total": 16,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 8,
-      "dead": 16
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -231,30 +231,35 @@
     },
     "Ukhuwah Islamiyah": {
       "total": 15,
-      "live": 10,
-      "dead": 5
+      "live": 9,
+      "dead": 6
     },
     "KIDS": {
       "total": 35,
-      "live": 13,
-      "dead": 22
+      "live": 10,
+      "dead": 25
     },
     "MUSIC": {
       "total": 67,
-      "live": 50,
-      "dead": 17
+      "live": 49,
+      "dead": 18
     },
     "TVRI DAERAH": {
       "total": 30,
       "live": 30,
       "dead": 0
     },
+    "🐓ADU AYAM | SABUNG AYAM": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
+    },
     "LIVE FOOTBALL | XOILACZ AI": {
       "total": 5,
       "live": 1,
       "dead": 4
     },
-    "🐓ADU AYAM | SABUNG AYAM": {
+    "LIVE EVENT | AFC Women’s Asian Cup": {
       "total": 1,
       "live": 0,
       "dead": 1
@@ -263,11 +268,6 @@
       "total": 59,
       "live": 0,
       "dead": 59
-    },
-    "LIVE EVENT | AFC Women’s Asian Cup": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
     }
   }
 }
