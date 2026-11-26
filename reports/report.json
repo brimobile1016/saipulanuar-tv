@@ -4,8 +4,8 @@
   "totalLive": 336,
   "totalDead": 685,
   "uptime": "32.91%",
-  "scanDuration": "82.2s",
-  "lastScan": "2026-11-25T23:12:42.842Z",
+  "scanDuration": "46.2s",
+  "lastScan": "2026-11-26T03:00:02.272Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -19,15 +19,15 @@
       "live": 7,
       "dead": 4
     },
-    "BWF BADMINTON & VOLLEYBALL": {
-      "total": 11,
-      "live": 3,
-      "dead": 8
-    },
     "EVENT 014/MARET/2026": {
       "total": 10,
       "live": 5,
       "dead": 5
+    },
+    "BWF BADMINTON & VOLLEYBALL": {
+      "total": 11,
+      "live": 3,
+      "dead": 8
     },
     "CHAMPIONS TV": {
       "total": 6,
@@ -84,6 +84,11 @@
       "live": 0,
       "dead": 11
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -93,11 +98,6 @@
       "total": 59,
       "live": 29,
       "dead": 30
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -119,15 +119,15 @@
       "live": 10,
       "dead": 32
     },
-    "TV STAR SPORT INDIA": {
-      "total": 10,
-      "live": 0,
-      "dead": 10
-    },
     "TV SONY": {
       "total": 7,
       "live": 4,
       "dead": 3
+    },
+    "TV STAR SPORT INDIA": {
+      "total": 10,
+      "live": 0,
+      "dead": 10
     },
     "🇮🇳 SPORTS | INDIA": {
       "total": 43,
@@ -179,15 +179,15 @@
       "live": 3,
       "dead": 5
     },
-    "News": {
-      "total": 20,
-      "live": 12,
-      "dead": 8
-    },
     "Fashion": {
       "total": 8,
       "live": 5,
       "dead": 3
+    },
+    "News": {
+      "total": 20,
+      "live": 12,
+      "dead": 8
     },
     "🇰🇷 Korengan": {
       "total": 5,
@@ -209,20 +209,20 @@
       "live": 16,
       "dead": 0
     },
-    "🇲🇾 Malaysia": {
-      "total": 32,
-      "live": 6,
-      "dead": 26
-    },
     "🇮🇳 Hindi": {
       "total": 11,
       "live": 0,
       "dead": 11
     },
+    "🇲🇾 Malaysia": {
+      "total": 32,
+      "live": 6,
+      "dead": 26
+    },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 9,
-      "dead": 15
+      "live": 8,
+      "dead": 16
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -241,8 +241,8 @@
     },
     "MUSIC": {
       "total": 67,
-      "live": 49,
-      "dead": 18
+      "live": 50,
+      "dead": 17
     },
     "TVRI DAERAH": {
       "total": 30,
@@ -259,15 +259,15 @@
       "live": 0,
       "dead": 1
     },
-    "LIVE EVENT | AFC Women’s Asian Cup": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
-    },
     "UPCOMING": {
       "total": 59,
       "live": 0,
       "dead": 59
+    },
+    "LIVE EVENT | AFC Women’s Asian Cup": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
     }
   }
 }
