@@ -4,8 +4,8 @@
   "totalLive": 332,
   "totalDead": 689,
   "uptime": "32.52%",
-  "scanDuration": "82.3s",
-  "lastScan": "2026-11-27T22:51:01.474Z",
+  "scanDuration": "90.0s",
+  "lastScan": "2026-11-28T02:54:45.175Z",
   "playlistStatistics": {
     "full": {
       "total": 1021,
@@ -64,15 +64,15 @@
       "live": 1,
       "dead": 6
     },
-    "LIGA CHAMPION🏆": {
-      "total": 20,
-      "live": 0,
-      "dead": 20
-    },
     "INDONESIA TV": {
       "total": 65,
       "live": 22,
       "dead": 43
+    },
+    "LIGA CHAMPION🏆": {
+      "total": 20,
+      "live": 0,
+      "dead": 20
     },
     "ARENA SPORT": {
       "total": 13,
@@ -84,6 +84,11 @@
       "live": 0,
       "dead": 11
     },
+    "HUB PREMIER & HUB SPORTS": {
+      "total": 13,
+      "live": 0,
+      "dead": 13
+    },
     "ASTRO": {
       "total": 1,
       "live": 0,
@@ -93,11 +98,6 @@
       "total": 59,
       "live": 29,
       "dead": 30
-    },
-    "HUB PREMIER & HUB SPORTS": {
-      "total": 13,
-      "live": 0,
-      "dead": 13
     },
     "📺TV nya KLUB BOLA": {
       "total": 7,
@@ -134,15 +134,15 @@
       "live": 11,
       "dead": 32
     },
-    "SPORTS | BEIN": {
-      "total": 25,
-      "live": 20,
-      "dead": 5
-    },
     "FIFA+": {
       "total": 9,
       "live": 9,
       "dead": 0
+    },
+    "SPORTS | BEIN": {
+      "total": 25,
+      "live": 20,
+      "dead": 5
     },
     "SPORTS | DSTV SUPER": {
       "total": 35,
@@ -156,8 +156,8 @@
     },
     "SPORTS PREMIUM": {
       "total": 78,
-      "live": 25,
-      "dead": 53
+      "live": 23,
+      "dead": 55
     },
     "MMA/UFC": {
       "total": 15,
@@ -221,8 +221,8 @@
     },
     "🇸🇬 Singapore": {
       "total": 24,
-      "live": 7,
-      "dead": 17
+      "live": 9,
+      "dead": 15
     },
     "🇵🇭 Philippines": {
       "total": 5,
@@ -254,17 +254,17 @@
       "live": 1,
       "dead": 4
     },
-    "🐓ADU AYAM | SABUNG AYAM": {
-      "total": 1,
-      "live": 0,
-      "dead": 1
-    },
     "UPCOMING": {
       "total": 59,
       "live": 0,
       "dead": 59
     },
     "LIVE EVENT | AFC Women’s Asian Cup": {
+      "total": 1,
+      "live": 0,
+      "dead": 1
+    },
+    "🐓ADU AYAM | SABUNG AYAM": {
       "total": 1,
       "live": 0,
       "dead": 1
